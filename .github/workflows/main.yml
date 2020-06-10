@@ -36,6 +36,7 @@ jobs:
         # git clone https://github.com/microsoft/vcpkg.git ${{runner.temp}}/vcpkg
         ls vcpkg #${{runner.temp}}
         python3 ./vcpkgx/.tools/parser.py ./vcpkg/ports/ -o ./vcpkgx/data
+        cd vcpkfx
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -am "Update libs.json"
