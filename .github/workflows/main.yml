@@ -6,9 +6,9 @@ name: Update libs
 # events but only for the master branch
 on:
   push:
-    branches: [ master, gh-action ]
+#     branches: [ master, gh-action ]
   schedule:
-    - cron: 0 * * * *
+    - cron: 5 * * * *
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -21,17 +21,29 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+      with:
+        path: vcpkgx
+
+    - uses: actions/checkout@v2
+      with:
+        repository: Microsoft/vcpkg
+        path: vcpkg
       
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: ls -al
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: |
-        git clone https://github.com/microsoft/vcpkg.git ${{runner.temp}}/vcpkg
-        ls ${{runner.temp}}
-        python3 ./.tools/parser.py ${{runner.temp}}/vcpkg/ports/ -o ./data
+        # git clone https://github.com/microsoft/vcpkg.git ${{runner.temp}}/vcpkg
+        ls vcpkg #${{runner.temp}}
+        python3 ./vcpkgx/.tools/parser.py ./vcpkg/ports/ -o ./vcpkgx/data
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git commit -am "Update libs.json"
         git push origin HEAD:${GITHUB_REF}
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        directory: vcpkgx
+        github_token: ${{ secrets.GITHUB_TOKEN }}
 
