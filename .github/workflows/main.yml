@@ -30,7 +30,7 @@ jobs:
     - name: Run a multi-line script
       run: |
         git clone https://github.com/microsoft/vcpkg.git ${{runner.temp}}/vcpkg
-        ls ${{temp}}
+        ls ${{runner.temp}}
         python3 ./.tools/parser.py ${{runner.temp}}/vcpkg/ports/ -o ./data
         git commit -am "Update libs.json"
         git push origin master
