@@ -14,16 +14,22 @@ fetch("/data/libs.json")
 
 function search(){
     var searchbox = document.getElementById("searchbox");
+    var regexopt = document.getElementById("regexopt");
     var cleanclass = searchbox.parentNode.className;
-    searchbox.parentNode.className+= " is-loading";
+    // searchbox.parentNode.className+= " is-loading";
     output = document.getElementById("searchResults");
     if(!DataStore){
         waiting =true
         return
     }
-        
+    console.log( )
     console.time("query");
-    result = Object.keys(DataStore).filter(key => key.indexOf(searchbox.value) !== -1)
+    if(!regexopt.checked){
+        result = Object.keys(DataStore).filter(key => key.indexOf(searchbox.value) !== -1);
+        
+    }else{
+        result = Object.keys(DataStore).filter(key => key.match(searchbox.value));
+    }
     console.timeEnd("query");
 
     curpage = 0;
@@ -31,7 +37,7 @@ function search(){
     updatePageBtnState();
 
     
-    searchbox.parentNode.className = cleanclass;
+    // searchbox.parentNode.className = cleanclass;
 }
 function renderResult(){
     console.time("clear");
@@ -39,6 +45,8 @@ function renderResult(){
     console.timeEnd("clear");
 
     console.time("render");
+    var resultsNB = document.getElementById("resultsNB");
+    resultsNB.innerHTML = result.length.toString();
     for(let match of result.slice(nbItemPerPage*curpage,nbItemPerPage*(curpage+1))){
         renderRow(match);
     }

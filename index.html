@@ -1,69 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>vcpkgx</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css" />
 </head>
+
 <body>
     <section class="section">
-    <div class="container">
-        <h1 class="title is-1">VCPKGX</h1>
-        <h1 class="subtitle is-2">A vcpkg explorer</h1>
-        <hr class="has-background-dark"/>
-        <div class="control is-medium ">
-            <input type="text" class="input is-medium is-primary is-rounded" oninput="search()" placeholder="Search vcpkg" id="searchbox"/>
+        <div class="container">
+            <h1 class="title is-1">VCPKGX</h1>
+            <h1 class="subtitle is-2">A vcpkg explorer</h1>
+            <hr class="has-background-dark" />
+            <div class="control is-medium ">
+                <input type="text" class="input is-medium is-primary is-rounded" oninput="search()"
+                    placeholder="Search vcpkg" id="searchbox" />
+
+            </div>
+            <div>
+                <nav class="level">
+                     <!-- Right side -->
+                     <div class="level-right">
+                        <div class="level-item">
+                            <label class="checkbox  is-pulled-right">
+                                <input type="checkbox" id="regexopt">
+                                Regex (JS flavor)
+                            </label>
+                        </div>
+                    </div>
+                    <!-- Left side -->
+                    <div class="level-left">
+                        <div class="level-item">
+                            <div class="tags has-addons">
+                                <span class="tag">Results:</span>
+                                <span class="tag is-primary" id="resultsNB"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                   
+            </div>
+            <div>
+                <table class="table is-fullwidth is-hoverable is-striped">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Descrition</th>
+                            <th>Version</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody id="searchResults">
+                    </tbody>
+                </table>
+            </div>
+            <hr />
+            <button class="button is-pulled-left" id="prevbtn" onclick="prevpage()">previous</button>
+            <button class="button is-pulled-right" id="nextbtn" onclick="nextpage()">next</button>
         </div>
-        <div>
-            <table class="table is-fullwidth is-hoverable is-striped" >
-                <thead>
-                    <tr>
-                        <th>Name</th>
-                        <th>Descrition</th>
-                        <th>Version</th>
-                        <th></th>
-                    </tr>
-                </thead>
-                <tbody id="searchResults">
-                </tbody>
-            </table>
-        </div>
-        <hr/>
-        <button class="button is-pulled-left" id="prevbtn" onclick="prevpage()">previous</button>
-        <button class="button is-pulled-right" id="nextbtn" onclick="nextpage()">next</button>
-    </div>
-    
+
     </section>
-    <div class="modal"id="modalbase">
+    <div class="modal" id="modalbase">
         <div class="modal-background"></div>
         <div class="modal-card">
-          <header class="modal-card-head">
-            <p class="modal-card-title" id="modalname">Modal title</p>
-            <button class="delete" aria-label="close" onclick="hiddeModal()"></button>
-          </header>
-          <section class="modal-card-body">
-            <div class="container">
-                <span class="tag is-primary is-medium" id="modalversion">Primary</span>
-            </div> 
-            <div class="box"> 
-                <p id="modaldescription"></p>
-            </div>
-            <div class="box">
-                <h2 class="subtitle">Build-Depends:</h2>
-                <div class="tags" id="modalbdepends">
-                    <span class="tag">One</span>
-                    <span class="tag">Two</span>
-                    <span class="tag">Three</span>
-                  </div>
-            </div>
-          </section>
-          <footer class="modal-card-foot">
-          </footer>
+            <header class="modal-card-head">
+                <p class="modal-card-title" id="modalname">Modal title</p>
+                <button class="delete" aria-label="close" onclick="hiddeModal()"></button>
+            </header>
+            <section class="modal-card-body">
+                <div class="container">
+                    <span class="tag is-primary is-medium" id="modalversion">Primary</span>
+                </div>
+                <div class="box">
+                    <p id="modaldescription"></p>
+                </div>
+                <div class="box">
+                    <h2 class="subtitle">Build-Depends:</h2>
+                    <div class="tags" id="modalbdepends">
+                        <span class="tag">One</span>
+                        <span class="tag">Two</span>
+                        <span class="tag">Three</span>
+                    </div>
+                </div>
+            </section>
+            <footer class="modal-card-foot">
+            </footer>
         </div>
-      </div>
-    
+    </div>
+
     <script src="/js/search.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </body>
+
 </html>
