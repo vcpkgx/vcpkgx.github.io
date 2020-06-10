@@ -33,4 +33,5 @@ jobs:
         ls ${{runner.temp}}
         python3 ./.tools/parser.py ${{runner.temp}}/vcpkg/ports/ -o ./data
         git commit -am "Update libs.json"
-        git push origin master
+        git push origin HEAD:${GITHUB_REF}
+
