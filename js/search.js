@@ -3,6 +3,7 @@ var DataStore=null;
 var result = [];
 var curpage = 0;
 var nbItemPerPage = 100;
+
 fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
@@ -25,18 +26,12 @@ function search(){
     result = Object.keys(DataStore).filter(key => key.indexOf(searchbox.value) !== -1)
     console.timeEnd("query");
 
-    // output.childNodes = new [];
-    
     curpage = 0;
     renderResult();
     updatePageBtnState();
 
     
     searchbox.parentNode.className = cleanclass;
-    // console.log(DataStore[searchbox.value])
-    // console.log(DataStore)
-    // console.log(searchbox.value)
-
 }
 function renderResult(){
     console.time("clear");
@@ -76,8 +71,6 @@ function renderRow(itemName){
     moreinfo.appendChild(moreinfobtn);
     entry.appendChild(moreinfo);
 
-    // name.appendChild(document.createTextNode(result));
-    // entry.innerHTML = result;//DataStore[result];
     output.appendChild(entry)
 }
 
