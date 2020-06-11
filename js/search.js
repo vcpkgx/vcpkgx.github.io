@@ -2,14 +2,71 @@
 var DataStore=null;
 var result = [];
 var curpage = 0;
+var currmodal = "";
 var nbItemPerPage = 100;
 
 fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
         DataStore = data;
-        search();
+        syncStateFromParams();
     });
+
+window.addEventListener('popstate',syncStateFromParams);
+
+function syncStateFromParams(){
+    var url = new URL(window.location.href);
+    var params = url.searchParams;
+    var searchParam = params.get("search");
+    var regexParam = params.get("regex");
+    var pageParam = params.get("page");
+    var modal = params.get("modal");
+
+    var searchbox = document.getElementById("searchbox");
+    var regexopt = document.getElementById("regexopt");
+
+    if(searchParam)
+        searchbox.value = searchParam;
+    if(regexParam)
+        regexopt.checked = !!regexParam;
+    
+    search();
+
+    if(pageParam && !isNaN(Number(pageParam))){
+        curpage = Number(pageParam);
+        renderResult();
+    }
+
+    if(modal){
+        displayModal(modal,DataStore[modal]);
+    }
+}
+
+function updateURLParams(){
+    var url = new URL(window.location.href);
+    var params = url.searchParams;
+
+    var searchbox = document.getElementById("searchbox");
+    var regexopt = document.getElementById("regexopt");
+
+    if(searchbox.value){
+        params.set("search",searchbox.value);
+    }else{
+        params.delete("search");
+    }
+    params.set("regex", regexopt.checked.toString());
+    params.set("page", curpage.toString());
+
+    if(currmodal){
+        params.set("modal", currmodal);
+    }else{
+        params.delete("modal");
+    }
+
+    url.search = params.toString();
+
+    window.history.replaceState({}, searchbox.value, url.toString());
+}
 
 
 function search(){
@@ -35,7 +92,6 @@ function search(){
     curpage = 0;
     renderResult();
     updatePageBtnState();
-
     
     // searchbox.parentNode.className = cleanclass;
 }
@@ -51,6 +107,7 @@ function renderResult(){
         renderRow(match);
     }
     console.timeEnd("render");
+    updateURLParams();
 
 }
 function renderRow(itemName){
@@ -83,6 +140,9 @@ function renderRow(itemName){
 }
 
 function displayModal(name, data){
+    currmodal = name;
+    updateURLParams();
+
     var modalbase = document.getElementById("modalbase");
     modalbase.className = "modal is-active";
 
@@ -108,6 +168,8 @@ function displayModal(name, data){
 function hiddeModal(){
     var modalbase = document.getElementById("modalbase");
     modalbase.className = "modal"
+    currmodal = "";
+    updateURLParams();
 }
 
 function nextpage(){
@@ -142,10 +204,3 @@ function updatePageBtnState(){
 
     }
 }
-
-// function clicksearch(){
-//     searchbutton = document.getElementById("searchbutton")
-//     // searchbutton.className+= " is-loading"
-//     search()
-//     // searchbutton.className.replace(" is-loading", "");
-// }
