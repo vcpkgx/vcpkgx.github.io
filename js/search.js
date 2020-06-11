@@ -54,8 +54,18 @@ function updateURLParams(){
     }else{
         params.delete("search");
     }
-    params.set("regex", regexopt.checked.toString());
-    params.set("page", curpage.toString());
+    if(regexopt.checked){
+        params.set("regex", regexopt.checked.toString());
+
+    }else{
+        params.delete("regex");
+    }
+    if (curpage!=0) {
+        params.set("page", curpage.toString());
+        
+    } else {
+        params.delete("page");
+    }
 
     if(currmodal){
         params.set("modal", currmodal);
