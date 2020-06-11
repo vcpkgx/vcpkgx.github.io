@@ -37,7 +37,7 @@ function syncStateFromParams(){
         renderResult();
     }
 
-    if(modal){
+    if(modal && DataStore[modal]){
         displayModal(modal,DataStore[modal]);
     }
 }
