@@ -6,7 +6,7 @@ var currmodal = "";
 var nbItemPerPage = 100;
 
 const fuseOption = {
-    threshold:0.4
+    threshold:0.35
 };
 var fuse = null;
 
