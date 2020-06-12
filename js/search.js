@@ -5,10 +5,16 @@ var curpage = 0;
 var currmodal = "";
 var nbItemPerPage = 100;
 
+const fuseOption = {
+    threshold:0.4
+};
+var fuse = null;
+
 fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
         DataStore = data;
+        fuse = new Fuse(Object.keys(DataStore),fuseOption);
         syncStateFromParams();
     });
 
@@ -92,7 +98,12 @@ function search(){
     console.log( )
     console.time("query");
     if(!regexopt.checked){
-        result = Object.keys(DataStore).filter(key => key.indexOf(searchbox.value) !== -1);
+        if (searchbox.value) {
+            result = fuse.search(searchbox.value).map(x => x.item);
+        } else {
+            result = Object.keys(DataStore);
+            
+        }
         
     }else{
         result = Object.keys(DataStore).filter(key => key.match(searchbox.value));
