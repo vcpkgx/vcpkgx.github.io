@@ -101,7 +101,7 @@ function search(){
         if (searchbox.value) {
             result = fuse.search(searchbox.value).map(x => x.item);
         } else {
-            result = Object.keys(DataStore);
+            result = Object.keys(DataStore).sort();
             
         }
         
