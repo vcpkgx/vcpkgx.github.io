@@ -209,6 +209,10 @@ function prevpage(){
 function updatePageBtnState(){
     var nextbtn = document.getElementById("nextbtn");
     var prevbtn = document.getElementById("prevbtn");
+    var pagenb = document.getElementById("pagenb");
+
+    pagenb.innerText = (curpage+1).toString();
+
     
     if(result.length<=nbItemPerPage*(curpage+1)){
         nextbtn.disabled = true;
