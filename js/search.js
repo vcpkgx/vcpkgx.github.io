@@ -10,6 +10,15 @@ const fuseOption = {
 };
 var fuse = null;
 
+window.onload = () => {
+    'use strict';
+  
+    if ('serviceWorker' in navigator && 'caches' in window) {
+      navigator.serviceWorker
+               .register('/sw.js');
+    }
+  }
+
 fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
