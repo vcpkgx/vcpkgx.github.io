@@ -90,7 +90,6 @@ function search(){
     var regexopt = document.getElementById("regexopt");
     var cleanclass = searchbox.parentNode.className;
     // searchbox.parentNode.className+= " is-loading";
-    output = document.getElementById("searchResults");
     if(!DataStore){
         waiting =true
         return
@@ -117,6 +116,8 @@ function search(){
     // searchbox.parentNode.className = cleanclass;
 }
 function renderResult(){
+    var output = document.getElementById("searchResults");
+
     console.time("clear");
     output.textContent ='';
     console.timeEnd("clear");
@@ -176,14 +177,33 @@ function displayModal(name, data){
     var modaldescription = document.getElementById("modaldescription");
     modaldescription.innerHTML = DataStore[name].Description;
 
+    var modalfeatures = document.getElementById("modalfeatures");
+    modalfeatures.textContent ='';
+    if("Features" in DataStore[name]){
+        for( let item of Object.keys(DataStore[name]["Features"])){
+            let tr = document.createElement("tr");
+            let thname = document.createElement("th");
+            thname.innerText = item;
+            tr.appendChild(thname);
+            let description = document.createElement("td");
+            description.innerHTML = DataStore[name]["Features"][item].Description;
+            tr.appendChild(description);
+            
+            modalfeatures.appendChild(tr);
+        }
+    }
+
     var modalbdepends = document.getElementById("modalbdepends");
     modalbdepends.textContent = '';
-    for(let item of DataStore[name]["Build-Depends"]){
-        var tag = document.createElement("span");
-        tag.innerText = item;
-        tag.className = "tag";
-        modalbdepends.appendChild(tag);
+    if("Build-Depends" in DataStore[name]){
+        for(let item of DataStore[name]["Build-Depends"]){
+            var tag = document.createElement("span");
+            tag.innerText = item;
+            tag.className = "tag";
+            modalbdepends.appendChild(tag);
+        }
     }
+
 }
 
 function hiddeModal(){

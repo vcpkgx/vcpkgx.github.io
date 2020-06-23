@@ -13,10 +13,10 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="manifest" href="/site.webmanifest">
 
+    <link rel="manifest" href="/manifest.webmanifest">
     <meta name="description"
-        content="A simple site to explore vcpkg with a simple yet powerful search to find all the libraries/packages available." />
+        content="A site to explore vcpkg with a simple yet powerful search to find all the libraries/packages available." />
 </head>
 
 <body>
@@ -121,6 +121,21 @@
                 </div>
                 <div class="box">
                     <p id="modaldescription"></p>
+                </div>
+                <div class="box">
+                    <h2 class="subtitle">Features:</h2>
+                    <div class="tags" >
+                        <table class="table is-striped is-narrow is-fullwidth">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Description</th>
+                                </tr>
+                            </thead>
+                            <tbody id="modalfeatures">
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
                 <div class="box">
                     <h2 class="subtitle">Build-Depends:</h2>
