@@ -8,11 +8,6 @@ def dir_path(string):
     else:
         raise NotADirectoryError(string)
 
-def dir_path(string):
-    if os.path.isdir(string):
-        return string
-    else:
-        raise NotADirectoryError(string)
 
 # Parse CONTROL File
 def simpleInsert(dic, line):
@@ -54,8 +49,12 @@ def parseControlFeatureParagraph(dic, para):
     lines = io.StringIO(para)
     # Feature name (find the str containing "Feature:")
     fname = [s for s in lines if "Feature:" in s][0].split(":")[1].strip()
+
+    #reset the cursor to the begining of the file
+    lines.seek(0)
+
     fdic = {}
-    # Parse Feature paragraph in a feature dictionary (skip first because it;s the name)
+    # Parse Feature paragraph in a feature dictionary (skip first because it's the name)
     [parseControlLine(fdic,line) for line in lines if "Feature" not in line]
     dic["Features"][fname] = fdic
 
