@@ -197,9 +197,13 @@ function displayModal(name, data){
     modalbdepends.textContent = '';
     if("Build-Depends" in DataStore[name]){
         for(let item of DataStore[name]["Build-Depends"]){
-            var tag = document.createElement("span");
+            var tag = document.createElement("a");
             tag.innerText = item;
-            tag.className = "tag";
+            tag.className = "tag is-link";
+            if(DataStore[item.match(/[\w-]+/)])
+            {
+                tag.href = `/?modal=${item.match(/[\w-]+/)}`;
+            }
             modalbdepends.appendChild(tag);
         }
     }
@@ -246,6 +250,14 @@ function updatePageBtnState(){
 
     }else{
         prevbtn.disabled = false;
+
+    }
+}
+
+function collapse(){
+    var elem = event.target.parentNode;
+    if(elem.classList.contains("collapsable")){
+        elem.classList.toggle("collapsed");
 
     }
 }

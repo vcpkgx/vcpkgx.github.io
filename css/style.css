@@ -1,0 +1,55 @@
+/* .collapsed :not(:first-child) {
+    display: none;
+}
+
+
+.collapsed :first-child{
+    margin: 0 !important;
+    
+}
+
+.collapsed :first-child::before{
+    font-family: "Font Awesome 5 Free";
+    content: "\f054 ";
+    font-weight: 900;
+}
+
+.collapsable:not(.collapsed) :first-child::before{
+    font-family: "Font Awesome 5 Free";
+    content: "\f078 ";
+    font-weight: 900;
+} */
+
+.collapsed :not(.collapse-header) {
+    display: none;
+}
+
+/* .collapsed~*{
+    display: none;
+} */
+
+/* .collapse-header {
+    text-indent: 1em;
+} */
+
+.collapsed .collapse-header{
+    margin: 0 !important;
+    
+}
+
+.collapsed .collapse-header::before{
+    font-family: "Font Awesome 5 Free";
+    content: "\f054 ";
+    font-weight: 900;
+}
+
+.collapsed .collapse-header::before::after{
+    content: "\00a0";
+}
+
+
+.collapsable:not(.collapsed) .collapse-header::before{
+    font-family: "Font Awesome 5 Free";
+    content: "\f078 ";
+    font-weight: 900;
+}

@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>vcpkgx</title>
+    <link href="/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css" />
+    <link rel="stylesheet" href="/css/style.css" />
 
     <link rel="icon" type="image/png" href="/images/vcpkgx.png" />
     <link rel="icon" type="image/svg+xml" href="/images/vcpkgx.svg" />
@@ -122,8 +124,8 @@
                 <div class="box">
                     <p id="modaldescription"></p>
                 </div>
-                <div class="box">
-                    <h2 class="subtitle">Features:</h2>
+                <div class="box collapsable collapsed" onClick="collapse()">
+                    <h2 class="subtitle collapse-header">Features:</h2>
                     <div class="tags" >
                         <table class="table is-striped is-narrow is-fullwidth">
                             <thead>
@@ -137,8 +139,8 @@
                         </table>
                     </div>
                 </div>
-                <div class="box">
-                    <h2 class="subtitle">Build-Depends:</h2>
+                <div class="box collapsable collapsed" onClick="collapse()">
+                    <h2 class="subtitle collapse-header"  >Build-Depends:</h2>
                     <div class="tags" id="modalbdepends">
                     </div>
                 </div>
