@@ -11,7 +11,7 @@ def dir_path(string):
 
 # Parse CONTROL File
 def simpleInsert(dic, line):
-    dic[line.split(':')[0].strip()] = line.split(':')[1].strip()
+    dic[line.split(':')[0].strip()] = ''.join([s.strip() for s in line.split(':')[1:]])
 
 def simpleInsertList(dic, line):
     dic[line.split(':')[0].strip()] = [i.strip() for i in line.split(':')[1].split(",")]
@@ -28,7 +28,8 @@ controlSpecialParser = {
     "Version": simpleInsert,
     "Build-Depends": simpleInsertList,
     "Default-Features": simpleInsertList,
-    "Description": simpleInsert
+    "Description": simpleInsert,
+    "Homepage": simpleInsert
 }
 
 def parseControlLine(dic, line):
@@ -42,9 +43,6 @@ def parseControlFeatureParagraph(dic, para):
     features = dic.get("Features")
     if(features == None):
         dic["Features"] = {}
-    # print("="*10)
-    # print(para)
-    # print("="*10)
 
     lines = io.StringIO(para)
     # Feature name (find the str containing "Feature:")
@@ -72,6 +70,35 @@ def partseControlFile(file):
         # [parseControlLine(dic,line) for line in f]
     return dic
 
+def convertControlObjToManifest(obj):
+    convObj = {}
+    for key, value in obj.items():
+        if(key == 'Source'):
+            convObj['name'] = value
+        elif(key == 'Version'):
+            convObj['version-string'] = value
+        elif(key == 'Description'):
+            convObj['description'] = value
+        elif(key == 'Build-Depends'):
+            convObj['dependencies'] = value
+        elif(key == 'Homepage'):
+            convObj['homepage'] = value
+        elif(key == 'Default-Features'):
+            convObj['default-features'] = value
+        elif(key == 'Features'):
+            arr = []
+            for k,v in value.items():
+                tmpdic = {}
+                tmpdic['name'] = k
+                tmpdic['description'] = v.get('Description','')
+                if( 'Build-Depends' in v):
+                    tmpdic['dependencies'] = v['Build-Depends']
+                arr.append(tmpdic)
+            convObj['features'] = arr
+        else:
+            print('Missing:',key,'with value:', value)
+    return convObj
+        
 
 
 parser = argparse.ArgumentParser()
@@ -82,21 +109,26 @@ args = parser.parse_args()
 
 # Get all the names of the dirs inside of "ports"
 controlfiles = []
+vcpkgfiles = []
 # r=root, d=directories, f = files
 for r, d, f in os.walk(args.SourceDirectory):
     for file in f:
-        if 'CONTROL' == file:
+        if 'vcpkg.json' == file:
+            vcpkgfiles.append(os.path.join(r, file))
+        elif 'CONTROL' == file:
             controlfiles.append(os.path.join(r, file))
 
 print(args)
-dic = {}
-for item in [partseControlFile(f) for f in controlfiles]:
-    name = item["Source"]
-    del item["Source"]
-    dic[name] = item
+dic = []
+
+# Parse CONTROL file
+for item in [convertControlObjToManifest(partseControlFile(f)) for f in controlfiles]:
+    dic.append(item)
+# Parse Manifest files
+for filename in vcpkgfiles:
+    with open(filename) as f:
+        dic.append(json.load(f))
+
+# output JSON
 with open(args.o+"libs.json", 'w') as outf:
     json.dump(dic, outf)
-# print([partseControlFile(f) for f in controlfiles])
-    # print(f) 
-
-# print(namelist)

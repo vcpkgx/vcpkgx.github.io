@@ -6,7 +6,10 @@ var currmodal = "";
 var nbItemPerPage = 100;
 
 const fuseOption = {
-    threshold:0.35
+    threshold:0.35,
+    keys: [
+        "name"
+    ]
 };
 var fuse = null;
 
@@ -14,7 +17,7 @@ fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
         DataStore = data;
-        fuse = new Fuse(Object.keys(DataStore),fuseOption);
+        fuse = new Fuse(Object.values(DataStore),fuseOption);
         syncStateFromParams();
     });
 
@@ -43,8 +46,8 @@ function syncStateFromParams(){
         renderResult();
     }
 
-    if(modal && DataStore[modal]){
-        displayModal(modal,DataStore[modal]);
+    if(modal && Object.values(DataStore).map(x => x.name).includes(modal)){
+        displayModal(DataStore.filter(x => x.name === modal)[0]);
     }
 }
 
@@ -98,14 +101,14 @@ function search(){
     console.time("query");
     if(!regexopt.checked){
         if (searchbox.value) {
-            result = fuse.search(searchbox.value).map(x => x.item);
+            result = fuse.search(searchbox.value).map(x => x.item.name);
         } else {
-            result = Object.keys(DataStore).sort();
+            result = Object.values(DataStore).map(x => x.name).sort();
             
         }
         
     }else{
-        result = Object.keys(DataStore).filter(key => key.match(searchbox.value));
+        result = Object.values(DataStore).map(x => x.name).filter(key => key.match(searchbox.value));
     }
     console.timeEnd("query");
 
@@ -133,21 +136,27 @@ function renderResult(){
 
 }
 function renderRow(itemName){
+    let DataItem = DataStore.filter(x => x.name === itemName)[0];
     var output = document.getElementById("searchResults");
     var entry = document.createElement("tr");
     entry.className = "container";
-    entry.addEventListener("click",function(){displayModal(itemName,DataStore[itemName]);}, false);
+    entry.addEventListener("click",function(){displayModal(DataItem);}, false);
     entry.onmouseenter
     var name = document.createElement("th");
     name.innerHTML = itemName;
     entry.appendChild(name);
 
-    var description = document.createElement("td");
-    description.innerHTML = DataStore[itemName].Description;
-    entry.appendChild(description);
+    console.log(DataItem);
+
+    if(DataItem["description"]){
+        var description = document.createElement("td");
+        description.innerHTML = DataItem.description;
+        entry.appendChild(description);
+    }
+    
 
     var version = document.createElement("td");
-    version.innerHTML = DataStore[itemName].Version;
+    version.innerHTML = DataItem["version-string"];
     entry.appendChild(version);
 
     var moreinfo = document.createElement("td");
@@ -161,32 +170,32 @@ function renderRow(itemName){
     output.appendChild(entry)
 }
 
-function displayModal(name, data){
-    currmodal = name;
+function displayModal(data){
+    currmodal = data.name;
     updateURLParams();
 
     var modalbase = document.getElementById("modalbase");
     modalbase.className = "modal is-active";
 
     var modalname = document.getElementById("modalname");
-    modalname.innerHTML = name;
+    modalname.innerHTML = data.name;
 
     var modalversion = document.getElementById("modalversion");
-    modalversion.innerHTML = DataStore[name].Version;
+    modalversion.innerHTML = data["version-string"];
 
     var modaldescription = document.getElementById("modaldescription");
-    modaldescription.innerHTML = DataStore[name].Description;
+    modaldescription.innerHTML = data.description;
 
     var modalfeatures = document.getElementById("modalfeatures");
     modalfeatures.textContent ='';
-    if("Features" in DataStore[name]){
-        for( let item of Object.keys(DataStore[name]["Features"])){
+    if("features" in data){
+        for( let item of Object.values(data["features"])){
             let tr = document.createElement("tr");
             let thname = document.createElement("th");
-            thname.innerText = item;
+            thname.innerText = item.name;
             tr.appendChild(thname);
             let description = document.createElement("td");
-            description.innerHTML = DataStore[name]["Features"][item].Description;
+            description.innerHTML = item.description;
             tr.appendChild(description);
             
             modalfeatures.appendChild(tr);
@@ -195,12 +204,12 @@ function displayModal(name, data){
 
     var modalbdepends = document.getElementById("modalbdepends");
     modalbdepends.textContent = '';
-    if("Build-Depends" in DataStore[name]){
-        for(let item of DataStore[name]["Build-Depends"]){
+    if("dependencies" in data){
+        for(let item of data["dependencies"].map(x => (typeof x == 'string'? x: x.name) )){
             var tag = document.createElement("a");
             tag.innerText = item;
             tag.className = "tag is-link";
-            if(DataStore[item.match(/[\w-]+/)])
+            if(Object.values(DataStore).map(x => x.name).includes(item.match(/[\w-]+/).toString()))
             {
                 tag.href = `/?modal=${item.match(/[\w-]+/)}`;
             }
