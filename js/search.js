@@ -183,6 +183,18 @@ function displayModal(data){
     var modalversion = document.getElementById("modalversion");
     modalversion.innerHTML = data["version-string"];
 
+    var modalwebsite = document.getElementById("modalwebsite");
+    if(data.homepage){
+        modalwebsite.href = data.homepage;
+        modalwebsite.classList.remove("is-invisible");
+    }else{
+        modalwebsite.href = ""
+        if(!modalwebsite.classList.contains("is-invisible")){
+            modalwebsite.classList.add("is-invisible");
+        }
+
+    }
+
     var modaldescription = document.getElementById("modaldescription");
     modaldescription.innerHTML = data.description;
 

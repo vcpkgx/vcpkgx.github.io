@@ -11,7 +11,7 @@ def dir_path(string):
 
 # Parse CONTROL File
 def simpleInsert(dic, line):
-    dic[line.split(':')[0].strip()] = ''.join([s.strip() for s in line.split(':')[1:]])
+    dic[line.split(':')[0].strip()] = ':'.join([s.strip() for s in line.split(':')[1:]])
 
 def simpleInsertList(dic, line):
     dic[line.split(':')[0].strip()] = [i.strip() for i in line.split(':')[1].split(",")]
