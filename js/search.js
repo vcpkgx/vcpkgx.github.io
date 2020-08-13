@@ -8,7 +8,8 @@ var nbItemPerPage = 100;
 const fuseOption = {
     threshold:0.35,
     keys: [
-        "name"
+        "name",
+        "description"
     ]
 };
 var fuse = null;
