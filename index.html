@@ -105,11 +105,13 @@
     <footer class="footer">
         <div class="content has-text-centered">
             <p>
-                <strong>vcpkgx</strong> by <a href="https://github.com/balnian">Francis Lemaire</a>. The source code is licensed
+                <strong>vcpkgx</strong> by <a href="https://github.com/balnian">Francis Lemaire</a>. The source code is
+                licensed
                 <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
             </p>
             <p>
-                Having a problem with the site or a suggestion? <a href="https://github.com/vcpkgx/vcpkgx.github.io/issues">Open an issue</a>!
+                Having a problem with the site or a suggestion? <a
+                    href="https://github.com/vcpkgx/vcpkgx.github.io/issues">Open an issue</a>!
             </p>
         </div>
     </footer>
@@ -122,15 +124,30 @@
             </header>
             <section class="modal-card-body">
                 <div class="container">
-                    <span class="tag is-primary is-medium" id="modalversion">Primary</span>
-                    <a id="modalwebsite" class="is-link is-pulled-right">Website <i class="fas fa-external-link-alt"></i></a>
+                    <div class="level is-mobile">
+                        <div class="level-left">
+                            <span class="tags has-addons ">
+                                <span class="tag is-medium">Version</span>
+                                <span class="tag is-primary is-medium" id="modalversion">Primary</span>
+
+                                <span id="modallicensetxt" class="tag is-medium">License</span>
+                                <span id="modallicense" class="tag is-info is-medium">Bulma</span>
+                            </span>
+                        </div>
+                        <div class="level-right">
+                            <a id="modalwebsite" class="is-link is-pulled-right">Website <i
+                                    class="fas fa-external-link-alt"></i></a>
+                        </div>
+                    </div>
+
+
                 </div>
                 <div class="box">
                     <p id="modaldescription"></p>
                 </div>
                 <div class="box collapsable collapsed" onClick="collapse()">
                     <h2 class="subtitle collapse-header">Features:</h2>
-                    <div class="tags" >
+                    <div class="tags">
                         <table class="table is-striped is-narrow is-fullwidth">
                             <tbody id="modalfeatures">
                             </tbody>
@@ -138,7 +155,7 @@
                     </div>
                 </div>
                 <div class="box collapsable collapsed" onClick="collapse()">
-                    <h2 class="subtitle collapse-header"  >Build-Depends:</h2>
+                    <h2 class="subtitle collapse-header">Build-Depends:</h2>
                     <div class="tags" id="modalbdepends">
                     </div>
                 </div>

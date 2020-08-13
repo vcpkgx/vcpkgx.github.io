@@ -195,6 +195,23 @@ function displayModal(data){
 
     }
 
+    var modallicense = document.getElementById("modallicense");
+    var modallicensetxt = document.getElementById("modallicensetxt");
+    if(data.license){
+        modallicense.innerHTML = data.license;
+        modallicense.classList.remove("is-invisible");
+        modallicensetxt.classList.remove("is-invisible");
+    }else{
+        modallicense.innerHTML = ""
+        if(!modallicense.classList.contains("is-invisible")){
+            modallicense.classList.add("is-invisible");
+        }
+        if(!modallicensetxt.classList.contains("is-invisible")){
+            modallicensetxt.classList.add("is-invisible");
+        }
+
+    }
+
     var modaldescription = document.getElementById("modaldescription");
     modaldescription.innerHTML = data.description;
 
