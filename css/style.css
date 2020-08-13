@@ -53,3 +53,7 @@
     content: "\f078 ";
     font-weight: 900;
 }
+
+.is-clickable {
+    cursor: pointer;
+  }

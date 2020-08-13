@@ -139,9 +139,8 @@ function renderRow(itemName){
     let DataItem = DataStore.filter(x => x.name === itemName)[0];
     var output = document.getElementById("searchResults");
     var entry = document.createElement("tr");
-    entry.className = "container";
+    entry.className = "container is-clickable";
     entry.addEventListener("click",function(){displayModal(DataItem);}, false);
-    entry.onmouseenter
     var name = document.createElement("th");
     name.innerHTML = itemName;
     entry.appendChild(name);
@@ -158,6 +157,12 @@ function renderRow(itemName){
     var version = document.createElement("td");
     version.innerHTML = DataItem["version-string"];
     entry.appendChild(version);
+
+    var license = document.createElement("td");
+    if(DataItem.license){
+        license.innerHTML = DataItem.license;
+    }
+    entry.appendChild(license);
 
     var moreinfo = document.createElement("td");
     var moreinfobtn = document.createElement("a");
