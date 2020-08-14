@@ -98,9 +98,16 @@ def convertControlObjToManifest(obj):
         else:
             print('Missing:',key,'with value:', value)
     return convObj
+
+def addUsage(item, usagefiles):
+    name = item["name"]
+    for filename in usagefiles:
+        if( name == filename.split(os.sep)[-2]):
+            with open(filename) as f:
+                item["usage"] = f.read()
+            usagefiles.remove(filename)
+
         
-
-
 parser = argparse.ArgumentParser()
 parser.add_argument('SourceDirectory',type=dir_path,help="location of the port folder of the vcpkg to parse")
 parser.add_argument('-o',type=dir_path,help="output of the JSON file generated", default="./")
@@ -110,6 +117,7 @@ args = parser.parse_args()
 # Get all the names of the dirs inside of "ports"
 controlfiles = []
 vcpkgfiles = []
+usagefiles = []
 # r=root, d=directories, f = files
 for r, d, f in os.walk(args.SourceDirectory):
     for file in f:
@@ -117,18 +125,25 @@ for r, d, f in os.walk(args.SourceDirectory):
             vcpkgfiles.append(os.path.join(r, file))
         elif 'CONTROL' == file:
             controlfiles.append(os.path.join(r, file))
+        elif 'usage' == file:
+            usagefiles.append(os.path.join(r, file))
+
 
 print(args)
 dic = []
 
 # Parse CONTROL file
 for item in [convertControlObjToManifest(partseControlFile(f)) for f in controlfiles]:
+    addUsage(item,usagefiles)
     dic.append(item)
 # Parse Manifest files
 for filename in vcpkgfiles:
+    js = None
     with open(filename) as f:
-        dic.append(json.load(f))
-
+        js = json.load(f)
+    addUsage(js, usagefiles)
+    dic.append(js)
+    
 # output JSON
 with open(args.o+"libs.json", 'w') as outf:
     json.dump(dic, outf)

@@ -205,21 +205,32 @@ function displayModal(data){
     var modallicensetxt = document.getElementById("modallicensetxt");
     if(data.license){
         modallicense.innerHTML = data.license;
-        modallicense.classList.remove("is-invisible");
-        modallicensetxt.classList.remove("is-invisible");
+        modallicense.classList.remove("is-hidden");
+        modallicensetxt.classList.remove("is-hidden");
     }else{
         modallicense.innerHTML = ""
-        if(!modallicense.classList.contains("is-invisible")){
-            modallicense.classList.add("is-invisible");
+        if(!modallicense.classList.contains("is-hidden")){
+            modallicense.classList.add("is-hidden");
         }
-        if(!modallicensetxt.classList.contains("is-invisible")){
-            modallicensetxt.classList.add("is-invisible");
+        if(!modallicensetxt.classList.contains("is-hidden")){
+            modallicensetxt.classList.add("is-hidden");
         }
 
     }
 
     var modaldescription = document.getElementById("modaldescription");
     modaldescription.innerHTML = data.description;
+
+    var modalusage = document.getElementById("modalusage");
+    if(data.usage){
+        modalusage.innerHTML = data.usage;
+        modalusage.parentNode.classList.remove("is-hidden");
+    }else{
+        modalusage.innerHTML = "";
+        if(!modalusage.parentNode.classList.contains("is-hidden")){
+            modalusage.parentNode.classList.add("is-hidden");
+        }
+    }
 
     var modalfeatures = document.getElementById("modalfeatures");
     modalfeatures.textContent ='';
