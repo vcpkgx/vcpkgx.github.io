@@ -127,13 +127,22 @@
                 <div class="container">
                     <div class="level is-mobile">
                         <div class="level-left">
-                            <span class="tags has-addons ">
-                                <span class="tag is-medium">Version</span>
-                                <span class="tag is-primary is-medium" id="modalversion">Primary</span>
+                            <div class="field is-grouped is-grouped-multiline">
+                                <div class="control">
+                                    <span class="tags has-addons ">
+                                        <span class="tag is-medium">Version</span>
+                                        <span class="tag is-primary is-medium" id="modalversion">Primary</span>
+                                    </span>
+                                </div>
+                                <div class="control">
+                                    <span class="tags has-addons ">
+                                        <span id="modallicensetxt" class="tag is-medium">License</span>
+                                        <span id="modallicense" class="tag is-info is-medium">Bulma</span>
+                                    </span>
+                                </div>
 
-                                <span id="modallicensetxt" class="tag is-medium">License</span>
-                                <span id="modallicense" class="tag is-info is-medium">Bulma</span>
-                            </span>
+                            </div>
+                            
                         </div>
                         <div class="level-right">
                             <a id="modalwebsite" class="is-link is-pulled-right">Website <i
@@ -146,10 +155,10 @@
                 <div class="box">
                     <p id="modaldescription"></p>
                 </div>
-                <article class="message ">
+                <div class="message ">
                     <pre class="message-body has-text-white has-background-dark is-overflow-new-line" id="modalusage">
                     </pre>
-                  </article>
+                </div>
                 <div class="box collapsable collapsed" onClick="collapse()">
                     <h2 class="subtitle collapse-header">Features:</h2>
                     <div class="tags">
