@@ -155,8 +155,34 @@
                 <div class="box">
                     <p id="modaldescription"></p>
                 </div>
-                <div class="message ">
-                    <pre class="message-body has-text-white has-background-dark is-overflow-new-line" id="modalusage">
+                <div class="tabbed-container">
+
+                    <input name="tabs" type="radio" id="modalwinslct" checked />
+                    <label for="modalwinslct" ><span class="icon "><i class="fab fa-windows" aria-hidden="true"></i></span></label>
+                    <div class="tabbed-panel is-dark">
+                        <span class="button icon corner-button" id="modalwinbtn">
+                            <i class="far fa-clone"></i>
+                          </span>
+                        <p id="modalwin"></p>
+                    </div>
+
+                    <input name="tabs" type="radio" id="modalunixslct" />
+                    <label for="modalunixslct" >
+                        <span class="icon"><i class="fab fa-apple" aria-hidden="true"></i></span>
+                        <span class="sma">/</span>
+                        <span class="icon"><i class="fab fa-linux" aria-hidden="true"></i></i></span>
+                    </label>
+                    <div class="tabbed-panel is-dark" >
+                        <span class="button icon corner-button" id="modalunixbtn">
+                            <i class="far fa-clone"></i>
+                          </span>
+                        <p id="modalunix"></p>
+                    </div>
+                </div>
+               
+                
+                <div class="notification is-dark ">
+                    <pre class=" has-text-white has-background-dark is-overflow-new-line" id="modalusage">
                     </pre>
                 </div>
                 <div class="box collapsable collapsed" onClick="collapse()">

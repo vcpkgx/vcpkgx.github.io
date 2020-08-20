@@ -221,6 +221,32 @@ function displayModal(data){
     var modaldescription = document.getElementById("modaldescription");
     modaldescription.innerHTML = data.description;
 
+    var modalwin = document.getElementById("modalwin");
+    modalwin.innerText = `vcpkg.exe install ${data.name}`;
+
+    var modalunix = document.getElementById("modalunix");
+    modalunix.innerText = `vcpkg install ${data.name}`;
+
+    var modalwinbtn = document.getElementById("modalwinbtn");
+    modalwinbtn.replaceWith(modalwinbtn.cloneNode(true)); // Remove all event listeners
+    modalwinbtn = document.getElementById("modalwinbtn");
+    modalwinbtn.addEventListener("click", function(){ copyTextToClipboard(`vcpkg.exe install ${data.name}`)},false);
+
+    var modalwinslct = document.getElementById("modalwinslct");
+    var modalunixslct = document.getElementById("modalunixslct");
+    if (navigator.appVersion.indexOf("Win")!=-1){
+        modalwinslct.checked = true;
+    }else{
+        modalunixslct.checked = true;
+    }
+
+
+    var modalunixbtn = document.getElementById("modalunixbtn");
+    modalunixbtn.replaceWith(modalunixbtn.cloneNode(true)); // Remove all event listeners
+    modalunixbtn = document.getElementById("modalunixbtn");
+    modalunixbtn.addEventListener("click", function(){ copyTextToClipboard(`vcpkg install ${data.name}`)},false);
+
+
     var modalusage = document.getElementById("modalusage");
     if(data.usage){
         modalusage.innerHTML = data.usage;
@@ -316,3 +342,39 @@ function collapse(){
 
     }
 }
+
+function fallbackCopyTextToClipboard(text) {
+    var textArea = document.createElement("textarea");
+    textArea.value = text;
+    
+    // Avoid scrolling to bottom
+    textArea.style.top = "0";
+    textArea.style.left = "0";
+    textArea.style.position = "fixed";
+  
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+  
+    try {
+      var successful = document.execCommand('copy');
+      var msg = successful ? 'successful' : 'unsuccessful';
+    //   console.log('Fallback: Copying text command was ' + msg);
+    } catch (err) {
+    //   console.error('Fallback: Oops, unable to copy', err);
+    }
+  
+    document.body.removeChild(textArea);
+  }
+
+  function copyTextToClipboard(text) {
+    if (!navigator.clipboard) {
+      fallbackCopyTextToClipboard(text);
+      return;
+    }
+    navigator.clipboard.writeText(text).then(function() {
+    //   console.log('Async: Copying to clipboard was successful!');
+    }, function(err) {
+    //   console.error('Async: Could not copy text: ', err);
+    });
+  }
