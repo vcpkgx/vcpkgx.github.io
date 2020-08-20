@@ -1,6 +1,6 @@
 
 
-import argparse, os, json, io
+import argparse, os, json, io, re
 
 def dir_path(string):
     if os.path.isdir(string):
@@ -109,7 +109,7 @@ def addUsage(item, usagefiles):
 
         
 parser = argparse.ArgumentParser()
-parser.add_argument('SourceDirectory',type=dir_path,help="location of the port folder of the vcpkg to parse")
+parser.add_argument('SourceDirectory',type=dir_path,help="location of the vcpkg folder")
 parser.add_argument('-o',type=dir_path,help="output of the JSON file generated", default="./")
 
 args = parser.parse_args()
@@ -119,7 +119,7 @@ controlfiles = []
 vcpkgfiles = []
 usagefiles = []
 # r=root, d=directories, f = files
-for r, d, f in os.walk(args.SourceDirectory):
+for r, d, f in os.walk(os.path.join(args.SourceDirectory,"ports")):
     for file in f:
         if 'vcpkg.json' == file:
             vcpkgfiles.append(os.path.join(r, file))
@@ -127,6 +127,15 @@ for r, d, f in os.walk(args.SourceDirectory):
             controlfiles.append(os.path.join(r, file))
         elif 'usage' == file:
             usagefiles.append(os.path.join(r, file))
+
+# ci.baseline.txt parsing
+triplets = ["arm64-windows", "arm-uwp", "x64-linux", "x64-osx", "x64-uwp", "x64-windows", "x64-windows-static", "x86-windows"]
+packageStatus = {}
+reg = re.compile(r"^\s*([\w-]+)\s*:\s*([\w-]+)\s*=\s*(\w+)\s*$", re.MULTILINE)
+with open(os.path.join(args.SourceDirectory,"scripts/ci.baseline.txt")) as f:
+    out = reg.findall(f.read())
+    for name,triplet,status in out:
+        packageStatus[name+":"+triplet] = status
 
 
 print(args)
@@ -143,6 +152,19 @@ for filename in vcpkgfiles:
         js = json.load(f)
     addUsage(js, usagefiles)
     dic.append(js)
+
+# Add Build Status
+for i, package in enumerate(dic):
+    status = {}
+
+    for triplet in triplets:
+        if(package["name"]+":"+triplet in packageStatus):
+            status[triplet] = packageStatus[package["name"]+":"+triplet]
+        else:
+            status[triplet] = "pass"
+
+    package["status"] = status
+    dic[i] = package
     
 # output JSON
 with open(args.o+"libs.json", 'w') as outf:
