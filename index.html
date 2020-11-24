@@ -24,8 +24,10 @@
 <body>
     <section class="section">
         <div class="container">
-            <h1 class="title is-1">VCPKGX</h1>
-            <h1 class="subtitle is-2">A vcpkg explorer</h1>
+            <a href="/">
+                <h1 class="title is-1">VCPKGX</h1>
+                <h1 class="subtitle is-2">A vcpkg explorer</h1>
+            </a>
             <hr class="has-background-dark" />
         </div>
     </section>
@@ -116,94 +118,6 @@
             </p>
         </div>
     </footer>
-    <div class="modal" id="modalbase">
-        <div class="modal-background" onclick="hiddeModal()"></div>
-        <div class="modal-card">
-            <header class="modal-card-head">
-                <p class="modal-card-title" id="modalname">Modal title</p>
-                <button class="delete" aria-label="close" onclick="hiddeModal()"></button>
-            </header>
-            <section class="modal-card-body">
-                <div class="container">
-                    <div class="level is-mobile">
-                        <div class="level-left">
-                            <div class="field is-grouped is-grouped-multiline">
-                                <div class="control">
-                                    <span class="tags has-addons ">
-                                        <span class="tag is-medium">Version</span>
-                                        <span class="tag is-primary is-medium" id="modalversion">Primary</span>
-                                    </span>
-                                </div>
-                                <div class="control">
-                                    <span class="tags has-addons ">
-                                        <span id="modallicensetxt" class="tag is-medium">License</span>
-                                        <span id="modallicense" class="tag is-info is-medium">Bulma</span>
-                                    </span>
-                                </div>
-
-                            </div>
-                            
-                        </div>
-                        <div class="level-right">
-                            <a id="modalwebsite" class="is-link is-pulled-right">Website <i
-                                    class="fas fa-external-link-alt"></i></a>
-                        </div>
-                    </div>
-
-
-                </div>
-                <div class="box">
-                    <p id="modaldescription"></p>
-                </div>
-                <div class="tabbed-container">
-
-                    <input name="tabs" type="radio" id="modalwinslct" checked />
-                    <label for="modalwinslct" ><span class="icon "><i class="fab fa-windows" aria-hidden="true"></i></span></label>
-                    <div class="tabbed-panel is-dark">
-                        <span class="button icon corner-button" id="modalwinbtn">
-                            <i class="far fa-clone"></i>
-                          </span>
-                        <p id="modalwin"></p>
-                    </div>
-
-                    <input name="tabs" type="radio" id="modalunixslct" />
-                    <label for="modalunixslct" >
-                        <span class="icon"><i class="fab fa-apple" aria-hidden="true"></i></span>
-                        <span class="sma">/</span>
-                        <span class="icon"><i class="fab fa-linux" aria-hidden="true"></i></i></span>
-                    </label>
-                    <div class="tabbed-panel is-dark" >
-                        <span class="button icon corner-button" id="modalunixbtn">
-                            <i class="far fa-clone"></i>
-                          </span>
-                        <p id="modalunix"></p>
-                    </div>
-                </div>
-               
-                
-                <div class="notification is-dark ">
-                    <pre class=" has-text-white has-background-dark is-overflow-new-line" id="modalusage">
-                    </pre>
-                </div>
-                <div class="box collapsable collapsed" onClick="collapse()">
-                    <h2 class="subtitle collapse-header">Features:</h2>
-                    <div class="tags">
-                        <table class="table is-striped is-narrow is-fullwidth">
-                            <tbody id="modalfeatures">
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-                <div class="box collapsable collapsed" onClick="collapse()">
-                    <h2 class="subtitle collapse-header">Build-Depends:</h2>
-                    <div class="tags" id="modalbdepends">
-                    </div>
-                </div>
-            </section>
-            <footer class="modal-card-foot">
-            </footer>
-        </div>
-    </div>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.0.4"></script>
     <script src="/js/search.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>

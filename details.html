@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>vcpkgx</title>
+    <link href="/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+
+    <link rel="icon" type="image/png" href="/images/vcpkgx.png" />
+    <link rel="icon" type="image/svg+xml" href="/images/vcpkgx.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+    <link rel="manifest" href="/manifest.webmanifest">
+    <meta name="description"
+        content="A site to explore vcpkg with a simple yet powerful search to find all the libraries/packages available." />
+</head>
+<body>
+    <section class="section">
+        <div class="container">
+            <a href="/"><h1 class="title is-1">VCPKGX</h1></a>
+            <hr class="has-background-dark" /> 
+        </div>
+    </section>
+    <section class="hero is-light">
+        <div class="hero-body">
+          <div class="container">
+            <h1 id="name" class="title"></h1>
+            <h2 id="version" class="subtitle"></h2>
+            
+
+            <div id="supports" class="tags"></div>
+          </div>
+        </div>
+      </section>
+    <section class="section">
+        <div class="container">
+            <div class="columns">
+                <div class="column is-four-fifths">
+                    <!-- Description -->
+                    <div class="box">
+                        <p id="description"></p>
+                    </div>
+                    <!-- Install tabs -->
+                    <div class="tabbed-container">
+
+                        <input name="tabs" type="radio" id="installwinslct" checked />
+                        <label for="installwinslct" ><span class="icon "><i class="fab fa-windows" aria-hidden="true"></i></span></label>
+                        <div class="tabbed-panel is-dark">
+                            <span class="button icon corner-button" id="installwinbtn">
+                                <i class="far fa-clone"></i>
+                              </span>
+                            <p id="installwin"></p>
+                        </div>
+    
+                        <input name="tabs" type="radio" id="installunixslct" />
+                        <label for="installunixslct" >
+                            <span class="icon"><i class="fab fa-apple" aria-hidden="true"></i></span>
+                            <span class="sma">/</span>
+                            <span class="icon"><i class="fab fa-linux" aria-hidden="true"></i></i></span>
+                        </label>
+                        <div class="tabbed-panel is-dark" >
+                            <span class="button icon corner-button" id="installunixbtn">
+                                <i class="far fa-clone"></i>
+                              </span>
+                            <p id="installunix"></p>
+                        </div>
+                    </div>
+                    <!-- Usage -->
+                    <div class="notification is-dark ">
+                        <pre class=" has-text-white has-background-dark is-overflow-new-line" id="usage">
+                        </pre>
+                    </div>
+                    <!-- Features -->
+                    <div class="box collapsable collapsed" onClick="collapse()">
+                        <h2 class="subtitle collapse-header">Features:</h2>
+                        <div class="tags">
+                            <table class="table is-striped is-narrow is-fullwidth">
+                                <tbody id="features">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <!-- Build Depends -->
+                    <div class="box collapsable collapsed" onClick="collapse()">
+                        <h2 class="subtitle collapse-header">Build-Depends:</h2>
+                        <div class="tags" id="builddepends">
+                        </div>
+                    </div>
+                </div>
+                <div  class="column is-one-fifth">
+                    <section id="infos" class="section">
+                        <h1 class="subtitle is-3">Infos:</h1>
+                        <p id="license" title="License"><span class="icon"><i class="fa fa-balance-scale" aria-hidden="true"></i></span></p>
+                        <p title="Website"><span class="icon"><i class="fa fa-globe" aria-hidden="true"></i></span> <a id="homepage">Website</a></p>
+                        <p title="Documentation"><span class="icon"><i class="fa fa-book" aria-hidden="true"></i></span> <a id="documentation">Documentation</a></p>
+                    </section>
+                    <!-- <section class="section">
+
+                        <h1 class="subtitle is-3">Stats:</h1>
+                        <p>Github stars?</p>
+                        <p>Github watch?</p>
+                        <p>Github Forks?</p>
+                    </section> -->
+                    <section id="maintainers" class="section">
+                        <h1 class="subtitle is-3">Maintainers:</h1>
+                    </section>
+                    
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>
+                <strong>vcpkgx</strong> by <a href="https://github.com/balnian">Francis Lemaire</a>. The source code is
+                licensed
+                <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
+            </p>
+            <p>
+                Having a problem with the site or a suggestion? <a
+                    href="https://github.com/vcpkgx/vcpkgx.github.io/issues">Open an issue</a>!
+            </p>
+        </div>
+    </footer>
+    <script src="/js/details.js"></script>
+
+</body>
+</html>

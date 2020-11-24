@@ -62,7 +62,6 @@
 .tabbed-container {
     display: flex;
     flex-wrap: wrap;
-    max-width: 700px;
     background: #efefef;
     box-shadow:rgba(10, 10, 10, 0.1) 0px 8px 16px -2px, rgba(10, 10, 10, 0.02) 0px 0px 0px 1px;
     margin-bottom: 1.5rem;
