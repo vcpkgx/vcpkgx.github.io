@@ -147,11 +147,9 @@ function displayPackageInfos(package){
     license.insertAdjacentText('beforeend', " "+licenseText);
 
     var homepage = document.getElementById("homepage");
-    var homepageURL = package.homepage;
-    if (homepageURL == null) {
-        homepageURL = "#";
+    if (package.homepage != null) {
+        homepage.href = package.homepage;
     }
-    homepage.href = homepageURL;
 
     // Github only has 60 request/hour for unauth requests
     // var match = homepageURL.match(/github.com((?:\/[-\w]*){2})/)
@@ -175,11 +173,9 @@ function displayPackageInfos(package){
     // }
 
     var documentation = document.getElementById("documentation");
-    var documentationURL = package.documentation;
-    if (documentationURL == null) {
-        documentationURL = "#";
+    if (package.documentation != null) {
+        documentation.href = package.documentation;
     }
-    documentation.href = documentationURL;
 
     var maintainers = document.getElementById("maintainers");
     for (const nameemail of package.maintainers) {
