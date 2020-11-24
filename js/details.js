@@ -23,8 +23,13 @@ function syncStateFromParams(){
 
 function displayPackageInfos(package){
 
+    var crumsname = document.getElementById("crumsname");
+    crumsname.innerHTML = package.name;
+
     var name = document.getElementById("name");
     name.innerHTML = package.name;
+
+    
 
     var version = document.getElementById("version");
     version.innerHTML = package["version-string"];
@@ -240,4 +245,18 @@ function fallbackCopyTextToClipboard(text) {
     }, function(err) {
     //   console.error('Async: Could not copy text: ', err);
     });
+  }
+
+  function back(){
+      if(document.referrer.length > 0){
+        let prevpage = new URL(document.referrer);
+        let currpage = new URL(window.location);
+        if(prevpage.hostname === currpage.hostname){
+            history.back();
+            return;
+        }
+      }
+    window.location = "/"
+
+    
   }
