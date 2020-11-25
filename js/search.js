@@ -147,8 +147,6 @@ function renderRow(itemName){
     name.innerHTML = itemName;
     entry.appendChild(name);
 
-    console.log(DataItem);
-
     if(DataItem["description"]){
         var description = document.createElement("td");
         description.innerHTML = DataItem.description;

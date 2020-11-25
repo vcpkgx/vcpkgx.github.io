@@ -182,16 +182,19 @@ function displayPackageInfos(package){
         documentation.href = package.documentation;
     }
 
-    var maintainers = document.getElementById("maintainers");
-    for (const nameemail of package.maintainers) {
-        match = nameemail.match(/(.+)(?=<.*>)/);
-        if(match.length>=1){
-            let name = document.createElement("p");
-            name.className = "subtitle is-5"
-            name.innerText = match[1];
-            maintainers.insertAdjacentElement('beforeend', name);
+    if (package.maintainers) {
+        var maintainers = document.getElementById("maintainers");
+        for (const nameemail of package.maintainers) {
+            match = nameemail.match(/(.+)(?=<.*>)/);
+            if(match.length>=1){
+                let name = document.createElement("p");
+                name.className = "subtitle is-5"
+                name.innerText = match[1];
+                maintainers.insertAdjacentElement('beforeend', name);
+            }
         }
     }
+    
 
    
 

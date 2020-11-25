@@ -12,6 +12,19 @@
             "src": "/images/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
+        },
+        {
+            "src": "images/vcpkgx192mask.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/vcpkgx512mask.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+
         }
     ],
     "start_url" : "/",
