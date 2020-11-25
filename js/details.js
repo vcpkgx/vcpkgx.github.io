@@ -23,6 +23,13 @@ function syncStateFromParams(){
 
 function displayPackageInfos(package){
 
+    // Set title
+    document.title = `vcpkgx - ${package.name}`;
+    // set meta description
+    var metadescription = document.getElementById("metadescription");
+    metadescription.setAttribute("content", package.description);
+
+
     var crumsname = document.getElementById("crumsname");
     crumsname.innerHTML = package.name;
 
