@@ -1,6 +1,7 @@
 {
     "name": "vcpkgx",
     "short_name": "vcpkgx",
+    "lang": "en-US",
     "description": "A site to explore vcpkg with a simple yet powerful search to find all the libraries/packages available.",
     "icons": [
         {

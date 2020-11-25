@@ -40,25 +40,14 @@ self.addEventListener('install', function (e) {
     );
 });
 
-/* Serve cached content when offline (Network falling back to the cache) */
-// self.addEventListener('fetch', function (event) {
-//     event.respondWith(
-//         fetch(event.request).catch(function () {
-//             return caches.match(event.request, {ignoreSearch: true});
-//         })
-//     );
-// });
-
 self.addEventListener('fetch', function(event) {
     event.respondWith(
       caches.open(cacheName).then(function(cache) {
         return fetch(event.request).then(function(response) {
             let url = new URL(event.request.url);
             let request = new Request(url.origin+url.pathname);
-            // if(event.request.url.endsWith('/data/libs.json')){
-                cache.put(request, response.clone());
+            cache.put(request, response.clone());
 
-            // }
           return response;
         }).catch(function () {
             return caches.match(event.request, {ignoreSearch: true});
