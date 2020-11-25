@@ -3,7 +3,7 @@ var DataStore=null;
 var result = [];
 var curpage = 0;
 var currmodal = "";
-var nbItemPerPage = 100;
+var nbItemPerPage = 50;
 
 const fuseOption = {
     threshold:0.35,
@@ -168,6 +168,7 @@ function renderRow(itemName){
     var moreinfobtn = document.createElement("a");
     moreinfobtn.innerHTML = '<span class="icon"><i class="fas fa-info fa-lg"></i></span>';
     moreinfobtn.className = "button is-text";
+    moreinfobtn.href = `/details.html?package=${encodeURIComponent(itemName)}`;
 
     moreinfo.appendChild(moreinfobtn);
     entry.appendChild(moreinfo);
