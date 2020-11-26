@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>vcpkgx</title>
+    <link rel="preload" href="/js/search.js" as="script">
+    <link rel="preload" href="/data/libs.json" as="fetch" crossorigin="anonymous">
     <link href="/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/bulma.min.css" />
     <link rel="stylesheet" href="/css/style.css" />
@@ -33,8 +35,8 @@
     </section>
     <section class="section">
         <div class="container">
-            <div class="control is-medium ">
-                <input type="text" class="input is-medium is-primary is-rounded" oninput="search()"
+            <div class="control is-medium "> 
+                <input type="text" class="input is-medium is-primary is-rounded" aria-label="Search vcpkg" oninput="search()"
                     placeholder="Search vcpkg" id="searchbox" />
 
             </div>
