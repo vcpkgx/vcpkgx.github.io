@@ -1,6 +1,8 @@
 
 
 import argparse, os, json, io, re
+from os.path import isfile, join
+from os import listdir
 
 def dir_path(string):
     if os.path.isdir(string):
@@ -128,8 +130,17 @@ for r, d, f in os.walk(os.path.join(args.SourceDirectory,"ports")):
         elif 'usage' == file:
             usagefiles.append(os.path.join(r, file))
 
+tripletBIPath   = join(args.SourceDirectory,"triplets")
+tripletComPath  = join(tripletBIPath,"community")
+
+# create triplet list for `built-in` and `community`
+triplets = {
+    'built-in': [f[:-len('.cmake')] for f in listdir(tripletBIPath) if isfile(join(tripletBIPath,f)) and f.endswith('.cmake')],
+    'community': [f[:-len('.cmake')] for f in listdir(tripletComPath) if isfile(join(tripletComPath,f)) and f.endswith('.cmake')]
+    }
+print(json.dumps(triplets))
+
 # ci.baseline.txt parsing
-triplets = ["arm64-windows", "arm-uwp", "x64-linux", "x64-osx", "x64-uwp", "x64-windows", "x64-windows-static", "x86-windows"]
 packageStatus = {}
 reg = re.compile(r"^\s*([\w-]+)\s*:\s*([\w-]+)\s*=\s*(\w+)\s*$", re.MULTILINE)
 with open(os.path.join(args.SourceDirectory,"scripts/ci.baseline.txt")) as f:
@@ -157,7 +168,7 @@ for filename in vcpkgfiles:
 for i, package in enumerate(dic):
     status = {}
 
-    for triplet in triplets:
+    for triplet in triplets['built-in']:
         if(package["name"]+":"+triplet in packageStatus):
             status[triplet] = packageStatus[package["name"]+":"+triplet]
         else:
