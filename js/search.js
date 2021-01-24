@@ -17,7 +17,7 @@ var fuse = null;
 fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
-        DataStore = data;
+        DataStore = data["packages"];
         fuse = new Fuse(Object.values(DataStore),fuseOption);
         syncStateFromParams();
     });

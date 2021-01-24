@@ -3,7 +3,7 @@ var DataStore=null;
 fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
-        DataStore = data;
+        DataStore = data['packages'];
         syncStateFromParams();
     });
 
