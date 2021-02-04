@@ -9,6 +9,7 @@ from pipeline.add_triplets import AddTriplets
 from pipeline.add_version import AddVersion
 from pipeline.add_timestamp import AddTimestamp
 from pipeline.write_json import WriteJSON
+from pipeline.write_sitemaps import WriteSitemaps
 
 
 if __name__ == "__main__":
@@ -22,7 +23,7 @@ if __name__ == "__main__":
     triplets_path = os.path.join(args.SourceDirectory, "triplets")
     baseline_path = os.path.join(args.SourceDirectory,"scripts/ci.baseline.txt")
     version_path = os.path.join(args.SourceDirectory, "versions")
-
+    data_out_path = os.path.join(args.o,"data")
 
     pipeline  = Pipeline(
             ReadPackages(ports_path),
@@ -31,7 +32,8 @@ if __name__ == "__main__":
             AddStatus(baseline_path),
             AddVersion(version_path),
             AddTimestamp(),
-            WriteJSON(args.o, "libs.json")
+            WriteJSON(data_out_path, "libs.json"),
+            WriteSitemaps(args.o,"sitemap.txt")
         )
 
     pipeline.run()

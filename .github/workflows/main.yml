@@ -37,7 +37,7 @@ jobs:
     - name: Parse CONTROL file
       run: |
         ls vcpkg 
-        python3 -O ./vcpkgx/.tools/parser.py ./vcpkg/ -o ./vcpkgx/data/
+        python3 -O ./vcpkgx/.tools/parser.py ./vcpkg/ -o ./vcpkgx/
         cd vcpkgx
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
