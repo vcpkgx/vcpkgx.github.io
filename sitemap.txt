@@ -1248,6 +1248,7 @@ http://vcpkgx.com/details.html?package=cpuid
 http://vcpkgx.com/details.html?package=physx
 http://vcpkgx.com/details.html?package=brunocodutra-metal
 http://vcpkgx.com/details.html?package=lerc
+http://vcpkgx.com/details.html?package=libuvc
 http://vcpkgx.com/details.html?package=boost-concept-check
 http://vcpkgx.com/details.html?package=libpq
 http://vcpkgx.com/details.html?package=kf5itemviews
