@@ -43,9 +43,10 @@ function syncStateFromParams(){
     search();
 
     if(pageParam && !isNaN(Number(pageParam))){
-        curpage = Number(pageParam);
+        curpage = Number(pageParam)-1;
         renderResult();
     }
+    updatePageBtnState();
 
     // kept for backward compatibility with first version of the site
     if(modal && Object.values(DataStore).map(x => x.name).includes(modal)){
@@ -72,7 +73,7 @@ function updateURLParams(){
         params.delete("regex");
     }
     if (curpage!=0) {
-        params.set("page", curpage.toString());
+        params.set("page", (curpage+1).toString());
         
     } else {
         params.delete("page");
@@ -86,7 +87,7 @@ function updateURLParams(){
 
     url.search = params.toString();
 
-    window.history.replaceState({}, searchbox.value, url.search);
+    window.history.replaceState({}, searchbox.value, url.toString());
 }
 
 
