@@ -1072,6 +1072,7 @@ http://vcpkgx.com/details.html?package=blend2d
 http://vcpkgx.com/details.html?package=tsl-hopscotch-map
 http://vcpkgx.com/details.html?package=benchmark
 http://vcpkgx.com/details.html?package=crashpad
+http://vcpkgx.com/details.html?package=libnop
 http://vcpkgx.com/details.html?package=boost-static-string
 http://vcpkgx.com/details.html?package=discord-rpc
 http://vcpkgx.com/details.html?package=jasper
