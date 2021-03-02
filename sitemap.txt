@@ -1254,6 +1254,7 @@ http://vcpkgx.com/details.html?package=pixel
 http://vcpkgx.com/details.html?package=openmvg
 http://vcpkgx.com/details.html?package=rtabmap
 http://vcpkgx.com/details.html?package=marble
+http://vcpkgx.com/details.html?package=libhv
 http://vcpkgx.com/details.html?package=mpmcqueue
 http://vcpkgx.com/details.html?package=libiconv
 http://vcpkgx.com/details.html?package=moos-ui
