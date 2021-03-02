@@ -151,6 +151,27 @@ function displayPackageInfos(package){
         }
     }
 
+    var versions = document.getElementById("versions");
+    if("versions" in package){
+        for( let item of Object.values(package["versions"])){
+            let version = item["version-string"] || item["version-date"] || item["version-semver"] || item["version"] || ""
+
+            let tr = document.createElement("tr");
+            let thversion = document.createElement("th");
+            thversion.innerText = version;
+            tr.appendChild(thversion);
+            let description = document.createElement("td");
+            description.innerHTML = item["git-tree"];
+            tr.appendChild(description);
+            let portversion = document.createElement("td");
+            portversion.innerHTML = item["port-version"];
+            tr.appendChild(portversion);
+            
+            versions.appendChild(tr);
+        }
+    }
+
+
     var license = document.getElementById("license");
     var licenseText = package.license;
     if (licenseText == null) {

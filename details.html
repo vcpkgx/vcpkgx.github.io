@@ -88,7 +88,7 @@
                     <!-- Features -->
                     <div class="box collapsable collapsed" onClick="collapse()">
                         <h2 class="subtitle collapse-header">Features:</h2>
-                        <div class="tags">
+                        <div class="table-container">
                             <table class="table is-striped is-narrow is-fullwidth">
                                 <tbody id="features">
                                 </tbody>
@@ -99,6 +99,23 @@
                     <div class="box collapsable collapsed" onClick="collapse()">
                         <h2 class="subtitle collapse-header">Build-Depends:</h2>
                         <div class="tags" id="builddepends">
+                        </div>
+                    </div>
+                    <!-- Versions -->
+                    <div class="box collapsable collapsed" onClick="collapse()">
+                        <h2 class="subtitle collapse-header">Versions:</h2>
+                        <div class="tags table-container">
+                            <table class="table is-striped is-narrow is-fullwidth">
+                                <thead>
+                                    <tr>
+                                        <th>Version</th>
+                                        <th>Git Tree</th>
+                                        <th>Port Version</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="versions">
+                                </tbody>
+                            </table>
                         </div>
                     </div>
                 </div>
