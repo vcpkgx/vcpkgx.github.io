@@ -3,32 +3,27 @@
     display: none;
 }
 
-
-.collapsed .collapse-header{
-    margin: 0 !important;
-    
+.collapsable.collapsed{
+  height: 4em;
 }
 
 .collapsed .collapse-header::before{
     font-family: "Font Awesome 5 Free";
-    content: "\f054 ";
+    content: "\f054";
     font-weight: 900;
+    padding-right: 1em;
 }
-
-.collapsed .collapse-header::before::after{
-    content: "\00a0";
-}
-
 
 .collapsable:not(.collapsed) .collapse-header::before{
     font-family: "Font Awesome 5 Free";
-    content: "\f078 ";
+    content: "\f078";
     font-weight: 900;
+    padding-right: .75em;
 }
 
 .is-clickable {
     cursor: pointer;
-  }
+}
 
 .is-overflow-new-line {
     white-space: pre-wrap;       /* Since CSS 2.1 */
