@@ -1217,6 +1217,7 @@ http://vcpkgx.com/details.html?package=mstch
 http://vcpkgx.com/details.html?package=systemc
 http://vcpkgx.com/details.html?package=kf5widgetsaddons
 http://vcpkgx.com/details.html?package=qt5-connectivity
+http://vcpkgx.com/details.html?package=popsift
 http://vcpkgx.com/details.html?package=cpptoml
 http://vcpkgx.com/details.html?package=jsoncons
 http://vcpkgx.com/details.html?package=cppzmq
