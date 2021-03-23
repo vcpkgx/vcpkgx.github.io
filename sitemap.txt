@@ -1122,6 +1122,7 @@ http://vcpkgx.com/details.html?package=asmjit
 http://vcpkgx.com/details.html?package=flatbuffers
 http://vcpkgx.com/details.html?package=libconfig
 http://vcpkgx.com/details.html?package=libarchive
+http://vcpkgx.com/details.html?package=mnn
 http://vcpkgx.com/details.html?package=boost-bind
 http://vcpkgx.com/details.html?package=dlfcn-win32
 http://vcpkgx.com/details.html?package=lilv
