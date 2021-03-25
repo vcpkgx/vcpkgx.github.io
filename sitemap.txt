@@ -1013,6 +1013,7 @@ http://vcpkgx.com/details.html?package=boost-ptr-container
 http://vcpkgx.com/details.html?package=llgl
 http://vcpkgx.com/details.html?package=tclap
 http://vcpkgx.com/details.html?package=rxspencer
+http://vcpkgx.com/details.html?package=libmt32emu
 http://vcpkgx.com/details.html?package=cgl
 http://vcpkgx.com/details.html?package=geographiclib
 http://vcpkgx.com/details.html?package=networkdirect-sdk
