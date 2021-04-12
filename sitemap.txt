@@ -1453,6 +1453,7 @@ http://vcpkgx.com/details.html?package=libuv
 http://vcpkgx.com/details.html?package=cjson
 http://vcpkgx.com/details.html?package=luajit
 http://vcpkgx.com/details.html?package=botan
+http://vcpkgx.com/details.html?package=hypodermic
 http://vcpkgx.com/details.html?package=spdk-dpdk
 http://vcpkgx.com/details.html?package=speex
 http://vcpkgx.com/details.html?package=epsilon
