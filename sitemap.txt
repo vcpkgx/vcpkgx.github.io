@@ -268,6 +268,7 @@ http://vcpkgx.com/details.html?package=workflow
 http://vcpkgx.com/details.html?package=rapidxml-ns
 http://vcpkgx.com/details.html?package=boost-algorithm
 http://vcpkgx.com/details.html?package=pngwriter
+http://vcpkgx.com/details.html?package=frugally-deep
 http://vcpkgx.com/details.html?package=libtins
 http://vcpkgx.com/details.html?package=geogram
 http://vcpkgx.com/details.html?package=ctemplate
