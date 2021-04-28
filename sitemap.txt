@@ -420,6 +420,7 @@ http://vcpkgx.com/details.html?package=miniupnpc
 http://vcpkgx.com/details.html?package=any-lite
 http://vcpkgx.com/details.html?package=ceres
 http://vcpkgx.com/details.html?package=parallel-hashmap
+http://vcpkgx.com/details.html?package=pkgconf
 http://vcpkgx.com/details.html?package=urdfdom
 http://vcpkgx.com/details.html?package=ignition-cmake2
 http://vcpkgx.com/details.html?package=asio
