@@ -998,6 +998,7 @@ http://vcpkgx.com/details.html?package=qt5-serialport
 http://vcpkgx.com/details.html?package=pthreads
 http://vcpkgx.com/details.html?package=gpgme
 http://vcpkgx.com/details.html?package=faad2
+http://vcpkgx.com/details.html?package=yyjson
 http://vcpkgx.com/details.html?package=picosha2
 http://vcpkgx.com/details.html?package=fmi4cpp
 http://vcpkgx.com/details.html?package=libstemmer
