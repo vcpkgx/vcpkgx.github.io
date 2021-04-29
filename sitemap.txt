@@ -651,6 +651,7 @@ http://vcpkgx.com/details.html?package=msdfgen
 http://vcpkgx.com/details.html?package=nlohmann-json
 http://vcpkgx.com/details.html?package=opengl-registry
 http://vcpkgx.com/details.html?package=boost-fusion
+http://vcpkgx.com/details.html?package=igraph
 http://vcpkgx.com/details.html?package=string-theory
 http://vcpkgx.com/details.html?package=zziplib
 http://vcpkgx.com/details.html?package=boost-xpressive
