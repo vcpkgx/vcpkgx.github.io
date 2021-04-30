@@ -137,6 +137,7 @@ http://vcpkgx.com/details.html?package=brunocodutra-metal
 http://vcpkgx.com/details.html?package=sassc
 http://vcpkgx.com/details.html?package=sltbench
 http://vcpkgx.com/details.html?package=gperftools
+http://vcpkgx.com/details.html?package=freealut
 http://vcpkgx.com/details.html?package=ideviceinstaller
 http://vcpkgx.com/details.html?package=libevhtp
 http://vcpkgx.com/details.html?package=fastlz
