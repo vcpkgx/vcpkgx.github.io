@@ -199,6 +199,7 @@ http://vcpkgx.com/details.html?package=sfsexp
 http://vcpkgx.com/details.html?package=oatpp-consul
 http://vcpkgx.com/details.html?package=freetype
 http://vcpkgx.com/details.html?package=libressl
+http://vcpkgx.com/details.html?package=yomm2
 http://vcpkgx.com/details.html?package=liblzma
 http://vcpkgx.com/details.html?package=libogg
 http://vcpkgx.com/details.html?package=qt5-declarative
