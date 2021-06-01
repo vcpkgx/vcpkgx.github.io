@@ -1481,6 +1481,7 @@ http://vcpkgx.com/details.html?package=xalan-c
 http://vcpkgx.com/details.html?package=oatpp-postgresql
 http://vcpkgx.com/details.html?package=boost-log
 http://vcpkgx.com/details.html?package=spdk-dpdk
+http://vcpkgx.com/details.html?package=aom
 http://vcpkgx.com/details.html?package=nt-wrapper
 http://vcpkgx.com/details.html?package=libodb-mysql
 http://vcpkgx.com/details.html?package=aws-c-common
