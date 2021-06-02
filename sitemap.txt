@@ -68,7 +68,6 @@ http://vcpkgx.com/details.html?package=tensorflow
 http://vcpkgx.com/details.html?package=ijg-libjpeg
 http://vcpkgx.com/details.html?package=effects11
 http://vcpkgx.com/details.html?package=libxdiff
-http://vcpkgx.com/details.html?package=forest
 http://vcpkgx.com/details.html?package=libmicrohttpd
 http://vcpkgx.com/details.html?package=pagmo2
 http://vcpkgx.com/details.html?package=boost-interprocess
