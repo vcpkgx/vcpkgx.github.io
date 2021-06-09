@@ -956,6 +956,7 @@ http://vcpkgx.com/details.html?package=qt5-x11extras
 http://vcpkgx.com/details.html?package=blaze
 http://vcpkgx.com/details.html?package=quickfast
 http://vcpkgx.com/details.html?package=sdl1
+http://vcpkgx.com/details.html?package=luasec
 http://vcpkgx.com/details.html?package=flann
 http://vcpkgx.com/details.html?package=cxxopts
 http://vcpkgx.com/details.html?package=openmvs
