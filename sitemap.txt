@@ -1326,6 +1326,7 @@ http://vcpkgx.com/details.html?package=boost-fiber
 http://vcpkgx.com/details.html?package=jack2
 http://vcpkgx.com/details.html?package=mosquitto
 http://vcpkgx.com/details.html?package=boost-bimap
+http://vcpkgx.com/details.html?package=approval-tests-cpp
 http://vcpkgx.com/details.html?package=simpleini
 http://vcpkgx.com/details.html?package=mozjpeg
 http://vcpkgx.com/details.html?package=libqglviewer
