@@ -544,6 +544,7 @@ http://vcpkgx.com/details.html?package=hypre
 http://vcpkgx.com/details.html?package=signalrclient
 http://vcpkgx.com/details.html?package=libhydrogen
 http://vcpkgx.com/details.html?package=libodb-boost
+http://vcpkgx.com/details.html?package=sleef
 http://vcpkgx.com/details.html?package=tmxparser
 http://vcpkgx.com/details.html?package=croncpp
 http://vcpkgx.com/details.html?package=protobuf-c
