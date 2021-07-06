@@ -446,6 +446,7 @@ http://vcpkgx.com/details.html?package=span-lite
 http://vcpkgx.com/details.html?package=boost-histogram
 http://vcpkgx.com/details.html?package=jsonnet
 http://vcpkgx.com/details.html?package=liblemon
+http://vcpkgx.com/details.html?package=klein
 http://vcpkgx.com/details.html?package=qt5-connectivity
 http://vcpkgx.com/details.html?package=opus
 http://vcpkgx.com/details.html?package=boost-iostreams
