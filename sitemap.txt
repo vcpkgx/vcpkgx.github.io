@@ -437,7 +437,6 @@ http://vcpkgx.com/details.html?package=pdal
 http://vcpkgx.com/details.html?package=treehopper
 http://vcpkgx.com/details.html?package=rbdl
 http://vcpkgx.com/details.html?package=gamedev-framework
-http://vcpkgx.com/details.html?package=proxywrapper
 http://vcpkgx.com/details.html?package=libodb-mysql
 http://vcpkgx.com/details.html?package=nmap
 http://vcpkgx.com/details.html?package=ecm
