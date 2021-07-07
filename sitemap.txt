@@ -1410,6 +1410,7 @@ http://vcpkgx.com/details.html?package=libconfuse
 http://vcpkgx.com/details.html?package=boost-spirit
 http://vcpkgx.com/details.html?package=boost-winapi
 http://vcpkgx.com/details.html?package=egl-registry
+http://vcpkgx.com/details.html?package=sleepy-discord
 http://vcpkgx.com/details.html?package=aixlog
 http://vcpkgx.com/details.html?package=fmilib
 http://vcpkgx.com/details.html?package=blas
