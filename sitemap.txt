@@ -133,6 +133,7 @@ http://vcpkgx.com/details.html?package=uwebsockets
 http://vcpkgx.com/details.html?package=chromaprint
 http://vcpkgx.com/details.html?package=directxtex
 http://vcpkgx.com/details.html?package=gdcm2
+http://vcpkgx.com/details.html?package=d3d12-memory-allocator
 http://vcpkgx.com/details.html?package=orc
 http://vcpkgx.com/details.html?package=microsoft-signalr
 http://vcpkgx.com/details.html?package=mesa
