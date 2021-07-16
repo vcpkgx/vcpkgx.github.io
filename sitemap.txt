@@ -1309,6 +1309,7 @@ http://vcpkgx.com/details.html?package=cppcodec
 http://vcpkgx.com/details.html?package=mathc
 http://vcpkgx.com/details.html?package=libxslt
 http://vcpkgx.com/details.html?package=platform-folders
+http://vcpkgx.com/details.html?package=liburing
 http://vcpkgx.com/details.html?package=apr-util
 http://vcpkgx.com/details.html?package=libsmb2
 http://vcpkgx.com/details.html?package=rpclib
