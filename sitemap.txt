@@ -860,6 +860,7 @@ http://vcpkgx.com/details.html?package=sigslot
 http://vcpkgx.com/details.html?package=glm
 http://vcpkgx.com/details.html?package=azure-storage-files-shares-cpp
 http://vcpkgx.com/details.html?package=rapidcsv
+http://vcpkgx.com/details.html?package=starlink-ast
 http://vcpkgx.com/details.html?package=mozjpeg
 http://vcpkgx.com/details.html?package=xsimd
 http://vcpkgx.com/details.html?package=fuzzylite
