@@ -1281,7 +1281,6 @@ http://vcpkgx.com/details.html?package=zziplib
 http://vcpkgx.com/details.html?package=matplotlib-cpp
 http://vcpkgx.com/details.html?package=boost-proto
 http://vcpkgx.com/details.html?package=detours
-http://vcpkgx.com/details.html?package=opencolorio-tools
 http://vcpkgx.com/details.html?package=irrxml
 http://vcpkgx.com/details.html?package=tinycthread
 http://vcpkgx.com/details.html?package=uvatlas
