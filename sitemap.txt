@@ -1685,6 +1685,7 @@ http://vcpkgx.com/details.html?package=gettext
 http://vcpkgx.com/details.html?package=portaudio
 http://vcpkgx.com/details.html?package=rapidjson
 http://vcpkgx.com/details.html?package=numactl
+http://vcpkgx.com/details.html?package=kwsys
 http://vcpkgx.com/details.html?package=lua
 http://vcpkgx.com/details.html?package=bitserializer-rapidjson
 http://vcpkgx.com/details.html?package=openvdb
