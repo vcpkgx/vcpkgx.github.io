@@ -1740,6 +1740,7 @@ http://vcpkgx.com/details.html?package=hwloc
 http://vcpkgx.com/details.html?package=binn
 http://vcpkgx.com/details.html?package=boost-preprocessor
 http://vcpkgx.com/details.html?package=pango
+http://vcpkgx.com/details.html?package=b64
 http://vcpkgx.com/details.html?package=taglib
 http://vcpkgx.com/details.html?package=mpg123
 http://vcpkgx.com/details.html?package=pixel
