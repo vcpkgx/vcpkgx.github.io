@@ -469,6 +469,7 @@ http://vcpkgx.com/details.html?package=grpc
 http://vcpkgx.com/details.html?package=pagmo2
 http://vcpkgx.com/details.html?package=curl
 http://vcpkgx.com/details.html?package=libmariadb
+http://vcpkgx.com/details.html?package=srpc
 http://vcpkgx.com/details.html?package=libvpx
 http://vcpkgx.com/details.html?package=boost-units
 http://vcpkgx.com/details.html?package=tinyexif
