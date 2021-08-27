@@ -929,6 +929,7 @@ http://vcpkgx.com/details.html?package=libodb-pgsql
 http://vcpkgx.com/details.html?package=libigl
 http://vcpkgx.com/details.html?package=boost-heap
 http://vcpkgx.com/details.html?package=nlohmann-json
+http://vcpkgx.com/details.html?package=onnx
 http://vcpkgx.com/details.html?package=farmhash
 http://vcpkgx.com/details.html?package=mimalloc
 http://vcpkgx.com/details.html?package=nvtt
