@@ -1453,6 +1453,7 @@ http://vcpkgx.com/details.html?package=usrsctp
 http://vcpkgx.com/details.html?package=nethost
 http://vcpkgx.com/details.html?package=charls
 http://vcpkgx.com/details.html?package=pcre2
+http://vcpkgx.com/details.html?package=kf5configwidgets
 http://vcpkgx.com/details.html?package=mstch
 http://vcpkgx.com/details.html?package=cpptoml
 http://vcpkgx.com/details.html?package=boost-local-function
