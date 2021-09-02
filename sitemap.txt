@@ -331,6 +331,7 @@ http://vcpkgx.com/details.html?package=boost-mpl
 http://vcpkgx.com/details.html?package=cpp-redis
 http://vcpkgx.com/details.html?package=libsquish
 http://vcpkgx.com/details.html?package=vulkan-memory-allocator
+http://vcpkgx.com/details.html?package=tvision
 http://vcpkgx.com/details.html?package=nanovg
 http://vcpkgx.com/details.html?package=mnn
 http://vcpkgx.com/details.html?package=rest-rpc
