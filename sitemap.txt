@@ -918,6 +918,7 @@ http://vcpkgx.com/details.html?package=wangle
 http://vcpkgx.com/details.html?package=x-plane
 http://vcpkgx.com/details.html?package=pango
 http://vcpkgx.com/details.html?package=libxml2
+http://vcpkgx.com/details.html?package=boinc
 http://vcpkgx.com/details.html?package=if97
 http://vcpkgx.com/details.html?package=paho-mqtt
 http://vcpkgx.com/details.html?package=coinutils
