@@ -1059,7 +1059,6 @@ http://vcpkgx.com/details.html?package=xnnpack
 http://vcpkgx.com/details.html?package=vc
 http://vcpkgx.com/details.html?package=ghc-filesystem
 http://vcpkgx.com/details.html?package=openigtlink
-http://vcpkgx.com/details.html?package=stduuid
 http://vcpkgx.com/details.html?package=omplapp
 http://vcpkgx.com/details.html?package=openxr-loader
 http://vcpkgx.com/details.html?package=boost-property-tree
