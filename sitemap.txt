@@ -940,6 +940,7 @@ http://vcpkgx.com/details.html?package=dmlc
 http://vcpkgx.com/details.html?package=nsync
 http://vcpkgx.com/details.html?package=wepoll
 http://vcpkgx.com/details.html?package=ampl-mp
+http://vcpkgx.com/details.html?package=neon2sse
 http://vcpkgx.com/details.html?package=jsonnet
 http://vcpkgx.com/details.html?package=boost-vcpkg-helpers
 http://vcpkgx.com/details.html?package=kf5auth
