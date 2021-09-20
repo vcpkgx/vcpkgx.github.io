@@ -1009,6 +1009,7 @@ http://vcpkgx.com/details.html?package=google-cloud-cpp
 http://vcpkgx.com/details.html?package=piex
 http://vcpkgx.com/details.html?package=tmxlite
 http://vcpkgx.com/details.html?package=tiny-process-library
+http://vcpkgx.com/details.html?package=calceph
 http://vcpkgx.com/details.html?package=yomm2
 http://vcpkgx.com/details.html?package=plf-nanotimer
 http://vcpkgx.com/details.html?package=azure-uamqp-c
