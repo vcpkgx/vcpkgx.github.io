@@ -4,6 +4,7 @@ http://vcpkgx.com/details.html?package=azure-uhttp-c
 http://vcpkgx.com/details.html?package=gmime
 http://vcpkgx.com/details.html?package=moos-essential
 http://vcpkgx.com/details.html?package=civetweb
+http://vcpkgx.com/details.html?package=kubernetes
 http://vcpkgx.com/details.html?package=fann
 http://vcpkgx.com/details.html?package=atkmm
 http://vcpkgx.com/details.html?package=wt
