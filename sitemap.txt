@@ -1079,6 +1079,7 @@ http://vcpkgx.com/details.html?package=intel-ipsec
 http://vcpkgx.com/details.html?package=camport3
 http://vcpkgx.com/details.html?package=parquet
 http://vcpkgx.com/details.html?package=qt5-connectivity
+http://vcpkgx.com/details.html?package=kf5diagram
 http://vcpkgx.com/details.html?package=qhull
 http://vcpkgx.com/details.html?package=libsigcpp-3
 http://vcpkgx.com/details.html?package=jxrlib
