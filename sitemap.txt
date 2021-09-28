@@ -208,6 +208,7 @@ http://vcpkgx.com/details.html?package=poissonrecon
 http://vcpkgx.com/details.html?package=mapbox-geojson-cpp
 http://vcpkgx.com/details.html?package=glog
 http://vcpkgx.com/details.html?package=psimd
+http://vcpkgx.com/details.html?package=guilite
 http://vcpkgx.com/details.html?package=cello
 http://vcpkgx.com/details.html?package=ncurses
 http://vcpkgx.com/details.html?package=ixwebsocket
