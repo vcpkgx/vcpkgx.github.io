@@ -362,6 +362,7 @@ http://vcpkgx.com/details.html?package=gcem
 http://vcpkgx.com/details.html?package=libdjinterop
 http://vcpkgx.com/details.html?package=otl
 http://vcpkgx.com/details.html?package=discount
+http://vcpkgx.com/details.html?package=tl-generator
 http://vcpkgx.com/details.html?package=harfbuzz
 http://vcpkgx.com/details.html?package=tinyexif
 http://vcpkgx.com/details.html?package=yoga
