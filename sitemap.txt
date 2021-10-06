@@ -1816,4 +1816,5 @@ http://vcpkgx.com/details.html?package=zfp
 http://vcpkgx.com/details.html?package=boost-interprocess
 http://vcpkgx.com/details.html?package=minifb
 http://vcpkgx.com/details.html?package=unittest-cpp
+http://vcpkgx.com/details.html?package=gst-rtsp-server
 http://vcpkgx.com/details.html?package=magnum-plugins
