@@ -370,6 +370,7 @@ http://vcpkgx.com/details.html?package=boost-atomic
 http://vcpkgx.com/details.html?package=asiosdk
 http://vcpkgx.com/details.html?package=libaiff
 http://vcpkgx.com/details.html?package=cimg
+http://vcpkgx.com/details.html?package=kf5kio
 http://vcpkgx.com/details.html?package=termcolor
 http://vcpkgx.com/details.html?package=onnxruntime-gpu
 http://vcpkgx.com/details.html?package=kfr
