@@ -1674,6 +1674,7 @@ http://vcpkgx.com/details.html?package=constexpr
 http://vcpkgx.com/details.html?package=portable-snippets
 http://vcpkgx.com/details.html?package=sdl1
 http://vcpkgx.com/details.html?package=kf5globalaccel
+http://vcpkgx.com/details.html?package=pffft
 http://vcpkgx.com/details.html?package=kf5crash
 http://vcpkgx.com/details.html?package=physx
 http://vcpkgx.com/details.html?package=pqp
