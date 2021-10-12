@@ -388,6 +388,7 @@ http://vcpkgx.com/details.html?package=dbghelp
 http://vcpkgx.com/details.html?package=openvdb
 http://vcpkgx.com/details.html?package=libudns
 http://vcpkgx.com/details.html?package=wepoll
+http://vcpkgx.com/details.html?package=asio-grpc
 http://vcpkgx.com/details.html?package=json5-parser
 http://vcpkgx.com/details.html?package=mosquitto
 http://vcpkgx.com/details.html?package=parallelstl
