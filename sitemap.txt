@@ -1655,6 +1655,7 @@ http://vcpkgx.com/details.html?package=qtactiveqt
 http://vcpkgx.com/details.html?package=dmlc
 http://vcpkgx.com/details.html?package=toml11
 http://vcpkgx.com/details.html?package=gmmlib
+http://vcpkgx.com/details.html?package=graphviz
 http://vcpkgx.com/details.html?package=boost-context
 http://vcpkgx.com/details.html?package=azure-identity-cpp
 http://vcpkgx.com/details.html?package=daw-header-libraries
