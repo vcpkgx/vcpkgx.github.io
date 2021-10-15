@@ -1549,6 +1549,7 @@ http://vcpkgx.com/details.html?package=google-cloud-cpp
 http://vcpkgx.com/details.html?package=boost-iostreams
 http://vcpkgx.com/details.html?package=shogun
 http://vcpkgx.com/details.html?package=tsl-ordered-map
+http://vcpkgx.com/details.html?package=bext-wintls
 http://vcpkgx.com/details.html?package=boost-log
 http://vcpkgx.com/details.html?package=yato
 http://vcpkgx.com/details.html?package=aws-c-common
