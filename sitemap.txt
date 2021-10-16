@@ -1665,6 +1665,7 @@ http://vcpkgx.com/details.html?package=nmslib
 http://vcpkgx.com/details.html?package=boost-assign
 http://vcpkgx.com/details.html?package=cjson
 http://vcpkgx.com/details.html?package=ebml
+http://vcpkgx.com/details.html?package=kf5newstuff
 http://vcpkgx.com/details.html?package=gdcm2
 http://vcpkgx.com/details.html?package=xtensor-io
 http://vcpkgx.com/details.html?package=x264
