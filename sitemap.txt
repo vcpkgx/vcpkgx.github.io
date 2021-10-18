@@ -185,6 +185,7 @@ http://vcpkgx.com/details.html?package=utfcpp
 http://vcpkgx.com/details.html?package=imgui-sfml
 http://vcpkgx.com/details.html?package=libmaxminddb
 http://vcpkgx.com/details.html?package=bento4
+http://vcpkgx.com/details.html?package=compoundfilereader
 http://vcpkgx.com/details.html?package=libdivide
 http://vcpkgx.com/details.html?package=coin
 http://vcpkgx.com/details.html?package=libressl
