@@ -1462,6 +1462,7 @@ http://vcpkgx.com/details.html?package=quazip
 http://vcpkgx.com/details.html?package=ignition-common3
 http://vcpkgx.com/details.html?package=libgit2
 http://vcpkgx.com/details.html?package=boost-callable-traits
+http://vcpkgx.com/details.html?package=cpp-jwt
 http://vcpkgx.com/details.html?package=rabit
 http://vcpkgx.com/details.html?package=pthread
 http://vcpkgx.com/details.html?package=thor
