@@ -487,6 +487,7 @@ http://vcpkgx.com/details.html?package=qtmqtt
 http://vcpkgx.com/details.html?package=chipmunk
 http://vcpkgx.com/details.html?package=flashlight-cuda
 http://vcpkgx.com/details.html?package=concurrentqueue
+http://vcpkgx.com/details.html?package=libopensp
 http://vcpkgx.com/details.html?package=simdutf
 http://vcpkgx.com/details.html?package=xproperty
 http://vcpkgx.com/details.html?package=nghttp2
