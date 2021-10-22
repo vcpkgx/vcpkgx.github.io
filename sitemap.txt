@@ -571,6 +571,7 @@ http://vcpkgx.com/details.html?package=gsoap
 http://vcpkgx.com/details.html?package=blosc
 http://vcpkgx.com/details.html?package=nameof
 http://vcpkgx.com/details.html?package=xerces-c
+http://vcpkgx.com/details.html?package=kf5declarative
 http://vcpkgx.com/details.html?package=qt5-canvas3d
 http://vcpkgx.com/details.html?package=spirv-headers
 http://vcpkgx.com/details.html?package=aws-c-auth
