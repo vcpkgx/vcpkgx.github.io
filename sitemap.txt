@@ -1228,6 +1228,7 @@ http://vcpkgx.com/details.html?package=boost-winapi
 http://vcpkgx.com/details.html?package=boost-lambda
 http://vcpkgx.com/details.html?package=cr
 http://vcpkgx.com/details.html?package=hiredis
+http://vcpkgx.com/details.html?package=libsercomm
 http://vcpkgx.com/details.html?package=boost-logic
 http://vcpkgx.com/details.html?package=ismrmrd
 http://vcpkgx.com/details.html?package=z3
