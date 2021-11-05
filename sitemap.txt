@@ -460,6 +460,7 @@ http://vcpkgx.com/details.html?package=matplotlib-cpp
 http://vcpkgx.com/details.html?package=libxmp-lite
 http://vcpkgx.com/details.html?package=elfio
 http://vcpkgx.com/details.html?package=boost-odeint
+http://vcpkgx.com/details.html?package=squirrel
 http://vcpkgx.com/details.html?package=liblemon
 http://vcpkgx.com/details.html?package=libtcod
 http://vcpkgx.com/details.html?package=libuv
