@@ -1779,6 +1779,7 @@ http://vcpkgx.com/details.html?package=kf5i18n
 http://vcpkgx.com/details.html?package=treehopper
 http://vcpkgx.com/details.html?package=fdlibm
 http://vcpkgx.com/details.html?package=restclient-cpp
+http://vcpkgx.com/details.html?package=mdspan
 http://vcpkgx.com/details.html?package=vcpkg-cmake-config
 http://vcpkgx.com/details.html?package=ftxui
 http://vcpkgx.com/details.html?package=qt
