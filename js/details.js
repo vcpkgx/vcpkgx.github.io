@@ -1,5 +1,7 @@
 var DataStore=null;
 
+var failedTriplet = {};
+
 fetch("/data/libs.json")
     .then(response => response.json())
     .then(data => {
@@ -49,11 +51,19 @@ function displayPackageInfos(package){
             return result;
         },[[],[],[],[]])
         .reduce((arr,elem) => {return arr.concat(elem);},[]);
+    let warningDep = false;
     for( let item of groupedSupport){
         if (item[1] === "pass") {
             let span = document.createElement("span");
-            span.className = "tag is-primary has-text-weight-bold";
+            span.className = "tag has-text-weight-bold";
             span.innerText += item[0];
+            failedTriplet[item[0]] = getfailedSupport(item[0],package,new Array())
+            if(failedTriplet[item[0]].length === 0){
+                span.className+= " is-primary";
+            }else{
+                span.className+= " is-warning ";
+                warningDep = true;
+            }
 
             if(item[0].includes("win") || item[0].includes("uwp")){
                 let ispan = document.createElement("span");
@@ -81,6 +91,33 @@ function displayPackageInfos(package){
 
             supports.appendChild(span);
         }
+    }
+
+    if(warningDep){
+        var depwarning = document.getElementById("depwarning");
+        depwarning.classList.remove("is-hidden");
+
+        var depfailures = document.getElementById("depfailures");
+        for (const [name,items] of Object.entries(failedTriplet).filter(obj => obj[1].length !== 0)) {
+            let triplet = document.createElement("dh");
+            triplet.innerText = `${name} :`;
+            triplet.className = "has-text-weight-bold"
+            depfailures.appendChild(triplet);
+
+            let deps = document.createElement("dd");
+            for (const item of items/*.filter(x => package.dependencies.map(x => (typeof x == 'string'? x: x.name) ).includes(x))*/) {
+                var tag = document.createElement("a");
+                tag.innerText = item;
+                tag.className = "tag is-warning is-medium is-link";
+                if(Object.values(DataStore).map(x => x.name).includes(item.match(/[\w-]+/).toString()))
+                {
+                    tag.href = `/details.html?package=${item.match(/[\w-]+/)}`;
+                }
+                deps.appendChild(tag);
+            }
+            depfailures.appendChild(deps);
+        }
+
     }
     
 
@@ -290,4 +327,32 @@ function fallbackCopyTextToClipboard(text) {
     window.location = "/"
 
     
+  }
+
+  function getfailedSupport(triplet, package, visited){
+    var futureDep = new Array();
+    var failedcheck = [];
+    if("dependencies" in package){
+        for (const depName of package.dependencies.map(x => (typeof x == 'string'? x: x.name) )) {
+            var dep = DataStore.filter(x => x.name === depName)[0];
+            if(dep.status[triplet] !== "pass"){
+                console.log("Support mismatch (pass):",depName, triplet );
+                failedcheck.push(depName);
+            }
+            else if(dep.dependencies)
+                futureDep = futureDep.concat(dep.dependencies.map(x => (typeof x == 'string'? x: x.name)))
+        }
+    }
+    // Remove duplicates
+    futureDep = [... new Set(futureDep)];
+    futureDep = futureDep.filter(x => !visited.includes(x));
+    for (const depName of futureDep) {
+        if((tmp = getfailedSupport(triplet, DataStore.filter(x => x.name === depName)[0],visited.concat(futureDep))).length !== 0)
+        {
+            console.log("Support mismatch (rec):",depName, triplet );
+            failedcheck.push(depName,...tmp);
+
+        }
+    }
+    return [... new Set(failedcheck)];
   }
