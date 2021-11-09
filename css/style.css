@@ -143,5 +143,5 @@
   }
 
   #searchResults:empty {
-    height: 50vh !important;
+    height: 50vh ;
   }
