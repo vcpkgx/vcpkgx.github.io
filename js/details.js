@@ -39,7 +39,7 @@ function displayPackageInfos(package){
     
 
     var version = document.getElementById("version");
-    version.innerHTML = package["version-string"];
+    version.innerHTML = package["version"] || package["version-string"];
 
     var supports = document.getElementById("supports");
     // group array
@@ -123,10 +123,10 @@ function displayPackageInfos(package){
     var features = document.getElementById("features");
     features.textContent ='';
     if("features" in package){
-        for( let item of Object.values(package["features"])){
+        for( const [name,item] of Object.entries(package["features"])){
             let tr = document.createElement("tr");
             let thname = document.createElement("th");
-            thname.innerText = item.name;
+            thname.innerText = name;
             tr.appendChild(thname);
             let description = document.createElement("td");
             description.innerHTML = item.description;
