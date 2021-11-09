@@ -1196,6 +1196,7 @@ http://vcpkgx.com/details.html?package=catch
 http://vcpkgx.com/details.html?package=wil
 http://vcpkgx.com/details.html?package=box2d
 http://vcpkgx.com/details.html?package=nmap
+http://vcpkgx.com/details.html?package=libjxl
 http://vcpkgx.com/details.html?package=crashpad
 http://vcpkgx.com/details.html?package=kubazip
 http://vcpkgx.com/details.html?package=polymorphic-value
