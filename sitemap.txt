@@ -1789,6 +1789,7 @@ http://vcpkgx.com/details.html?package=libxlsxwriter
 http://vcpkgx.com/details.html?package=ring-span-lite
 http://vcpkgx.com/details.html?package=kf5config
 http://vcpkgx.com/details.html?package=jemalloc
+http://vcpkgx.com/details.html?package=azure-security-keyvault-certificates-cpp
 http://vcpkgx.com/details.html?package=cute-headers
 http://vcpkgx.com/details.html?package=basisu
 http://vcpkgx.com/details.html?package=tinyexpr
