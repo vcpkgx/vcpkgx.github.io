@@ -1143,6 +1143,7 @@ http://vcpkgx.com/details.html?package=nano-signal-slot
 http://vcpkgx.com/details.html?package=libilbc
 http://vcpkgx.com/details.html?package=qt5-webchannel
 http://vcpkgx.com/details.html?package=sbp
+http://vcpkgx.com/details.html?package=launch-darkly-server
 http://vcpkgx.com/details.html?package=qt5-remoteobjects
 http://vcpkgx.com/details.html?package=c4core
 http://vcpkgx.com/details.html?package=azure-identity-cpp
