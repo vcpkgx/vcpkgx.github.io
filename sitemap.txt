@@ -260,6 +260,7 @@ http://vcpkgx.com/details.html?package=kf5solid
 http://vcpkgx.com/details.html?package=libfido2
 http://vcpkgx.com/details.html?package=reproc
 http://vcpkgx.com/details.html?package=cairomm
+http://vcpkgx.com/details.html?package=kdbindings
 http://vcpkgx.com/details.html?package=robin-map
 http://vcpkgx.com/details.html?package=flatbuffers
 http://vcpkgx.com/details.html?package=qwt
