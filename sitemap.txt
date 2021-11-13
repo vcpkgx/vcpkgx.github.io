@@ -1065,6 +1065,7 @@ http://vcpkgx.com/details.html?package=aubio
 http://vcpkgx.com/details.html?package=opencl
 http://vcpkgx.com/details.html?package=cuda
 http://vcpkgx.com/details.html?package=itk
+http://vcpkgx.com/details.html?package=libatomic-ops
 http://vcpkgx.com/details.html?package=unittest-cpp
 http://vcpkgx.com/details.html?package=wepoll
 http://vcpkgx.com/details.html?package=boost-circular-buffer
