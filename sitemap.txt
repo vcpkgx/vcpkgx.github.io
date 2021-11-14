@@ -1174,6 +1174,7 @@ http://vcpkgx.com/details.html?package=directxtk12
 http://vcpkgx.com/details.html?package=nanomsg
 http://vcpkgx.com/details.html?package=boost-geometry
 http://vcpkgx.com/details.html?package=tl-generator
+http://vcpkgx.com/details.html?package=libsecret
 http://vcpkgx.com/details.html?package=luasocket
 http://vcpkgx.com/details.html?package=otl
 http://vcpkgx.com/details.html?package=libodb-mysql
