@@ -1674,6 +1674,7 @@ http://vcpkgx.com/details.html?package=sentencepiece
 http://vcpkgx.com/details.html?package=asio-grpc
 http://vcpkgx.com/details.html?package=poco
 http://vcpkgx.com/details.html?package=foonathan-memory
+http://vcpkgx.com/details.html?package=buck-yeh-bux-mariadb-client
 http://vcpkgx.com/details.html?package=sqlitecpp
 http://vcpkgx.com/details.html?package=sol2
 http://vcpkgx.com/details.html?package=boost-safe-numerics
