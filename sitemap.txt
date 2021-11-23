@@ -629,6 +629,7 @@ http://vcpkgx.com/details.html?package=pcapplusplus
 http://vcpkgx.com/details.html?package=dxsdk-d3dx
 http://vcpkgx.com/details.html?package=boost-bimap
 http://vcpkgx.com/details.html?package=chakracore
+http://vcpkgx.com/details.html?package=vcpkg-qmake
 http://vcpkgx.com/details.html?package=sdl2-image
 http://vcpkgx.com/details.html?package=g3log
 http://vcpkgx.com/details.html?package=boost-heap
