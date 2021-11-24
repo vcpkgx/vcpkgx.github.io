@@ -1437,6 +1437,7 @@ http://vcpkgx.com/details.html?package=boost-rational
 http://vcpkgx.com/details.html?package=oniguruma
 http://vcpkgx.com/details.html?package=libalkimia
 http://vcpkgx.com/details.html?package=type-safe
+http://vcpkgx.com/details.html?package=libmount
 http://vcpkgx.com/details.html?package=yara
 http://vcpkgx.com/details.html?package=spirit-po
 http://vcpkgx.com/details.html?package=elfio
