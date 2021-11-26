@@ -202,6 +202,7 @@ http://vcpkgx.com/details.html?package=boost-metaparse
 http://vcpkgx.com/details.html?package=getdns
 http://vcpkgx.com/details.html?package=jwt-cpp
 http://vcpkgx.com/details.html?package=xxhash
+http://vcpkgx.com/details.html?package=fastor
 http://vcpkgx.com/details.html?package=x265
 http://vcpkgx.com/details.html?package=rpclib
 http://vcpkgx.com/details.html?package=azmq
