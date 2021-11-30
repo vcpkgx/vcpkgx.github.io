@@ -1133,6 +1133,7 @@ http://vcpkgx.com/details.html?package=liblsl
 http://vcpkgx.com/details.html?package=libmodbus
 http://vcpkgx.com/details.html?package=libde265
 http://vcpkgx.com/details.html?package=z85
+http://vcpkgx.com/details.html?package=qwt-qt6
 http://vcpkgx.com/details.html?package=vcpkg-pkgconfig-get-modules
 http://vcpkgx.com/details.html?package=entt
 http://vcpkgx.com/details.html?package=kf5solid
