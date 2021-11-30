@@ -156,7 +156,7 @@ function renderRow(itemName){
     
 
     var version = document.createElement("td");
-    version.innerHTML = DataItem["version"] || DataItem["version-string"];
+    version.innerHTML = DataItem["version"] || DataItem["version-string"] || DataItem["version-semver"] || DataItem["version-date"];
     entry.appendChild(version);
 
     var license = document.createElement("td");

@@ -41,7 +41,7 @@ function displayPackageInfos(package){
     
 
     var version = document.getElementById("version");
-    version.innerHTML = package["version"] || package["version-string"];
+    version.innerHTML = package["version"] || package["version-string"] || package["version-semver"]  || package["version-date"];
 
     var supports = document.getElementById("supports");
     // group array
