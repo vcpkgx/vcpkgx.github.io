@@ -672,6 +672,7 @@ http://vcpkgx.com/details.html?package=oatpp-libressl
 http://vcpkgx.com/details.html?package=caf
 http://vcpkgx.com/details.html?package=azure-macro-utils-c
 http://vcpkgx.com/details.html?package=boost-accumulators
+http://vcpkgx.com/details.html?package=qhttpengine
 http://vcpkgx.com/details.html?package=lastools
 http://vcpkgx.com/details.html?package=qtserialport
 http://vcpkgx.com/details.html?package=dbow2
