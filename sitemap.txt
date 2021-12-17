@@ -527,6 +527,7 @@ http://vcpkgx.com/details.html?package=libftdi
 http://vcpkgx.com/details.html?package=simde
 http://vcpkgx.com/details.html?package=gflags
 http://vcpkgx.com/details.html?package=qt5-datavis3d
+http://vcpkgx.com/details.html?package=optimus-cpp
 http://vcpkgx.com/details.html?package=rpclib
 http://vcpkgx.com/details.html?package=directxmesh
 http://vcpkgx.com/details.html?package=magnum-plugins
