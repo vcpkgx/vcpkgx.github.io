@@ -1517,6 +1517,7 @@ http://vcpkgx.com/details.html?package=libjxl
 http://vcpkgx.com/details.html?package=fcl
 http://vcpkgx.com/details.html?package=directxtex
 http://vcpkgx.com/details.html?package=boost-beast
+http://vcpkgx.com/details.html?package=gmsh
 http://vcpkgx.com/details.html?package=boost-lockfree
 http://vcpkgx.com/details.html?package=boost-rational
 http://vcpkgx.com/details.html?package=cgns
