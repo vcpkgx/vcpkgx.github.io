@@ -856,6 +856,7 @@ http://vcpkgx.com/details.html?package=vcpkg-tool-meson
 http://vcpkgx.com/details.html?package=libmysql
 http://vcpkgx.com/details.html?package=fluidsynth
 http://vcpkgx.com/details.html?package=tinyexpr
+http://vcpkgx.com/details.html?package=tracy
 http://vcpkgx.com/details.html?package=kf5syntaxhighlighting
 http://vcpkgx.com/details.html?package=boost-locale
 http://vcpkgx.com/details.html?package=freeglut
