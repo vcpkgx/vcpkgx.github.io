@@ -555,6 +555,7 @@ http://vcpkgx.com/details.html?package=vcpkg-gfortran
 http://vcpkgx.com/details.html?package=qtconnectivity
 http://vcpkgx.com/details.html?package=boost-fusion
 http://vcpkgx.com/details.html?package=ring-span-lite
+http://vcpkgx.com/details.html?package=mvfst
 http://vcpkgx.com/details.html?package=think-cell-range
 http://vcpkgx.com/details.html?package=sratom
 http://vcpkgx.com/details.html?package=easyloggingpp
