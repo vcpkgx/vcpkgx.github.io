@@ -1219,6 +1219,7 @@ http://vcpkgx.com/details.html?package=spix
 http://vcpkgx.com/details.html?package=cppzmq
 http://vcpkgx.com/details.html?package=snappy
 http://vcpkgx.com/details.html?package=luajit
+http://vcpkgx.com/details.html?package=libtess2
 http://vcpkgx.com/details.html?package=cctz
 http://vcpkgx.com/details.html?package=mongo-c-driver
 http://vcpkgx.com/details.html?package=mesa
