@@ -727,6 +727,7 @@ http://vcpkgx.com/details.html?package=tgbot-cpp
 http://vcpkgx.com/details.html?package=ignition-fuel-tools4
 http://vcpkgx.com/details.html?package=tiny-bignum-c
 http://vcpkgx.com/details.html?package=sord
+http://vcpkgx.com/details.html?package=minio-cpp
 http://vcpkgx.com/details.html?package=intel-ipsec
 http://vcpkgx.com/details.html?package=mbedtls
 http://vcpkgx.com/details.html?package=loguru
