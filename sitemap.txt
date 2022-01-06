@@ -634,6 +634,7 @@ http://vcpkgx.com/details.html?package=x-plane
 http://vcpkgx.com/details.html?package=ompl
 http://vcpkgx.com/details.html?package=dataframe
 http://vcpkgx.com/details.html?package=ignition-fuel-tools1
+http://vcpkgx.com/details.html?package=simbody
 http://vcpkgx.com/details.html?package=kf5textwidgets
 http://vcpkgx.com/details.html?package=avcpp
 http://vcpkgx.com/details.html?package=sprout
