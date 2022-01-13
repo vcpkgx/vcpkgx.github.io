@@ -1770,6 +1770,7 @@ http://vcpkgx.com/details.html?package=winpcap
 http://vcpkgx.com/details.html?package=qtinterfaceframework
 http://vcpkgx.com/details.html?package=ocilib
 http://vcpkgx.com/details.html?package=observer-ptr-lite
+http://vcpkgx.com/details.html?package=cppxaml
 http://vcpkgx.com/details.html?package=neon2sse
 http://vcpkgx.com/details.html?package=scintilla
 http://vcpkgx.com/details.html?package=liblzma
