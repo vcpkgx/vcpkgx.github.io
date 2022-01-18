@@ -1818,7 +1818,6 @@ http://vcpkgx.com/details.html?package=nrf-ble-driver
 http://vcpkgx.com/details.html?package=modp-base64
 http://vcpkgx.com/details.html?package=rsm-binary-io
 http://vcpkgx.com/details.html?package=d3d12-memory-allocator
-http://vcpkgx.com/details.html?package=azure-security-keyvault-common-cpp
 http://vcpkgx.com/details.html?package=libwebp
 http://vcpkgx.com/details.html?package=pixel
 http://vcpkgx.com/details.html?package=nmap
