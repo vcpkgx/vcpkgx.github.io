@@ -1081,6 +1081,7 @@ http://vcpkgx.com/details.html?package=kinectsdk1
 http://vcpkgx.com/details.html?package=gl3w
 http://vcpkgx.com/details.html?package=cpp-base64
 http://vcpkgx.com/details.html?package=embree3
+http://vcpkgx.com/details.html?package=flash-runtime-extensions
 http://vcpkgx.com/details.html?package=numcpp
 http://vcpkgx.com/details.html?package=upb
 http://vcpkgx.com/details.html?package=boost-multi-index
