@@ -416,7 +416,6 @@ http://vcpkgx.com/details.html?package=xnnpack
 http://vcpkgx.com/details.html?package=readline-unix
 http://vcpkgx.com/details.html?package=luafilesystem
 http://vcpkgx.com/details.html?package=uvatlas
-http://vcpkgx.com/details.html?package=xmsh
 http://vcpkgx.com/details.html?package=kf5holidays
 http://vcpkgx.com/details.html?package=clara
 http://vcpkgx.com/details.html?package=msix
