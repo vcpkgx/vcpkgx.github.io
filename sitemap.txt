@@ -1503,6 +1503,7 @@ http://vcpkgx.com/details.html?package=azure-storage-blobs-cpp
 http://vcpkgx.com/details.html?package=srell
 http://vcpkgx.com/details.html?package=stx
 http://vcpkgx.com/details.html?package=gstreamer
+http://vcpkgx.com/details.html?package=gobject-introspection
 http://vcpkgx.com/details.html?package=hdf5
 http://vcpkgx.com/details.html?package=libtcod
 http://vcpkgx.com/details.html?package=libirecovery
