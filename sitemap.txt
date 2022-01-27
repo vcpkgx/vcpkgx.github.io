@@ -914,7 +914,6 @@ http://vcpkgx.com/details.html?package=vulkan-headers
 http://vcpkgx.com/details.html?package=darknet
 http://vcpkgx.com/details.html?package=sqlite-modern-cpp
 http://vcpkgx.com/details.html?package=flann
-http://vcpkgx.com/details.html?package=rs-core-lib
 http://vcpkgx.com/details.html?package=ctbignum
 http://vcpkgx.com/details.html?package=gl3w
 http://vcpkgx.com/details.html?package=qscintilla
