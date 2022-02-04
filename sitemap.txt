@@ -42,6 +42,7 @@ http://vcpkgx.com/details.html?package=sleepy-discord
 http://vcpkgx.com/details.html?package=libnop
 http://vcpkgx.com/details.html?package=audiofile
 http://vcpkgx.com/details.html?package=directxtk
+http://vcpkgx.com/details.html?package=rhasheq
 http://vcpkgx.com/details.html?package=freetype-gl
 http://vcpkgx.com/details.html?package=fdlibm
 http://vcpkgx.com/details.html?package=azure-storage-common-cpp
