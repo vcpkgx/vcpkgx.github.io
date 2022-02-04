@@ -992,6 +992,7 @@ http://vcpkgx.com/details.html?package=blaze
 http://vcpkgx.com/details.html?package=azure-umqtt-c
 http://vcpkgx.com/details.html?package=meshoptimizer
 http://vcpkgx.com/details.html?package=portmidi
+http://vcpkgx.com/details.html?package=libe57format
 http://vcpkgx.com/details.html?package=plf-nanotimer
 http://vcpkgx.com/details.html?package=nnpack
 http://vcpkgx.com/details.html?package=zxing-cpp
