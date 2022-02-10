@@ -801,7 +801,6 @@ http://vcpkgx.com/details.html?package=replxx
 http://vcpkgx.com/details.html?package=readline-unix
 http://vcpkgx.com/details.html?package=mpi
 http://vcpkgx.com/details.html?package=openjpeg
-http://vcpkgx.com/details.html?package=field3d
 http://vcpkgx.com/details.html?package=boost-random
 http://vcpkgx.com/details.html?package=3fd
 http://vcpkgx.com/details.html?package=liblas
