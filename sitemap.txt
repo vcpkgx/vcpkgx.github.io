@@ -1010,6 +1010,7 @@ http://vcpkgx.com/details.html?package=rexo
 http://vcpkgx.com/details.html?package=qtdatavis3d
 http://vcpkgx.com/details.html?package=metis
 http://vcpkgx.com/details.html?package=ecm
+http://vcpkgx.com/details.html?package=spirv-reflect
 http://vcpkgx.com/details.html?package=catch2
 http://vcpkgx.com/details.html?package=c-ares
 http://vcpkgx.com/details.html?package=decimal-for-cpp
