@@ -1813,6 +1813,7 @@ http://vcpkgx.com/details.html?package=gl3w
 http://vcpkgx.com/details.html?package=boost-xpressive
 http://vcpkgx.com/details.html?package=libevent
 http://vcpkgx.com/details.html?package=qt5-webchannel
+http://vcpkgx.com/details.html?package=triton
 http://vcpkgx.com/details.html?package=linalg
 http://vcpkgx.com/details.html?package=devicenameresolver
 http://vcpkgx.com/details.html?package=ignition-fuel-tools4
