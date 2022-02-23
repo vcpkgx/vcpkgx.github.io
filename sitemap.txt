@@ -474,6 +474,7 @@ http://vcpkgx.com/details.html?package=pdqsort
 http://vcpkgx.com/details.html?package=hunspell
 http://vcpkgx.com/details.html?package=luasocket
 http://vcpkgx.com/details.html?package=libtomcrypt
+http://vcpkgx.com/details.html?package=libcurl-simple-https
 http://vcpkgx.com/details.html?package=promise-cpp
 http://vcpkgx.com/details.html?package=vs-yasm
 http://vcpkgx.com/details.html?package=sltbench
