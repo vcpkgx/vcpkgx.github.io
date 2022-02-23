@@ -426,6 +426,7 @@ http://vcpkgx.com/details.html?package=boost-regex
 http://vcpkgx.com/details.html?package=intel-ipsec
 http://vcpkgx.com/details.html?package=qt5-svg
 http://vcpkgx.com/details.html?package=hpx
+http://vcpkgx.com/details.html?package=libgpiod
 http://vcpkgx.com/details.html?package=cpp-base64
 http://vcpkgx.com/details.html?package=gmime
 http://vcpkgx.com/details.html?package=cello
