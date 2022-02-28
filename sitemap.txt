@@ -1726,6 +1726,7 @@ http://vcpkgx.com/details.html?package=b64
 http://vcpkgx.com/details.html?package=boinc
 http://vcpkgx.com/details.html?package=pfultz2-linq
 http://vcpkgx.com/details.html?package=anax
+http://vcpkgx.com/details.html?package=cnats
 http://vcpkgx.com/details.html?package=constexpr
 http://vcpkgx.com/details.html?package=cppwinrt
 http://vcpkgx.com/details.html?package=boost-bimap
