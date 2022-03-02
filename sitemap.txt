@@ -843,6 +843,7 @@ http://vcpkgx.com/details.html?package=abseil
 http://vcpkgx.com/details.html?package=libmodman
 http://vcpkgx.com/details.html?package=boost-type-index
 http://vcpkgx.com/details.html?package=double-conversion
+http://vcpkgx.com/details.html?package=libcpplocate
 http://vcpkgx.com/details.html?package=qt5-graphicaleffects
 http://vcpkgx.com/details.html?package=spirv-headers
 http://vcpkgx.com/details.html?package=gaussianlib
