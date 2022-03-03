@@ -565,6 +565,7 @@ http://vcpkgx.com/details.html?package=boost-signals2
 http://vcpkgx.com/details.html?package=chromaprint
 http://vcpkgx.com/details.html?package=mailio
 http://vcpkgx.com/details.html?package=fann
+http://vcpkgx.com/details.html?package=winsparkle
 http://vcpkgx.com/details.html?package=nghttp2
 http://vcpkgx.com/details.html?package=rtmidi
 http://vcpkgx.com/details.html?package=plibsys
