@@ -959,6 +959,7 @@ http://vcpkgx.com/details.html?package=easyloggingpp
 http://vcpkgx.com/details.html?package=snowhouse
 http://vcpkgx.com/details.html?package=mongo-cxx-driver
 http://vcpkgx.com/details.html?package=egl-registry
+http://vcpkgx.com/details.html?package=serdepp
 http://vcpkgx.com/details.html?package=mbedtls
 http://vcpkgx.com/details.html?package=yomm2
 http://vcpkgx.com/details.html?package=slikenet
