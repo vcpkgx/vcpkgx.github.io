@@ -298,6 +298,7 @@ http://vcpkgx.com/details.html?package=glbinding
 http://vcpkgx.com/details.html?package=libgpg-error
 http://vcpkgx.com/details.html?package=boost-static-assert
 http://vcpkgx.com/details.html?package=popsift
+http://vcpkgx.com/details.html?package=tcb-span
 http://vcpkgx.com/details.html?package=alac
 http://vcpkgx.com/details.html?package=spdk-dpdk
 http://vcpkgx.com/details.html?package=mygui
