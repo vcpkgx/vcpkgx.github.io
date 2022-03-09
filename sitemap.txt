@@ -408,6 +408,7 @@ http://vcpkgx.com/details.html?package=libjpeg-turbo
 http://vcpkgx.com/details.html?package=libressl
 http://vcpkgx.com/details.html?package=elfio
 http://vcpkgx.com/details.html?package=boost-variant2
+http://vcpkgx.com/details.html?package=gazebo
 http://vcpkgx.com/details.html?package=lodepng-c
 http://vcpkgx.com/details.html?package=coroutine
 http://vcpkgx.com/details.html?package=nana
