@@ -198,6 +198,7 @@ http://vcpkgx.com/details.html?package=pcl
 http://vcpkgx.com/details.html?package=jsoncpp
 http://vcpkgx.com/details.html?package=hypre
 http://vcpkgx.com/details.html?package=libkml
+http://vcpkgx.com/details.html?package=earcut-hpp
 http://vcpkgx.com/details.html?package=yasm-tool-helper
 http://vcpkgx.com/details.html?package=sundials
 http://vcpkgx.com/details.html?package=cppcoro
