@@ -413,6 +413,7 @@ http://vcpkgx.com/details.html?package=lodepng-c
 http://vcpkgx.com/details.html?package=coroutine
 http://vcpkgx.com/details.html?package=nana
 http://vcpkgx.com/details.html?package=ftgl
+http://vcpkgx.com/details.html?package=gtl
 http://vcpkgx.com/details.html?package=string-view-lite
 http://vcpkgx.com/details.html?package=edlib
 http://vcpkgx.com/details.html?package=geos
