@@ -1895,6 +1895,7 @@ http://vcpkgx.com/details.html?package=glog
 http://vcpkgx.com/details.html?package=portsmf
 http://vcpkgx.com/details.html?package=simde
 http://vcpkgx.com/details.html?package=bitmagic
+http://vcpkgx.com/details.html?package=cargs
 http://vcpkgx.com/details.html?package=asynch
 http://vcpkgx.com/details.html?package=efsw
 http://vcpkgx.com/details.html?package=bitsery
