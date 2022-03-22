@@ -1592,6 +1592,7 @@ http://vcpkgx.com/details.html?package=cpp-timsort
 http://vcpkgx.com/details.html?package=soil
 http://vcpkgx.com/details.html?package=tiny-regex-c
 http://vcpkgx.com/details.html?package=wren
+http://vcpkgx.com/details.html?package=color-console
 http://vcpkgx.com/details.html?package=morton-nd
 http://vcpkgx.com/details.html?package=treehh
 http://vcpkgx.com/details.html?package=wavelib
