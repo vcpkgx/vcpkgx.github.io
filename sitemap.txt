@@ -1422,6 +1422,7 @@ http://vcpkgx.com/details.html?package=co
 http://vcpkgx.com/details.html?package=squirrel
 http://vcpkgx.com/details.html?package=bcg729
 http://vcpkgx.com/details.html?package=vulkan
+http://vcpkgx.com/details.html?package=ztd-text
 http://vcpkgx.com/details.html?package=libical
 http://vcpkgx.com/details.html?package=opensubdiv
 http://vcpkgx.com/details.html?package=cppxaml
