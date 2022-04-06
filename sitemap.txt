@@ -1714,6 +1714,7 @@ http://vcpkgx.com/details.html?package=geotrans
 http://vcpkgx.com/details.html?package=crfsuite
 http://vcpkgx.com/details.html?package=libe57
 http://vcpkgx.com/details.html?package=fp16
+http://vcpkgx.com/details.html?package=azure-security-attestation-cpp
 http://vcpkgx.com/details.html?package=v-hacd
 http://vcpkgx.com/details.html?package=coinutils
 http://vcpkgx.com/details.html?package=boost-mpl
