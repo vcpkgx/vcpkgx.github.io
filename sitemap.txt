@@ -1787,6 +1787,7 @@ http://vcpkgx.com/details.html?package=lzokay
 http://vcpkgx.com/details.html?package=bigint
 http://vcpkgx.com/details.html?package=libmodman
 http://vcpkgx.com/details.html?package=capnproto
+http://vcpkgx.com/details.html?package=discordcoreapi
 http://vcpkgx.com/details.html?package=avro-c
 http://vcpkgx.com/details.html?package=kf5config
 http://vcpkgx.com/details.html?package=catch2
