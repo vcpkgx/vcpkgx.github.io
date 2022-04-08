@@ -1310,6 +1310,7 @@ http://vcpkgx.com/details.html?package=pcl
 http://vcpkgx.com/details.html?package=qt5-serialbus
 http://vcpkgx.com/details.html?package=nanodbc
 http://vcpkgx.com/details.html?package=libnop
+http://vcpkgx.com/details.html?package=braft
 http://vcpkgx.com/details.html?package=fmem
 http://vcpkgx.com/details.html?package=boost-contract
 http://vcpkgx.com/details.html?package=qtdoc
