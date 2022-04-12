@@ -127,6 +127,7 @@ http://vcpkgx.com/details.html?package=laszip
 http://vcpkgx.com/details.html?package=gdcm
 http://vcpkgx.com/details.html?package=cwalk
 http://vcpkgx.com/details.html?package=ncurses
+http://vcpkgx.com/details.html?package=dstorage
 http://vcpkgx.com/details.html?package=nano-signal-slot
 http://vcpkgx.com/details.html?package=qt5-quickcontrols
 http://vcpkgx.com/details.html?package=flashlight-cuda
