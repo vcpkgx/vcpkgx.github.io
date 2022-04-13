@@ -26,6 +26,7 @@ http://vcpkgx.com/details.html?package=cnl
 http://vcpkgx.com/details.html?package=tensorflow-cc
 http://vcpkgx.com/details.html?package=vcpkg-tool-lessmsi
 http://vcpkgx.com/details.html?package=boost-static-string
+http://vcpkgx.com/details.html?package=zeroc-ice
 http://vcpkgx.com/details.html?package=libdjinterop
 http://vcpkgx.com/details.html?package=stlab
 http://vcpkgx.com/details.html?package=b64
