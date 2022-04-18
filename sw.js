@@ -7,6 +7,7 @@ var filesToCache = [
     '/css/style.css',
     '/css/bulma.min.css',
     '/js/fuse.js',
+    '/js/common.js',
     '/js/search.js',
     '/js/details.js',
     '/js/pwa.js',

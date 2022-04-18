@@ -41,7 +41,7 @@ function displayPackageInfos(package){
     
 
     var version = document.getElementById("version");
-    version.innerHTML = package["version"] || package["version-string"] || package["version-semver"]  || package["version-date"];
+    version.innerHTML = getPackageVersion(package);
 
     var supports = document.getElementById("supports");
     // group array
@@ -191,7 +191,7 @@ function displayPackageInfos(package){
     var versions = document.getElementById("versions");
     if("versions" in package){
         for( let item of Object.values(package["versions"])){
-            let version = item["version-string"] || item["version-date"] || item["version-semver"] || item["version"] || ""
+            let version = getPackageVersion(item);
 
             let tr = document.createElement("tr");
             let thversion = document.createElement("th");
@@ -315,32 +315,20 @@ function fallbackCopyTextToClipboard(text) {
     });
   }
 
-  function back(){
-      if(document.referrer.length > 0){
-        let prevpage = new URL(document.referrer);
-        let currpage = new URL(window.location);
-        if(prevpage.hostname === currpage.hostname){
-            history.back();
-            return;
-        }
-      }
-    window.location = "/"
 
-    
-  }
 
   function getfailedSupport(triplet, package, visited){
     var futureDep = new Array();
     var failedcheck = [];
     if("dependencies" in package){
-        for (const depName of package.dependencies.map(x => (typeof x == 'string'? x: x.name) )) {
+        for (const depName of getDependencies(package)) {
             var dep = DataStore.filter(x => x.name === depName)[0];
             if(dep.status[triplet] !== "pass"){
                 console.log("Support mismatch (pass):",depName, triplet );
                 failedcheck.push(depName);
             }
             else if(dep.dependencies)
-                futureDep = futureDep.concat(dep.dependencies.map(x => (typeof x == 'string'? x: x.name)))
+                futureDep = futureDep.concat(getDependencies(dep))
         }
     }
     // Remove duplicates
