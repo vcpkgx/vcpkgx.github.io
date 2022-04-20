@@ -1725,6 +1725,7 @@ http://vcpkgx.com/details.html?package=transwarp
 http://vcpkgx.com/details.html?package=irrlicht
 http://vcpkgx.com/details.html?package=sdl2-gfx
 http://vcpkgx.com/details.html?package=activemq-cpp
+http://vcpkgx.com/details.html?package=rsig
 http://vcpkgx.com/details.html?package=openexr
 http://vcpkgx.com/details.html?package=prometheus-cpp
 http://vcpkgx.com/details.html?package=libmspack
