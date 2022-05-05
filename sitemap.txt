@@ -1193,6 +1193,7 @@ http://vcpkgx.com/details.html?package=geogram
 http://vcpkgx.com/details.html?package=libmikmod
 http://vcpkgx.com/details.html?package=pprint
 http://vcpkgx.com/details.html?package=docopt
+http://vcpkgx.com/details.html?package=stftpitchshift
 http://vcpkgx.com/details.html?package=matio
 http://vcpkgx.com/details.html?package=tiny-dnn
 http://vcpkgx.com/details.html?package=mikktspace
