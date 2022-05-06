@@ -85,6 +85,7 @@ http://vcpkgx.com/details.html?package=aricpp
 http://vcpkgx.com/details.html?package=boost-algorithm
 http://vcpkgx.com/details.html?package=libspatialindex
 http://vcpkgx.com/details.html?package=celero
+http://vcpkgx.com/details.html?package=nanosvg
 http://vcpkgx.com/details.html?package=faiss
 http://vcpkgx.com/details.html?package=argumentum
 http://vcpkgx.com/details.html?package=cctz
