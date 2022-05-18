@@ -1197,6 +1197,7 @@ http://vcpkgx.com/details.html?package=azure-storage-cpp
 http://vcpkgx.com/details.html?package=liblinear
 http://vcpkgx.com/details.html?package=boost-yap
 http://vcpkgx.com/details.html?package=type-lite
+http://vcpkgx.com/details.html?package=openctm
 http://vcpkgx.com/details.html?package=spirv-reflect
 http://vcpkgx.com/details.html?package=boost-lambda2
 http://vcpkgx.com/details.html?package=quantlib
