@@ -418,6 +418,7 @@ http://vcpkgx.com/details.html?package=libmysql
 http://vcpkgx.com/details.html?package=libwebsockets
 http://vcpkgx.com/details.html?package=liblsl
 http://vcpkgx.com/details.html?package=nanosvg
+http://vcpkgx.com/details.html?package=hareflow
 http://vcpkgx.com/details.html?package=luafilesystem
 http://vcpkgx.com/details.html?package=boost-poly-collection
 http://vcpkgx.com/details.html?package=boost-heap
