@@ -970,6 +970,7 @@ http://vcpkgx.com/details.html?package=beast
 http://vcpkgx.com/details.html?package=libexif
 http://vcpkgx.com/details.html?package=qt5-scxml
 http://vcpkgx.com/details.html?package=protozero
+http://vcpkgx.com/details.html?package=buck-yeh-bux-sqlite
 http://vcpkgx.com/details.html?package=paho-mqttpp3
 http://vcpkgx.com/details.html?package=dxsdk-d3dx
 http://vcpkgx.com/details.html?package=p-ranav-csv2
