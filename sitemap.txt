@@ -1603,6 +1603,7 @@ http://vcpkgx.com/details.html?package=taskflow
 http://vcpkgx.com/details.html?package=dbow3
 http://vcpkgx.com/details.html?package=fdlibm
 http://vcpkgx.com/details.html?package=uchardet
+http://vcpkgx.com/details.html?package=random123
 http://vcpkgx.com/details.html?package=cpp-taskflow
 http://vcpkgx.com/details.html?package=dx
 http://vcpkgx.com/details.html?package=grppi
