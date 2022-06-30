@@ -758,6 +758,7 @@ http://vcpkgx.com/details.html?package=readline-win32
 http://vcpkgx.com/details.html?package=libftdi
 http://vcpkgx.com/details.html?package=jansson
 http://vcpkgx.com/details.html?package=roaring
+http://vcpkgx.com/details.html?package=proxy
 http://vcpkgx.com/details.html?package=stormlib
 http://vcpkgx.com/details.html?package=imguizmo
 http://vcpkgx.com/details.html?package=kf5dbusaddons
