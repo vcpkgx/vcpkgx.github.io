@@ -1248,6 +1248,7 @@ http://vcpkgx.com/details.html?package=boost-ublas
 http://vcpkgx.com/details.html?package=bddisasm
 http://vcpkgx.com/details.html?package=nanoprintf
 http://vcpkgx.com/details.html?package=qt5-3d
+http://vcpkgx.com/details.html?package=dv-processing
 http://vcpkgx.com/details.html?package=kf5xmlgui
 http://vcpkgx.com/details.html?package=mpi
 http://vcpkgx.com/details.html?package=fast-float
