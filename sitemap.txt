@@ -1681,6 +1681,7 @@ http://vcpkgx.com/details.html?package=hffix
 http://vcpkgx.com/details.html?package=cwalk
 http://vcpkgx.com/details.html?package=dxut
 http://vcpkgx.com/details.html?package=value-ptr-lite
+http://vcpkgx.com/details.html?package=ableton
 http://vcpkgx.com/details.html?package=happly
 http://vcpkgx.com/details.html?package=libflac
 http://vcpkgx.com/details.html?package=fftwpp
