@@ -315,6 +315,7 @@ http://vcpkgx.com/details.html?package=sfgui
 http://vcpkgx.com/details.html?package=kfr
 http://vcpkgx.com/details.html?package=libdc1394
 http://vcpkgx.com/details.html?package=mapbox-variant
+http://vcpkgx.com/details.html?package=libmicrodns
 http://vcpkgx.com/details.html?package=rapidcheck
 http://vcpkgx.com/details.html?package=vulkan
 http://vcpkgx.com/details.html?package=python2
