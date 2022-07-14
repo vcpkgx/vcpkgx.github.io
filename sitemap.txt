@@ -1906,6 +1906,7 @@ http://vcpkgx.com/details.html?package=nanovg
 http://vcpkgx.com/details.html?package=rest-rpc
 http://vcpkgx.com/details.html?package=uthash
 http://vcpkgx.com/details.html?package=rmlui
+http://vcpkgx.com/details.html?package=azure-core-tracing-opentelemetry-cpp
 http://vcpkgx.com/details.html?package=boost-type-erasure
 http://vcpkgx.com/details.html?package=restclient-cpp
 http://vcpkgx.com/details.html?package=openssl
