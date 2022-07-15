@@ -1140,6 +1140,7 @@ http://vcpkgx.com/details.html?package=libusb-win32
 http://vcpkgx.com/details.html?package=qscintilla
 http://vcpkgx.com/details.html?package=yajl
 http://vcpkgx.com/details.html?package=iir1
+http://vcpkgx.com/details.html?package=gul14
 http://vcpkgx.com/details.html?package=qttools
 http://vcpkgx.com/details.html?package=fmem
 http://vcpkgx.com/details.html?package=orocos-kdl
