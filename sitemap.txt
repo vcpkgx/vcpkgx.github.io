@@ -1515,6 +1515,7 @@ http://vcpkgx.com/details.html?package=libpff
 http://vcpkgx.com/details.html?package=boost-describe
 http://vcpkgx.com/details.html?package=speexdsp
 http://vcpkgx.com/details.html?package=tinyexr
+http://vcpkgx.com/details.html?package=blake3
 http://vcpkgx.com/details.html?package=theia
 http://vcpkgx.com/details.html?package=rtmidi
 http://vcpkgx.com/details.html?package=freexl
