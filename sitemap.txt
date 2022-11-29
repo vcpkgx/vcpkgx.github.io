@@ -16,6 +16,7 @@ http://vcpkgx.com/details.html?package=aws-c-event-stream
 http://vcpkgx.com/details.html?package=ned14-internal-quickcpplib
 http://vcpkgx.com/details.html?package=xcb-util
 http://vcpkgx.com/details.html?package=botan
+http://vcpkgx.com/details.html?package=fastio
 http://vcpkgx.com/details.html?package=azure-core-tracing-opentelemetry-cpp
 http://vcpkgx.com/details.html?package=qtremoteobjects
 http://vcpkgx.com/details.html?package=mp3lame
