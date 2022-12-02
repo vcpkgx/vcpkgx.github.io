@@ -1136,6 +1136,7 @@ http://vcpkgx.com/details.html?package=blaze
 http://vcpkgx.com/details.html?package=xcb-render-util
 http://vcpkgx.com/details.html?package=gperftools
 http://vcpkgx.com/details.html?package=ijg-libjpeg
+http://vcpkgx.com/details.html?package=ngtcp2
 http://vcpkgx.com/details.html?package=wangle
 http://vcpkgx.com/details.html?package=imguizmo
 http://vcpkgx.com/details.html?package=selene
