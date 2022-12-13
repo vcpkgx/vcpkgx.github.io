@@ -1041,6 +1041,7 @@ http://vcpkgx.com/details.html?package=hiredis
 http://vcpkgx.com/details.html?package=fmi4cpp
 http://vcpkgx.com/details.html?package=rsasynccpp
 http://vcpkgx.com/details.html?package=presentmon
+http://vcpkgx.com/details.html?package=libphonenumber
 http://vcpkgx.com/details.html?package=nspr
 http://vcpkgx.com/details.html?package=nowide
 http://vcpkgx.com/details.html?package=tl-ranges
