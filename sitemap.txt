@@ -1088,6 +1088,7 @@ http://vcpkgx.com/details.html?package=pdal-c
 http://vcpkgx.com/details.html?package=forge
 http://vcpkgx.com/details.html?package=libcopp
 http://vcpkgx.com/details.html?package=eastl
+http://vcpkgx.com/details.html?package=marisa-trie
 http://vcpkgx.com/details.html?package=dlib
 http://vcpkgx.com/details.html?package=wxchartdir
 http://vcpkgx.com/details.html?package=pthreads
