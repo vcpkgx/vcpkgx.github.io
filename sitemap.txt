@@ -741,6 +741,7 @@ http://vcpkgx.com/details.html?package=if97
 http://vcpkgx.com/details.html?package=libatomic-ops
 http://vcpkgx.com/details.html?package=boost-lambda
 http://vcpkgx.com/details.html?package=qt5-webengine
+http://vcpkgx.com/details.html?package=simd
 http://vcpkgx.com/details.html?package=quadtree
 http://vcpkgx.com/details.html?package=crashpad
 http://vcpkgx.com/details.html?package=atkmm
