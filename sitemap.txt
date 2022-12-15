@@ -1061,6 +1061,7 @@ http://vcpkgx.com/details.html?package=rubberband
 http://vcpkgx.com/details.html?package=bext-wintls
 http://vcpkgx.com/details.html?package=libosip2
 http://vcpkgx.com/details.html?package=qtvirtualkeyboard
+http://vcpkgx.com/details.html?package=amd-amf
 http://vcpkgx.com/details.html?package=picosha2
 http://vcpkgx.com/details.html?package=vcpkg-qmake
 http://vcpkgx.com/details.html?package=dlib
