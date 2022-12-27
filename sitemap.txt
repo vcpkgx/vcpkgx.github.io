@@ -1685,6 +1685,7 @@ http://vcpkgx.com/details.html?package=poppler
 http://vcpkgx.com/details.html?package=boost-variant2
 http://vcpkgx.com/details.html?package=bshoshany-thread-pool
 http://vcpkgx.com/details.html?package=libxau
+http://vcpkgx.com/details.html?package=etl
 http://vcpkgx.com/details.html?package=kdbindings
 http://vcpkgx.com/details.html?package=spirv-tools
 http://vcpkgx.com/details.html?package=zookeeper
