@@ -1011,6 +1011,7 @@ http://vcpkgx.com/details.html?package=eabase
 http://vcpkgx.com/details.html?package=polyhook2
 http://vcpkgx.com/details.html?package=evpp
 http://vcpkgx.com/details.html?package=soundtouch
+http://vcpkgx.com/details.html?package=libleidenalg
 http://vcpkgx.com/details.html?package=intelrdfpmathlib
 http://vcpkgx.com/details.html?package=byte-lite
 http://vcpkgx.com/details.html?package=frugally-deep
