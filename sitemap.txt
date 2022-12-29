@@ -359,6 +359,7 @@ http://vcpkgx.com/details.html?package=crfsuite
 http://vcpkgx.com/details.html?package=daw-header-libraries
 http://vcpkgx.com/details.html?package=thrift
 http://vcpkgx.com/details.html?package=gpgme
+http://vcpkgx.com/details.html?package=staticjson
 http://vcpkgx.com/details.html?package=libsigcpp-3
 http://vcpkgx.com/details.html?package=catch-classic
 http://vcpkgx.com/details.html?package=osg-qt
