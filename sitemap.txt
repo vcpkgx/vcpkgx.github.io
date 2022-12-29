@@ -1303,6 +1303,7 @@ http://vcpkgx.com/details.html?package=discordcoreapi
 http://vcpkgx.com/details.html?package=cppcms
 http://vcpkgx.com/details.html?package=boost-align
 http://vcpkgx.com/details.html?package=qt-advanced-docking-system
+http://vcpkgx.com/details.html?package=glpk
 http://vcpkgx.com/details.html?package=riffcpp
 http://vcpkgx.com/details.html?package=lazy-importer
 http://vcpkgx.com/details.html?package=clickhouse-cpp
