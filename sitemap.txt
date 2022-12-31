@@ -59,6 +59,7 @@ http://vcpkgx.com/details.html?package=azure-storage-cpp
 http://vcpkgx.com/details.html?package=qt5-tools
 http://vcpkgx.com/details.html?package=nghttp2
 http://vcpkgx.com/details.html?package=akali
+http://vcpkgx.com/details.html?package=recycle
 http://vcpkgx.com/details.html?package=mdns
 http://vcpkgx.com/details.html?package=parmetis
 http://vcpkgx.com/details.html?package=libressl
