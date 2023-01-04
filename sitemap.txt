@@ -963,6 +963,7 @@ http://vcpkgx.com/details.html?package=xtrans
 http://vcpkgx.com/details.html?package=globjects
 http://vcpkgx.com/details.html?package=cpp-netlib
 http://vcpkgx.com/details.html?package=qtkeychain
+http://vcpkgx.com/details.html?package=inipp
 http://vcpkgx.com/details.html?package=dlfcn-win32
 http://vcpkgx.com/details.html?package=cppxaml
 http://vcpkgx.com/details.html?package=boost-mpl
