@@ -1347,6 +1347,7 @@ http://vcpkgx.com/details.html?package=freealut
 http://vcpkgx.com/details.html?package=jack2
 http://vcpkgx.com/details.html?package=console-bridge
 http://vcpkgx.com/details.html?package=vamp-sdk
+http://vcpkgx.com/details.html?package=tcp-pubsub
 http://vcpkgx.com/details.html?package=frozen
 http://vcpkgx.com/details.html?package=libbacktrace
 http://vcpkgx.com/details.html?package=boost-winapi
