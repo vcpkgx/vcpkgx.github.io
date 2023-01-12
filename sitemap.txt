@@ -772,6 +772,7 @@ http://vcpkgx.com/details.html?package=gamenetworkingsockets
 http://vcpkgx.com/details.html?package=shiva
 http://vcpkgx.com/details.html?package=libmupdf
 http://vcpkgx.com/details.html?package=librsvg
+http://vcpkgx.com/details.html?package=scenepic
 http://vcpkgx.com/details.html?package=mapbox-geojson-cpp
 http://vcpkgx.com/details.html?package=boost-process
 http://vcpkgx.com/details.html?package=easyexif
