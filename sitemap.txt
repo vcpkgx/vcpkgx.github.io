@@ -395,6 +395,7 @@ http://vcpkgx.com/details.html?package=gaussianlib
 http://vcpkgx.com/details.html?package=azure-uamqp-c
 http://vcpkgx.com/details.html?package=cppitertools
 http://vcpkgx.com/details.html?package=boost-container-hash
+http://vcpkgx.com/details.html?package=strong-type
 http://vcpkgx.com/details.html?package=cpp-redis
 http://vcpkgx.com/details.html?package=ignition-cmake0
 http://vcpkgx.com/details.html?package=qt5compat
