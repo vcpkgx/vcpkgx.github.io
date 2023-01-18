@@ -2103,6 +2103,7 @@ http://vcpkgx.com/details.html?package=yasm-tool-helper
 http://vcpkgx.com/details.html?package=lz4
 http://vcpkgx.com/details.html?package=kf5itemviews
 http://vcpkgx.com/details.html?package=directx-dxc
+http://vcpkgx.com/details.html?package=libtorch
 http://vcpkgx.com/details.html?package=gl3w
 http://vcpkgx.com/details.html?package=mmloader
 http://vcpkgx.com/details.html?package=kf5sonnet
