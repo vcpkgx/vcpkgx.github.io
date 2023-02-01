@@ -31,7 +31,7 @@ if __name__ == "__main__":
             AddTriplets(triplets_path),
             AddStatus(baseline_path),
             AddVersion(version_path),
-            AddTimestamp(),
+            # AddTimestamp(),
             WriteJSON(data_out_path, "libs.json"),
             WriteSitemaps(args.o,"sitemap.txt")
         )
