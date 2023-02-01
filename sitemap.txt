@@ -1892,6 +1892,7 @@ http://vcpkgx.com/details.html?package=boost-proto
 http://vcpkgx.com/details.html?package=pprint
 http://vcpkgx.com/details.html?package=glog
 http://vcpkgx.com/details.html?package=qt5-activeqt
+http://vcpkgx.com/details.html?package=wasmedge
 http://vcpkgx.com/details.html?package=google-cloud-cpp-common
 http://vcpkgx.com/details.html?package=libsnoretoast
 http://vcpkgx.com/details.html?package=pdal-c
