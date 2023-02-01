@@ -2094,6 +2094,7 @@ http://vcpkgx.com/details.html?package=qtserialport
 http://vcpkgx.com/details.html?package=sleepy-discord
 http://vcpkgx.com/details.html?package=boost-histogram
 http://vcpkgx.com/details.html?package=gflags
+http://vcpkgx.com/details.html?package=aws-c-sdkutils
 http://vcpkgx.com/details.html?package=libpqxx
 http://vcpkgx.com/details.html?package=ccfits
 http://vcpkgx.com/details.html?package=selene
