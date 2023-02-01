@@ -1244,6 +1244,7 @@ http://vcpkgx.com/details.html?package=jsoncons
 http://vcpkgx.com/details.html?package=fastgltf
 http://vcpkgx.com/details.html?package=libaiff
 http://vcpkgx.com/details.html?package=boost-type-traits
+http://vcpkgx.com/details.html?package=chronoengine
 http://vcpkgx.com/details.html?package=mdns
 http://vcpkgx.com/details.html?package=llgl
 http://vcpkgx.com/details.html?package=unicorn-lib
