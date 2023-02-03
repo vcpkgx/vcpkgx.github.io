@@ -1140,6 +1140,7 @@ http://vcpkgx.com/details.html?package=ensmallen
 http://vcpkgx.com/details.html?package=gsl-lite
 http://vcpkgx.com/details.html?package=ignition-math6
 http://vcpkgx.com/details.html?package=libgta
+http://vcpkgx.com/details.html?package=physac
 http://vcpkgx.com/details.html?package=picojson
 http://vcpkgx.com/details.html?package=rtlsdr
 http://vcpkgx.com/details.html?package=realsense2
