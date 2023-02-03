@@ -631,6 +631,7 @@ http://vcpkgx.com/details.html?package=pngpp
 http://vcpkgx.com/details.html?package=blitz
 http://vcpkgx.com/details.html?package=liblo
 http://vcpkgx.com/details.html?package=ktx
+http://vcpkgx.com/details.html?package=arg-router
 http://vcpkgx.com/details.html?package=gklib
 http://vcpkgx.com/details.html?package=boost-optional
 http://vcpkgx.com/details.html?package=turbobase64
