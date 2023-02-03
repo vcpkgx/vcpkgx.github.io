@@ -1920,6 +1920,7 @@ http://vcpkgx.com/details.html?package=openssl
 http://vcpkgx.com/details.html?package=cgns
 http://vcpkgx.com/details.html?package=lcms
 http://vcpkgx.com/details.html?package=aws-crt-cpp
+http://vcpkgx.com/details.html?package=clipper2
 http://vcpkgx.com/details.html?package=libbacktrace
 http://vcpkgx.com/details.html?package=libiconv
 http://vcpkgx.com/details.html?package=libslirp
