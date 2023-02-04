@@ -1387,6 +1387,7 @@ http://vcpkgx.com/details.html?package=libtommath
 http://vcpkgx.com/details.html?package=qtwayland
 http://vcpkgx.com/details.html?package=vcpkg-tool-mozbuild
 http://vcpkgx.com/details.html?package=convectionkernels
+http://vcpkgx.com/details.html?package=cyclonedds
 http://vcpkgx.com/details.html?package=vcpkg-tool-lessmsi
 http://vcpkgx.com/details.html?package=xorstr
 http://vcpkgx.com/details.html?package=jinja2cpplight
