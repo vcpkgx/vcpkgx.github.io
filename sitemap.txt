@@ -501,6 +501,7 @@ http://vcpkgx.com/details.html?package=boost-utility
 http://vcpkgx.com/details.html?package=boost-interval
 http://vcpkgx.com/details.html?package=args
 http://vcpkgx.com/details.html?package=tinyexr
+http://vcpkgx.com/details.html?package=open-dis-cpp
 http://vcpkgx.com/details.html?package=boost-bimap
 http://vcpkgx.com/details.html?package=activemq-cpp
 http://vcpkgx.com/details.html?package=elements
