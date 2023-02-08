@@ -673,6 +673,7 @@ http://vcpkgx.com/details.html?package=arrayfire
 http://vcpkgx.com/details.html?package=openvr
 http://vcpkgx.com/details.html?package=wavpack
 http://vcpkgx.com/details.html?package=observer-ptr-lite
+http://vcpkgx.com/details.html?package=openturns
 http://vcpkgx.com/details.html?package=qtlocation
 http://vcpkgx.com/details.html?package=libp7-baical
 http://vcpkgx.com/details.html?package=ecm
