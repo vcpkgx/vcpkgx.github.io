@@ -1495,6 +1495,7 @@ http://vcpkgx.com/details.html?package=nowide
 http://vcpkgx.com/details.html?package=libheif
 http://vcpkgx.com/details.html?package=boost-compute
 http://vcpkgx.com/details.html?package=alpaca
+http://vcpkgx.com/details.html?package=binlog
 http://vcpkgx.com/details.html?package=ixwebsocket
 http://vcpkgx.com/details.html?package=python2
 http://vcpkgx.com/details.html?package=boost-static-assert
