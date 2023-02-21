@@ -1058,6 +1058,7 @@ http://vcpkgx.com/details.html?package=inih
 http://vcpkgx.com/details.html?package=ptyqt
 http://vcpkgx.com/details.html?package=mpfr
 http://vcpkgx.com/details.html?package=qt5-scxml
+http://vcpkgx.com/details.html?package=litehtml
 http://vcpkgx.com/details.html?package=daw-json-link
 http://vcpkgx.com/details.html?package=mp-units
 http://vcpkgx.com/details.html?package=qtvirtualkeyboard
