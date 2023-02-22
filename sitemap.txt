@@ -160,6 +160,7 @@ http://vcpkgx.com/details.html?package=libjxl
 http://vcpkgx.com/details.html?package=rkcommon
 http://vcpkgx.com/details.html?package=tre
 http://vcpkgx.com/details.html?package=ignition-msgs1
+http://vcpkgx.com/details.html?package=miniaudio
 http://vcpkgx.com/details.html?package=sdl2-image
 http://vcpkgx.com/details.html?package=mongoose
 http://vcpkgx.com/details.html?package=cunit
