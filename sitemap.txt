@@ -292,6 +292,7 @@ http://vcpkgx.com/details.html?package=libjpeg-turbo
 http://vcpkgx.com/details.html?package=picosha2
 http://vcpkgx.com/details.html?package=rtmidi
 http://vcpkgx.com/details.html?package=minizip
+http://vcpkgx.com/details.html?package=vvenc
 http://vcpkgx.com/details.html?package=ftgl
 http://vcpkgx.com/details.html?package=qt5-graphicaleffects
 http://vcpkgx.com/details.html?package=co
