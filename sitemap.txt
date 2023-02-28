@@ -917,6 +917,7 @@ http://vcpkgx.com/details.html?package=tensorflow
 http://vcpkgx.com/details.html?package=pe-parse
 http://vcpkgx.com/details.html?package=xtensor-blas
 http://vcpkgx.com/details.html?package=flatbuffers
+http://vcpkgx.com/details.html?package=scope-guard
 http://vcpkgx.com/details.html?package=kf5dbusaddons
 http://vcpkgx.com/details.html?package=cereal
 http://vcpkgx.com/details.html?package=directxmesh
