@@ -1543,6 +1543,7 @@ http://vcpkgx.com/details.html?package=libwebsockets
 http://vcpkgx.com/details.html?package=cargs
 http://vcpkgx.com/details.html?package=clblas
 http://vcpkgx.com/details.html?package=ignition-transport8
+http://vcpkgx.com/details.html?package=hnswlib
 http://vcpkgx.com/details.html?package=kissfft
 http://vcpkgx.com/details.html?package=d3dx12
 http://vcpkgx.com/details.html?package=tl-ranges
