@@ -1356,6 +1356,7 @@ http://vcpkgx.com/details.html?package=oatpp-mongo
 http://vcpkgx.com/details.html?package=gtk
 http://vcpkgx.com/details.html?package=theia
 http://vcpkgx.com/details.html?package=freealut
+http://vcpkgx.com/details.html?package=x86-simd-sort
 http://vcpkgx.com/details.html?package=ccd
 http://vcpkgx.com/details.html?package=qtapplicationmanager
 http://vcpkgx.com/details.html?package=librttopo
