@@ -1585,6 +1585,7 @@ http://vcpkgx.com/details.html?package=egl-registry
 http://vcpkgx.com/details.html?package=freeglut
 http://vcpkgx.com/details.html?package=umock-c
 http://vcpkgx.com/details.html?package=nuspell
+http://vcpkgx.com/details.html?package=stdexec
 http://vcpkgx.com/details.html?package=qt5-base
 http://vcpkgx.com/details.html?package=munit
 http://vcpkgx.com/details.html?package=thor
