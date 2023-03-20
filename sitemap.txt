@@ -2065,6 +2065,7 @@ http://vcpkgx.com/details.html?package=libdeflate
 http://vcpkgx.com/details.html?package=transwarp
 http://vcpkgx.com/details.html?package=dv-processing
 http://vcpkgx.com/details.html?package=fastcgi
+http://vcpkgx.com/details.html?package=cachelib
 http://vcpkgx.com/details.html?package=minizip-ng
 http://vcpkgx.com/details.html?package=utf8proc
 http://vcpkgx.com/details.html?package=llfio
