@@ -1755,6 +1755,7 @@ http://vcpkgx.com/details.html?package=mvfst
 http://vcpkgx.com/details.html?package=qt3d
 http://vcpkgx.com/details.html?package=librtmp
 http://vcpkgx.com/details.html?package=etl
+http://vcpkgx.com/details.html?package=libredwg
 http://vcpkgx.com/details.html?package=fakeit
 http://vcpkgx.com/details.html?package=cimg
 http://vcpkgx.com/details.html?package=scottt-debugbreak
