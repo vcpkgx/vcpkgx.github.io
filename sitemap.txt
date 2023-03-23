@@ -816,6 +816,7 @@ http://vcpkgx.com/details.html?package=aixlog
 http://vcpkgx.com/details.html?package=vcpkg-tool-gyp-next
 http://vcpkgx.com/details.html?package=libpmemobj-cpp
 http://vcpkgx.com/details.html?package=cyclonedds
+http://vcpkgx.com/details.html?package=libtar
 http://vcpkgx.com/details.html?package=qt
 http://vcpkgx.com/details.html?package=restbed
 http://vcpkgx.com/details.html?package=tcb-span
