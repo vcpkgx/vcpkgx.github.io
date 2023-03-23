@@ -154,6 +154,7 @@ http://vcpkgx.com/details.html?package=faad2
 http://vcpkgx.com/details.html?package=simde
 http://vcpkgx.com/details.html?package=shogun
 http://vcpkgx.com/details.html?package=google-cloud-cpp-spanner
+http://vcpkgx.com/details.html?package=jsonifier
 http://vcpkgx.com/details.html?package=egl
 http://vcpkgx.com/details.html?package=attr
 http://vcpkgx.com/details.html?package=libtess2
