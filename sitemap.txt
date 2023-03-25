@@ -1678,6 +1678,7 @@ http://vcpkgx.com/details.html?package=argtable2
 http://vcpkgx.com/details.html?package=boost-function
 http://vcpkgx.com/details.html?package=libdshowcapture
 http://vcpkgx.com/details.html?package=libxfixes
+http://vcpkgx.com/details.html?package=msgpack-c
 http://vcpkgx.com/details.html?package=c4core
 http://vcpkgx.com/details.html?package=plasma-wayland-protocols
 http://vcpkgx.com/details.html?package=sf2cute
