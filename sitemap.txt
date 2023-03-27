@@ -1450,6 +1450,7 @@ http://vcpkgx.com/details.html?package=gpgme
 http://vcpkgx.com/details.html?package=pystring
 http://vcpkgx.com/details.html?package=boost-bimap
 http://vcpkgx.com/details.html?package=hikogui
+http://vcpkgx.com/details.html?package=maddy
 http://vcpkgx.com/details.html?package=daw-utf-range
 http://vcpkgx.com/details.html?package=string-theory
 http://vcpkgx.com/details.html?package=exprtk
