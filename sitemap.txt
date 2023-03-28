@@ -1410,6 +1410,7 @@ http://vcpkgx.com/details.html?package=c-ares
 http://vcpkgx.com/details.html?package=sfgui
 http://vcpkgx.com/details.html?package=tinyfiledialogs
 http://vcpkgx.com/details.html?package=buck-yeh-bux
+http://vcpkgx.com/details.html?package=cdt
 http://vcpkgx.com/details.html?package=vlfeat
 http://vcpkgx.com/details.html?package=libmodman
 http://vcpkgx.com/details.html?package=xtl
