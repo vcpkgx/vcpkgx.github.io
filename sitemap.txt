@@ -1575,6 +1575,7 @@ http://vcpkgx.com/details.html?package=s2geometry
 http://vcpkgx.com/details.html?package=daw-json-link
 http://vcpkgx.com/details.html?package=cunit
 http://vcpkgx.com/details.html?package=urdfdom-headers
+http://vcpkgx.com/details.html?package=bxzstr
 http://vcpkgx.com/details.html?package=seacas
 http://vcpkgx.com/details.html?package=sdl2pp
 http://vcpkgx.com/details.html?package=libudns
