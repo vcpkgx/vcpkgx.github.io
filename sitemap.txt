@@ -981,6 +981,7 @@ http://vcpkgx.com/details.html?package=x265
 http://vcpkgx.com/details.html?package=poco
 http://vcpkgx.com/details.html?package=licensepp
 http://vcpkgx.com/details.html?package=nspr
+http://vcpkgx.com/details.html?package=asmtk
 http://vcpkgx.com/details.html?package=dbus
 http://vcpkgx.com/details.html?package=cairo
 http://vcpkgx.com/details.html?package=hfsm2
