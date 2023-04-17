@@ -1166,6 +1166,7 @@ http://vcpkgx.com/details.html?package=opencolorio
 http://vcpkgx.com/details.html?package=libopenmpt
 http://vcpkgx.com/details.html?package=boost-throw-exception
 http://vcpkgx.com/details.html?package=libqglviewer
+http://vcpkgx.com/details.html?package=idyntree
 http://vcpkgx.com/details.html?package=libpff
 http://vcpkgx.com/details.html?package=kf5codecs
 http://vcpkgx.com/details.html?package=benchmark
