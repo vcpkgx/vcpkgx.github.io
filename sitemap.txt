@@ -1101,6 +1101,7 @@ http://vcpkgx.com/details.html?package=septag-dmon
 http://vcpkgx.com/details.html?package=boost-coroutine
 http://vcpkgx.com/details.html?package=llhttp
 http://vcpkgx.com/details.html?package=docopt
+http://vcpkgx.com/details.html?package=makeid
 http://vcpkgx.com/details.html?package=sqlcipher
 http://vcpkgx.com/details.html?package=cccapstone
 http://vcpkgx.com/details.html?package=xerces-c
