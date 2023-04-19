@@ -560,7 +560,6 @@ http://vcpkgx.com/details.html?package=libudis86
 http://vcpkgx.com/details.html?package=ffnvcodec
 http://vcpkgx.com/details.html?package=atomic-queue
 http://vcpkgx.com/details.html?package=tap-windows6
-http://vcpkgx.com/details.html?package=libxmp-lite
 http://vcpkgx.com/details.html?package=bshoshany-thread-pool
 http://vcpkgx.com/details.html?package=libmaxminddb
 http://vcpkgx.com/details.html?package=suitesparse
