@@ -1285,6 +1285,7 @@ http://vcpkgx.com/details.html?package=boost-interprocess
 http://vcpkgx.com/details.html?package=zstd
 http://vcpkgx.com/details.html?package=cgltf
 http://vcpkgx.com/details.html?package=cpp-httplib
+http://vcpkgx.com/details.html?package=stackwalker
 http://vcpkgx.com/details.html?package=bitserializer-cpprestjson
 http://vcpkgx.com/details.html?package=cli
 http://vcpkgx.com/details.html?package=nlohmann-fifo-map
