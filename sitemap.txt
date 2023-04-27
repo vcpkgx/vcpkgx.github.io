@@ -344,6 +344,7 @@ http://vcpkgx.com/details.html?package=boost-throw-exception
 http://vcpkgx.com/details.html?package=zpp-bits
 http://vcpkgx.com/details.html?package=spirv-headers
 http://vcpkgx.com/details.html?package=libjuice
+http://vcpkgx.com/details.html?package=omniorb
 http://vcpkgx.com/details.html?package=libhsplasma
 http://vcpkgx.com/details.html?package=openh264
 http://vcpkgx.com/details.html?package=clapack
