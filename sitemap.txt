@@ -856,6 +856,7 @@ http://vcpkgx.com/details.html?package=libogg
 http://vcpkgx.com/details.html?package=cpp-timsort
 http://vcpkgx.com/details.html?package=qtdatavis3d
 http://vcpkgx.com/details.html?package=yas
+http://vcpkgx.com/details.html?package=tree-similarity
 http://vcpkgx.com/details.html?package=gtk3
 http://vcpkgx.com/details.html?package=co
 http://vcpkgx.com/details.html?package=libgit2
