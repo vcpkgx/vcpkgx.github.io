@@ -2021,6 +2021,7 @@ http://vcpkgx.com/details.html?package=marl
 http://vcpkgx.com/details.html?package=http-parser
 http://vcpkgx.com/details.html?package=libp7-baical
 http://vcpkgx.com/details.html?package=wyhash
+http://vcpkgx.com/details.html?package=cialloo-rcon
 http://vcpkgx.com/details.html?package=tiny-aes-c
 http://vcpkgx.com/details.html?package=winlamb
 http://vcpkgx.com/details.html?package=boost-msm
