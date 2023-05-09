@@ -1542,6 +1542,7 @@ http://vcpkgx.com/details.html?package=spirv-reflect
 http://vcpkgx.com/details.html?package=infoware
 http://vcpkgx.com/details.html?package=boost-variant
 http://vcpkgx.com/details.html?package=nanogui
+http://vcpkgx.com/details.html?package=sdl2-mixer-ext
 http://vcpkgx.com/details.html?package=plibsys
 http://vcpkgx.com/details.html?package=live555
 http://vcpkgx.com/details.html?package=lzfse
