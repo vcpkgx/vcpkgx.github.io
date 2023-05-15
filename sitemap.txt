@@ -378,6 +378,7 @@ http://vcpkgx.com/details.html?package=ignition-plugin1
 http://vcpkgx.com/details.html?package=qtvirtualkeyboard
 http://vcpkgx.com/details.html?package=lpeg
 http://vcpkgx.com/details.html?package=qt5-imageformats
+http://vcpkgx.com/details.html?package=pciids
 http://vcpkgx.com/details.html?package=iir1
 http://vcpkgx.com/details.html?package=sfml
 http://vcpkgx.com/details.html?package=libxt
