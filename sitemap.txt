@@ -677,6 +677,7 @@ http://vcpkgx.com/details.html?package=amd-amf
 http://vcpkgx.com/details.html?package=yasm-tool
 http://vcpkgx.com/details.html?package=rxqt
 http://vcpkgx.com/details.html?package=mygui
+http://vcpkgx.com/details.html?package=gettext-libintl
 http://vcpkgx.com/details.html?package=nlohmann-fifo-map
 http://vcpkgx.com/details.html?package=cgicc
 http://vcpkgx.com/details.html?package=tensorflow-cc
