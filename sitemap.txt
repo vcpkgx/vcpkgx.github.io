@@ -1644,6 +1644,7 @@ http://vcpkgx.com/details.html?package=kf5textwidgets
 http://vcpkgx.com/details.html?package=3fd
 http://vcpkgx.com/details.html?package=ilmbase
 http://vcpkgx.com/details.html?package=boost-lexical-cast
+http://vcpkgx.com/details.html?package=ada-url
 http://vcpkgx.com/details.html?package=boost-endian
 http://vcpkgx.com/details.html?package=libtcod
 http://vcpkgx.com/details.html?package=realsense2
