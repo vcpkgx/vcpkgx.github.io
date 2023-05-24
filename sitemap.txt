@@ -571,6 +571,7 @@ http://vcpkgx.com/details.html?package=nanorange
 http://vcpkgx.com/details.html?package=stlab
 http://vcpkgx.com/details.html?package=ctemplate
 http://vcpkgx.com/details.html?package=nghttp3
+http://vcpkgx.com/details.html?package=recastnavigation
 http://vcpkgx.com/details.html?package=glm
 http://vcpkgx.com/details.html?package=vsg
 http://vcpkgx.com/details.html?package=implot
