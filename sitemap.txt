@@ -837,6 +837,7 @@ http://vcpkgx.com/details.html?package=boost-callable-traits
 http://vcpkgx.com/details.html?package=openmesh
 http://vcpkgx.com/details.html?package=sratom
 http://vcpkgx.com/details.html?package=oatpp-mbedtls
+http://vcpkgx.com/details.html?package=flashlight-text
 http://vcpkgx.com/details.html?package=z4kn4fein-semver
 http://vcpkgx.com/details.html?package=woff2
 http://vcpkgx.com/details.html?package=wolfmqtt
