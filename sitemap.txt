@@ -1386,7 +1386,6 @@ http://vcpkgx.com/details.html?package=nanovg
 http://vcpkgx.com/details.html?package=pthread
 http://vcpkgx.com/details.html?package=kdbindings
 http://vcpkgx.com/details.html?package=simdutf
-http://vcpkgx.com/details.html?package=tool-meson
 http://vcpkgx.com/details.html?package=qtremoteobjects
 http://vcpkgx.com/details.html?package=chakracore
 http://vcpkgx.com/details.html?package=ftxui
