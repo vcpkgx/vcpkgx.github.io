@@ -2068,6 +2068,7 @@ http://vcpkgx.com/details.html?package=xcb-proto
 http://vcpkgx.com/details.html?package=dcmtk
 http://vcpkgx.com/details.html?package=boost-pfr
 http://vcpkgx.com/details.html?package=libpqxx
+http://vcpkgx.com/details.html?package=flashlight-sequence
 http://vcpkgx.com/details.html?package=rest-rpc
 http://vcpkgx.com/details.html?package=rapidcheck
 http://vcpkgx.com/details.html?package=mnn
