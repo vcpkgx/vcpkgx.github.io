@@ -1336,6 +1336,7 @@ http://vcpkgx.com/details.html?package=embree3
 http://vcpkgx.com/details.html?package=libxmp
 http://vcpkgx.com/details.html?package=cimg
 http://vcpkgx.com/details.html?package=mpmcqueue
+http://vcpkgx.com/details.html?package=async-mqtt
 http://vcpkgx.com/details.html?package=popsift
 http://vcpkgx.com/details.html?package=qtquickeffectmaker
 http://vcpkgx.com/details.html?package=josuttis-jthread
