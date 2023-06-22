@@ -1347,6 +1347,7 @@ http://vcpkgx.com/details.html?package=xtrans
 http://vcpkgx.com/details.html?package=bitserializer-rapidyaml
 http://vcpkgx.com/details.html?package=sprout
 http://vcpkgx.com/details.html?package=opensubdiv
+http://vcpkgx.com/details.html?package=libtracepoint-control
 http://vcpkgx.com/details.html?package=fakeit
 http://vcpkgx.com/details.html?package=marisa-trie
 http://vcpkgx.com/details.html?package=ignition-common3
