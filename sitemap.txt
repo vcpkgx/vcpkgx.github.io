@@ -1307,6 +1307,7 @@ http://vcpkgx.com/details.html?package=boost-test
 http://vcpkgx.com/details.html?package=kf5config
 http://vcpkgx.com/details.html?package=vulkan-hpp
 http://vcpkgx.com/details.html?package=quaternions
+http://vcpkgx.com/details.html?package=baresip-libre
 http://vcpkgx.com/details.html?package=libraqm
 http://vcpkgx.com/details.html?package=murmurhash
 http://vcpkgx.com/details.html?package=qtquick3dphysics
