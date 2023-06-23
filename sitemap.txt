@@ -2177,6 +2177,7 @@ http://vcpkgx.com/details.html?package=atlmfc
 http://vcpkgx.com/details.html?package=knet
 http://vcpkgx.com/details.html?package=xerces-c
 http://vcpkgx.com/details.html?package=eastl
+http://vcpkgx.com/details.html?package=vcpkg-msbuild
 http://vcpkgx.com/details.html?package=argparse
 http://vcpkgx.com/details.html?package=cgltf
 http://vcpkgx.com/details.html?package=boost-io
