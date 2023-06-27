@@ -317,6 +317,7 @@ http://vcpkgx.com/details.html?package=minizip-ng
 http://vcpkgx.com/details.html?package=openssl-windows
 http://vcpkgx.com/details.html?package=x264
 http://vcpkgx.com/details.html?package=zeroc-ice
+http://vcpkgx.com/details.html?package=flatbush
 http://vcpkgx.com/details.html?package=boost-program-options
 http://vcpkgx.com/details.html?package=boost-property-map-parallel
 http://vcpkgx.com/details.html?package=ignition-msgs5
