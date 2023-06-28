@@ -1092,6 +1092,7 @@ http://vcpkgx.com/details.html?package=libnice-gst
 http://vcpkgx.com/details.html?package=libgta
 http://vcpkgx.com/details.html?package=jbigkit
 http://vcpkgx.com/details.html?package=opencascade
+http://vcpkgx.com/details.html?package=swenson-sort
 http://vcpkgx.com/details.html?package=kf5sonnet
 http://vcpkgx.com/details.html?package=guilite
 http://vcpkgx.com/details.html?package=paraview
