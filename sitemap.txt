@@ -1040,6 +1040,7 @@ http://vcpkgx.com/details.html?package=zserge-webview
 http://vcpkgx.com/details.html?package=boost-nowide
 http://vcpkgx.com/details.html?package=gpgme
 http://vcpkgx.com/details.html?package=boost-fiber
+http://vcpkgx.com/details.html?package=libev
 http://vcpkgx.com/details.html?package=sciplot
 http://vcpkgx.com/details.html?package=treehh
 http://vcpkgx.com/details.html?package=boost-geometry
