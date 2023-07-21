@@ -1951,6 +1951,7 @@ http://vcpkgx.com/details.html?package=spdlog
 http://vcpkgx.com/details.html?package=clickhouse-cpp
 http://vcpkgx.com/details.html?package=ocilib
 http://vcpkgx.com/details.html?package=xlnt
+http://vcpkgx.com/details.html?package=salome-med-fichier
 http://vcpkgx.com/details.html?package=libxdmcp
 http://vcpkgx.com/details.html?package=rhasheq
 http://vcpkgx.com/details.html?package=xapian
