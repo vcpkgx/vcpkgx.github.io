@@ -269,6 +269,7 @@ http://vcpkgx.com/details.html?package=glew
 http://vcpkgx.com/details.html?package=hwloc
 http://vcpkgx.com/details.html?package=libxlsxwriter
 http://vcpkgx.com/details.html?package=sfml
+http://vcpkgx.com/details.html?package=amd-adl-sdk
 http://vcpkgx.com/details.html?package=rapidxml-ns
 http://vcpkgx.com/details.html?package=boost-lambda
 http://vcpkgx.com/details.html?package=thorvg
