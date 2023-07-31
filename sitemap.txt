@@ -1712,6 +1712,7 @@ http://vcpkgx.com/details.html?package=kfr
 http://vcpkgx.com/details.html?package=cnats
 http://vcpkgx.com/details.html?package=boost-accumulators
 http://vcpkgx.com/details.html?package=prometheus-cpp
+http://vcpkgx.com/details.html?package=apache-datasketches
 http://vcpkgx.com/details.html?package=nlopt
 http://vcpkgx.com/details.html?package=kealib
 http://vcpkgx.com/details.html?package=kf5textwidgets
