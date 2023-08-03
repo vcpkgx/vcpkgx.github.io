@@ -2187,6 +2187,7 @@ http://vcpkgx.com/details.html?package=tsl-ordered-map
 http://vcpkgx.com/details.html?package=boost-xpressive
 http://vcpkgx.com/details.html?package=sparsepp
 http://vcpkgx.com/details.html?package=libxlsxwriter
+http://vcpkgx.com/details.html?package=libxdf
 http://vcpkgx.com/details.html?package=hfsm2
 http://vcpkgx.com/details.html?package=dirent
 http://vcpkgx.com/details.html?package=libodb-sqlite
