@@ -1852,6 +1852,7 @@ http://vcpkgx.com/details.html?package=kf5newstuff
 http://vcpkgx.com/details.html?package=avro-c
 http://vcpkgx.com/details.html?package=qtpositioning
 http://vcpkgx.com/details.html?package=zkpp
+http://vcpkgx.com/details.html?package=simpleble
 http://vcpkgx.com/details.html?package=libxmlpp
 http://vcpkgx.com/details.html?package=jemalloc
 http://vcpkgx.com/details.html?package=libpcap
