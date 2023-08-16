@@ -245,6 +245,7 @@ http://vcpkgx.com/details.html?package=raylib
 http://vcpkgx.com/details.html?package=hypre
 http://vcpkgx.com/details.html?package=morton-nd
 http://vcpkgx.com/details.html?package=cialloo-rcon
+http://vcpkgx.com/details.html?package=libunwind
 http://vcpkgx.com/details.html?package=node-api-headers
 http://vcpkgx.com/details.html?package=wg21-linear-algebra
 http://vcpkgx.com/details.html?package=libgpiod
