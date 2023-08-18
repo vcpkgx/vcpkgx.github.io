@@ -1472,6 +1472,7 @@ http://vcpkgx.com/details.html?package=nanoprintf
 http://vcpkgx.com/details.html?package=qttranslations
 http://vcpkgx.com/details.html?package=nanodbc
 http://vcpkgx.com/details.html?package=cppunit
+http://vcpkgx.com/details.html?package=snap7
 http://vcpkgx.com/details.html?package=trantor
 http://vcpkgx.com/details.html?package=x-plane
 http://vcpkgx.com/details.html?package=sobjectizer
