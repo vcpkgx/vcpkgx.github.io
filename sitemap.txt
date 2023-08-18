@@ -653,6 +653,7 @@ http://vcpkgx.com/details.html?package=boost-property-tree
 http://vcpkgx.com/details.html?package=riffcpp
 http://vcpkgx.com/details.html?package=mygui
 http://vcpkgx.com/details.html?package=arrayfire
+http://vcpkgx.com/details.html?package=anari
 http://vcpkgx.com/details.html?package=libopusenc
 http://vcpkgx.com/details.html?package=polyhook2
 http://vcpkgx.com/details.html?package=indirect-value
