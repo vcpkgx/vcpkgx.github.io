@@ -100,6 +100,7 @@ http://vcpkgx.com/details.html?package=gst-rtsp-server
 http://vcpkgx.com/details.html?package=vcpkg-cmake-get-vars
 http://vcpkgx.com/details.html?package=oatpp-sqlite
 http://vcpkgx.com/details.html?package=jinja2cpplight
+http://vcpkgx.com/details.html?package=pulzed-mini
 http://vcpkgx.com/details.html?package=tesseract
 http://vcpkgx.com/details.html?package=pthreads
 http://vcpkgx.com/details.html?package=opencolorio
