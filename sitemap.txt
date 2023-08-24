@@ -1728,6 +1728,7 @@ http://vcpkgx.com/details.html?package=bcg729
 http://vcpkgx.com/details.html?package=libodb-boost
 http://vcpkgx.com/details.html?package=replxx
 http://vcpkgx.com/details.html?package=openvdb
+http://vcpkgx.com/details.html?package=vsgxchange
 http://vcpkgx.com/details.html?package=duktape
 http://vcpkgx.com/details.html?package=boost-move
 http://vcpkgx.com/details.html?package=cctz
