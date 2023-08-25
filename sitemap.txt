@@ -559,6 +559,7 @@ http://vcpkgx.com/details.html?package=libflac
 http://vcpkgx.com/details.html?package=pegtl
 http://vcpkgx.com/details.html?package=minitrace
 http://vcpkgx.com/details.html?package=fluidlite
+http://vcpkgx.com/details.html?package=sdformat13
 http://vcpkgx.com/details.html?package=freetype-gl
 http://vcpkgx.com/details.html?package=boost-static-string
 http://vcpkgx.com/details.html?package=boost-variant
