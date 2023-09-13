@@ -1646,6 +1646,7 @@ http://vcpkgx.com/details.html?package=inja
 http://vcpkgx.com/details.html?package=boost-concept-check
 http://vcpkgx.com/details.html?package=iir1
 http://vcpkgx.com/details.html?package=qt5-connectivity
+http://vcpkgx.com/details.html?package=boost-compat
 http://vcpkgx.com/details.html?package=sjpeg
 http://vcpkgx.com/details.html?package=libxkbcommon
 http://vcpkgx.com/details.html?package=variant-lite
