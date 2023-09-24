@@ -101,6 +101,7 @@ http://vcpkgx.com/details.html?package=gmsh
 http://vcpkgx.com/details.html?package=asio-grpc
 http://vcpkgx.com/details.html?package=roaring
 http://vcpkgx.com/details.html?package=nifticlib
+http://vcpkgx.com/details.html?package=bext-sml2
 http://vcpkgx.com/details.html?package=kf5kio
 http://vcpkgx.com/details.html?package=autodock-vina
 http://vcpkgx.com/details.html?package=directxtex
