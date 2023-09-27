@@ -1441,6 +1441,7 @@ http://vcpkgx.com/details.html?package=rsm-bsa
 http://vcpkgx.com/details.html?package=openvino
 http://vcpkgx.com/details.html?package=quantlib
 http://vcpkgx.com/details.html?package=tmxlite
+http://vcpkgx.com/details.html?package=ndis-driver-library
 http://vcpkgx.com/details.html?package=sqlite-orm
 http://vcpkgx.com/details.html?package=ignition-common3
 http://vcpkgx.com/details.html?package=sdl2-mixer-ext
