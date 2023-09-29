@@ -2148,6 +2148,7 @@ http://vcpkgx.com/details.html?package=baresip-libre
 http://vcpkgx.com/details.html?package=pqp
 http://vcpkgx.com/details.html?package=vkfft
 http://vcpkgx.com/details.html?package=oatpp-sqlite
+http://vcpkgx.com/details.html?package=fameta-counter
 http://vcpkgx.com/details.html?package=cppkafka
 http://vcpkgx.com/details.html?package=bsio
 http://vcpkgx.com/details.html?package=openturns
