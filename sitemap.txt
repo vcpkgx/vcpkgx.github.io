@@ -1584,6 +1584,7 @@ http://vcpkgx.com/details.html?package=hnswlib
 http://vcpkgx.com/details.html?package=libunifex
 http://vcpkgx.com/details.html?package=qt5-3d
 http://vcpkgx.com/details.html?package=boost-stl-interfaces
+http://vcpkgx.com/details.html?package=libcoro
 http://vcpkgx.com/details.html?package=jbigkit
 http://vcpkgx.com/details.html?package=libosmscout
 http://vcpkgx.com/details.html?package=ignition-cmake0
