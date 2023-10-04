@@ -1362,6 +1362,7 @@ http://vcpkgx.com/details.html?package=libnice
 http://vcpkgx.com/details.html?package=xcb
 http://vcpkgx.com/details.html?package=ginkgo
 http://vcpkgx.com/details.html?package=boost-proto
+http://vcpkgx.com/details.html?package=cppdap
 http://vcpkgx.com/details.html?package=brunocodutra-metal
 http://vcpkgx.com/details.html?package=mp3lame
 http://vcpkgx.com/details.html?package=cargs
