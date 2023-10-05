@@ -439,6 +439,7 @@ http://vcpkgx.com/details.html?package=qtdeclarative
 http://vcpkgx.com/details.html?package=shaderc
 http://vcpkgx.com/details.html?package=libcsv
 http://vcpkgx.com/details.html?package=highfive
+http://vcpkgx.com/details.html?package=atl
 http://vcpkgx.com/details.html?package=hashids
 http://vcpkgx.com/details.html?package=restc-cpp
 http://vcpkgx.com/details.html?package=gtest
