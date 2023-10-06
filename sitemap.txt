@@ -1672,6 +1672,7 @@ http://vcpkgx.com/details.html?package=opentracing
 http://vcpkgx.com/details.html?package=rxspencer
 http://vcpkgx.com/details.html?package=gul14
 http://vcpkgx.com/details.html?package=libspatialite
+http://vcpkgx.com/details.html?package=pravila00-make-vector
 http://vcpkgx.com/details.html?package=mvfst
 http://vcpkgx.com/details.html?package=libudis86
 http://vcpkgx.com/details.html?package=influxdb-cxx
