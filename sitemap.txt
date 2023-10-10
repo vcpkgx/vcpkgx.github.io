@@ -1001,6 +1001,7 @@ http://vcpkgx.com/details.html?package=xlnt
 http://vcpkgx.com/details.html?package=ade
 http://vcpkgx.com/details.html?package=greatest
 http://vcpkgx.com/details.html?package=vxl
+http://vcpkgx.com/details.html?package=qcoro
 http://vcpkgx.com/details.html?package=libgwenhywfar
 http://vcpkgx.com/details.html?package=libxfixes
 http://vcpkgx.com/details.html?package=boost-signals2
