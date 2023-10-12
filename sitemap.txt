@@ -437,6 +437,7 @@ http://vcpkgx.com/details.html?package=libgpiod
 http://vcpkgx.com/details.html?package=stackwalker
 http://vcpkgx.com/details.html?package=qtdeclarative
 http://vcpkgx.com/details.html?package=shaderc
+http://vcpkgx.com/details.html?package=azure-messaging-eventhubs-checkpointstore-blob-cpp
 http://vcpkgx.com/details.html?package=libcsv
 http://vcpkgx.com/details.html?package=highfive
 http://vcpkgx.com/details.html?package=atl
