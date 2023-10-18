@@ -1556,6 +1556,7 @@ http://vcpkgx.com/details.html?package=tinynpy
 http://vcpkgx.com/details.html?package=bdwgc
 http://vcpkgx.com/details.html?package=liblzma
 http://vcpkgx.com/details.html?package=cgns
+http://vcpkgx.com/details.html?package=oboe
 http://vcpkgx.com/details.html?package=osgearth
 http://vcpkgx.com/details.html?package=intelrdfpmathlib
 http://vcpkgx.com/details.html?package=cppslippi
