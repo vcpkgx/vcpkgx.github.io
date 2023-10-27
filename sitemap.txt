@@ -85,6 +85,7 @@ http://vcpkgx.com/details.html?package=discord-game-sdk
 http://vcpkgx.com/details.html?package=lcm
 http://vcpkgx.com/details.html?package=uvatlas
 http://vcpkgx.com/details.html?package=qwt
+http://vcpkgx.com/details.html?package=proxsuite
 http://vcpkgx.com/details.html?package=numactl
 http://vcpkgx.com/details.html?package=d3dx12
 http://vcpkgx.com/details.html?package=grpc
