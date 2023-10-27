@@ -131,6 +131,7 @@ http://vcpkgx.com/details.html?package=fast-cpp-csv-parser
 http://vcpkgx.com/details.html?package=nlohmann-json
 http://vcpkgx.com/details.html?package=yajl
 http://vcpkgx.com/details.html?package=nanosvg
+http://vcpkgx.com/details.html?package=dylib
 http://vcpkgx.com/details.html?package=winreg
 http://vcpkgx.com/details.html?package=flashlight-sequence
 http://vcpkgx.com/details.html?package=tinyxml
