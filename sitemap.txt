@@ -555,6 +555,7 @@ http://vcpkgx.com/details.html?package=sdl2-gfx
 http://vcpkgx.com/details.html?package=rbdl-orb
 http://vcpkgx.com/details.html?package=cello
 http://vcpkgx.com/details.html?package=libxext
+http://vcpkgx.com/details.html?package=gz-sensors7
 http://vcpkgx.com/details.html?package=libsnoretoast
 http://vcpkgx.com/details.html?package=glfw3
 http://vcpkgx.com/details.html?package=cppslippi
