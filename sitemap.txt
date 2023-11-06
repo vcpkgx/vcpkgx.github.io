@@ -2316,6 +2316,7 @@ http://vcpkgx.com/details.html?package=kf5holidays
 http://vcpkgx.com/details.html?package=simd
 http://vcpkgx.com/details.html?package=value-ptr-lite
 http://vcpkgx.com/details.html?package=faad2
+http://vcpkgx.com/details.html?package=rmqcpp
 http://vcpkgx.com/details.html?package=realsense2
 http://vcpkgx.com/details.html?package=eventpp
 http://vcpkgx.com/details.html?package=libmad
