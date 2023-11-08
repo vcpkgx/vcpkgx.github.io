@@ -1035,6 +1035,7 @@ http://vcpkgx.com/details.html?package=plf-hive
 http://vcpkgx.com/details.html?package=rapidxml-ns
 http://vcpkgx.com/details.html?package=nanoprintf
 http://vcpkgx.com/details.html?package=threadpool
+http://vcpkgx.com/details.html?package=vit-vit-ctpl
 http://vcpkgx.com/details.html?package=azure-uamqp-c
 http://vcpkgx.com/details.html?package=kf5coreaddons
 http://vcpkgx.com/details.html?package=libtracepoint
