@@ -642,6 +642,7 @@ http://vcpkgx.com/details.html?package=parson
 http://vcpkgx.com/details.html?package=fastfeat
 http://vcpkgx.com/details.html?package=qt5-webview
 http://vcpkgx.com/details.html?package=boost-outcome
+http://vcpkgx.com/details.html?package=libobfuscate
 http://vcpkgx.com/details.html?package=libtess2
 http://vcpkgx.com/details.html?package=shaderwriter
 http://vcpkgx.com/details.html?package=bext-sml2
