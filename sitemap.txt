@@ -867,6 +867,7 @@ http://vcpkgx.com/details.html?package=glbinding
 http://vcpkgx.com/details.html?package=darts-clone
 http://vcpkgx.com/details.html?package=iniparser
 http://vcpkgx.com/details.html?package=collada-dom
+http://vcpkgx.com/details.html?package=llgi
 http://vcpkgx.com/details.html?package=sparsepp
 http://vcpkgx.com/details.html?package=flint
 http://vcpkgx.com/details.html?package=aws-crt-cpp
