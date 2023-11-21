@@ -1488,6 +1488,7 @@ http://vcpkgx.com/details.html?package=cpputest
 http://vcpkgx.com/details.html?package=qt5-networkauth
 http://vcpkgx.com/details.html?package=tl-expected
 http://vcpkgx.com/details.html?package=fmt
+http://vcpkgx.com/details.html?package=clap-cleveraudio
 http://vcpkgx.com/details.html?package=idyntree
 http://vcpkgx.com/details.html?package=ghc-filesystem
 http://vcpkgx.com/details.html?package=sdl2
