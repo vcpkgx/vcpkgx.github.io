@@ -657,6 +657,7 @@ http://vcpkgx.com/details.html?package=range-v3-vs2015
 http://vcpkgx.com/details.html?package=libxcvt
 http://vcpkgx.com/details.html?package=oatpp-libressl
 http://vcpkgx.com/details.html?package=expected-lite
+http://vcpkgx.com/details.html?package=libassert
 http://vcpkgx.com/details.html?package=wolfmqtt
 http://vcpkgx.com/details.html?package=evpp
 http://vcpkgx.com/details.html?package=treehopper
