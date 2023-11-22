@@ -879,6 +879,7 @@ http://vcpkgx.com/details.html?package=sokol
 http://vcpkgx.com/details.html?package=asmtk
 http://vcpkgx.com/details.html?package=libebur128
 http://vcpkgx.com/details.html?package=bext-ut
+http://vcpkgx.com/details.html?package=jkqtplotter
 http://vcpkgx.com/details.html?package=cctag
 http://vcpkgx.com/details.html?package=geogram
 http://vcpkgx.com/details.html?package=observer-ptr-lite
