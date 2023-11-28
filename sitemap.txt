@@ -2298,6 +2298,7 @@ http://vcpkgx.com/details.html?package=clue
 http://vcpkgx.com/details.html?package=ampl-mp
 http://vcpkgx.com/details.html?package=riffcpp
 http://vcpkgx.com/details.html?package=ableton-link
+http://vcpkgx.com/details.html?package=gapp
 http://vcpkgx.com/details.html?package=soundtouch
 http://vcpkgx.com/details.html?package=sndfile
 http://vcpkgx.com/details.html?package=gperftools
