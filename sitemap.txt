@@ -1467,6 +1467,7 @@ http://vcpkgx.com/details.html?package=catch-classic
 http://vcpkgx.com/details.html?package=cglm
 http://vcpkgx.com/details.html?package=rapidcsv
 http://vcpkgx.com/details.html?package=cppp-reiconv
+http://vcpkgx.com/details.html?package=ctstraffic
 http://vcpkgx.com/details.html?package=ignition-transport4
 http://vcpkgx.com/details.html?package=lmdb
 http://vcpkgx.com/details.html?package=libgig
