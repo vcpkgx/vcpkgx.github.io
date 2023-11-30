@@ -1352,6 +1352,7 @@ http://vcpkgx.com/details.html?package=decimal-for-cpp
 http://vcpkgx.com/details.html?package=nyan-lang
 http://vcpkgx.com/details.html?package=cpr
 http://vcpkgx.com/details.html?package=c9y
+http://vcpkgx.com/details.html?package=qtgraphs
 http://vcpkgx.com/details.html?package=kf5sonnet
 http://vcpkgx.com/details.html?package=snappy
 http://vcpkgx.com/details.html?package=liburing
