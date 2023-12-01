@@ -676,6 +676,7 @@ http://vcpkgx.com/details.html?package=coin-or-cgl
 http://vcpkgx.com/details.html?package=pmdk
 http://vcpkgx.com/details.html?package=qt5-serialport
 http://vcpkgx.com/details.html?package=kubernetes
+http://vcpkgx.com/details.html?package=libspng
 http://vcpkgx.com/details.html?package=mnn
 http://vcpkgx.com/details.html?package=orocos-kdl
 http://vcpkgx.com/details.html?package=utfcpp
