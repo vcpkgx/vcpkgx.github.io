@@ -155,6 +155,7 @@ http://vcpkgx.com/details.html?package=readline-win32
 http://vcpkgx.com/details.html?package=qt5-connectivity
 http://vcpkgx.com/details.html?package=any-lite
 http://vcpkgx.com/details.html?package=qttools
+http://vcpkgx.com/details.html?package=cuda-api-wrappers
 http://vcpkgx.com/details.html?package=pcl
 http://vcpkgx.com/details.html?package=fltk
 http://vcpkgx.com/details.html?package=llvm
