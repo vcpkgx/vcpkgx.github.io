@@ -40,6 +40,7 @@ http://vcpkgx.com/details.html?package=bgfx
 http://vcpkgx.com/details.html?package=xerces-c
 http://vcpkgx.com/details.html?package=gcem
 http://vcpkgx.com/details.html?package=distorm
+http://vcpkgx.com/details.html?package=veigar
 http://vcpkgx.com/details.html?package=tiny-regex-c
 http://vcpkgx.com/details.html?package=hnswlib
 http://vcpkgx.com/details.html?package=plibsys
