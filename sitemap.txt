@@ -593,6 +593,7 @@ http://vcpkgx.com/details.html?package=spout2
 http://vcpkgx.com/details.html?package=libxt
 http://vcpkgx.com/details.html?package=jwt-cpp
 http://vcpkgx.com/details.html?package=iceoryx
+http://vcpkgx.com/details.html?package=ms-ifc-sdk
 http://vcpkgx.com/details.html?package=aws-c-http
 http://vcpkgx.com/details.html?package=frozen
 http://vcpkgx.com/details.html?package=curlpp
