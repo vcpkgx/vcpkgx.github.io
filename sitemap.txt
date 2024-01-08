@@ -1756,6 +1756,7 @@ http://vcpkgx.com/details.html?package=libigl
 http://vcpkgx.com/details.html?package=vcpkg-tool-ninja
 http://vcpkgx.com/details.html?package=json-rpc-cxx
 http://vcpkgx.com/details.html?package=azure-storage-files-datalake-cpp
+http://vcpkgx.com/details.html?package=simonbrunel-qtpromise
 http://vcpkgx.com/details.html?package=gperf
 http://vcpkgx.com/details.html?package=ms-angle
 http://vcpkgx.com/details.html?package=azure-security-attestation-cpp
