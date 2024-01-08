@@ -1067,6 +1067,7 @@ http://vcpkgx.com/details.html?package=nanort
 http://vcpkgx.com/details.html?package=libilbc
 http://vcpkgx.com/details.html?package=gz-cmake3
 http://vcpkgx.com/details.html?package=usrsctp
+http://vcpkgx.com/details.html?package=juce
 http://vcpkgx.com/details.html?package=sciplot
 http://vcpkgx.com/details.html?package=openmama
 http://vcpkgx.com/details.html?package=mvfst
