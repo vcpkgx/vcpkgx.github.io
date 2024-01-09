@@ -1641,6 +1641,7 @@ http://vcpkgx.com/details.html?package=boost-tuple
 http://vcpkgx.com/details.html?package=libui
 http://vcpkgx.com/details.html?package=qt5-gamepad
 http://vcpkgx.com/details.html?package=sratom
+http://vcpkgx.com/details.html?package=libnick
 http://vcpkgx.com/details.html?package=boost-callable-traits
 http://vcpkgx.com/details.html?package=rubberband
 http://vcpkgx.com/details.html?package=oatpp-ssdp
