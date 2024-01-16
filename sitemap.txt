@@ -953,6 +953,7 @@ http://vcpkgx.com/details.html?package=uthash
 http://vcpkgx.com/details.html?package=libxcvt
 http://vcpkgx.com/details.html?package=egl
 http://vcpkgx.com/details.html?package=gtl
+http://vcpkgx.com/details.html?package=netgen
 http://vcpkgx.com/details.html?package=boost-phoenix
 http://vcpkgx.com/details.html?package=zziplib
 http://vcpkgx.com/details.html?package=litehtml
