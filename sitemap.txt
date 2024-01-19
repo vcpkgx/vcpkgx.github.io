@@ -748,6 +748,7 @@ http://vcpkgx.com/details.html?package=roaring
 http://vcpkgx.com/details.html?package=yajl
 http://vcpkgx.com/details.html?package=valijson
 http://vcpkgx.com/details.html?package=vcpkg-tool-nodejs
+http://vcpkgx.com/details.html?package=mtlt
 http://vcpkgx.com/details.html?package=soxr
 http://vcpkgx.com/details.html?package=minc
 http://vcpkgx.com/details.html?package=at-spi2-atk
