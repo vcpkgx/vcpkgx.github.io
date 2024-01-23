@@ -1516,6 +1516,7 @@ http://vcpkgx.com/details.html?package=tinyply
 http://vcpkgx.com/details.html?package=rest-rpc
 http://vcpkgx.com/details.html?package=qthttpserver
 http://vcpkgx.com/details.html?package=itsy-bitsy
+http://vcpkgx.com/details.html?package=open62541pp
 http://vcpkgx.com/details.html?package=eathread
 http://vcpkgx.com/details.html?package=liblzma
 http://vcpkgx.com/details.html?package=caf
