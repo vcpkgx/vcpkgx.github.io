@@ -459,6 +459,7 @@ http://vcpkgx.com/details.html?package=glew
 http://vcpkgx.com/details.html?package=capnproto
 http://vcpkgx.com/details.html?package=cppcodec
 http://vcpkgx.com/details.html?package=magic-enum
+http://vcpkgx.com/details.html?package=cld3
 http://vcpkgx.com/details.html?package=forge
 http://vcpkgx.com/details.html?package=fdk-aac
 http://vcpkgx.com/details.html?package=vcpkg-tool-bazel
