@@ -810,7 +810,6 @@ http://vcpkgx.com/details.html?package=vcpkg-tool-lessmsi
 http://vcpkgx.com/details.html?package=gst-rtsp-server
 http://vcpkgx.com/details.html?package=libmount
 http://vcpkgx.com/details.html?package=quirc
-http://vcpkgx.com/details.html?package=cmcstl2
 http://vcpkgx.com/details.html?package=libfabric
 http://vcpkgx.com/details.html?package=boost-stacktrace
 http://vcpkgx.com/details.html?package=knet
