@@ -1538,6 +1538,7 @@ http://vcpkgx.com/details.html?package=mapbox-variant
 http://vcpkgx.com/details.html?package=boost-logic
 http://vcpkgx.com/details.html?package=azure-uhttp-c
 http://vcpkgx.com/details.html?package=etl
+http://vcpkgx.com/details.html?package=apriltag
 http://vcpkgx.com/details.html?package=libaiff
 http://vcpkgx.com/details.html?package=directxmath
 http://vcpkgx.com/details.html?package=libosmium
