@@ -1847,6 +1847,7 @@ http://vcpkgx.com/details.html?package=ztd-platform
 http://vcpkgx.com/details.html?package=ms-gdkx
 http://vcpkgx.com/details.html?package=libodb-boost
 http://vcpkgx.com/details.html?package=tsl-hopscotch-map
+http://vcpkgx.com/details.html?package=asiochan
 http://vcpkgx.com/details.html?package=thomasmonkman-filewatch
 http://vcpkgx.com/details.html?package=cryptopp
 http://vcpkgx.com/details.html?package=etl
