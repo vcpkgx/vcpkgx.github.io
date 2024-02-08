@@ -1649,6 +1649,7 @@ http://vcpkgx.com/details.html?package=libconfuse
 http://vcpkgx.com/details.html?package=librsvg
 http://vcpkgx.com/details.html?package=arcus
 http://vcpkgx.com/details.html?package=p-ranav-csv
+http://vcpkgx.com/details.html?package=hello-imgui
 http://vcpkgx.com/details.html?package=gettimeofday
 http://vcpkgx.com/details.html?package=ztd-platform
 http://vcpkgx.com/details.html?package=boost-poly-collection
