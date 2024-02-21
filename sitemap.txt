@@ -471,7 +471,6 @@ http://vcpkgx.com/details.html?package=glbinding
 http://vcpkgx.com/details.html?package=nccl
 http://vcpkgx.com/details.html?package=maddy
 http://vcpkgx.com/details.html?package=glib
-http://vcpkgx.com/details.html?package=opentelemetry-fluentd
 http://vcpkgx.com/details.html?package=chartdir
 http://vcpkgx.com/details.html?package=xproto
 http://vcpkgx.com/details.html?package=xcb-proto
