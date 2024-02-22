@@ -2119,6 +2119,7 @@ http://vcpkgx.com/details.html?package=pistache
 http://vcpkgx.com/details.html?package=mcpp
 http://vcpkgx.com/details.html?package=azure-storage-files-datalake-cpp
 http://vcpkgx.com/details.html?package=font-util
+http://vcpkgx.com/details.html?package=cwapi3d
 http://vcpkgx.com/details.html?package=libadwaita
 http://vcpkgx.com/details.html?package=libe57
 http://vcpkgx.com/details.html?package=hashids
