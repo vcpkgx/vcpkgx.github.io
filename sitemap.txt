@@ -1741,6 +1741,7 @@ http://vcpkgx.com/details.html?package=plf-colony
 http://vcpkgx.com/details.html?package=tiny-process-library
 http://vcpkgx.com/details.html?package=kf5iconthemes
 http://vcpkgx.com/details.html?package=cub
+http://vcpkgx.com/details.html?package=libid3tag
 http://vcpkgx.com/details.html?package=apache-datasketches
 http://vcpkgx.com/details.html?package=unicorn
 http://vcpkgx.com/details.html?package=boost-mp11
