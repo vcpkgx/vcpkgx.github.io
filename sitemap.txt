@@ -518,6 +518,7 @@ http://vcpkgx.com/details.html?package=offscale-libetcd-cpp
 http://vcpkgx.com/details.html?package=tinyply
 http://vcpkgx.com/details.html?package=wil
 http://vcpkgx.com/details.html?package=nss
+http://vcpkgx.com/details.html?package=liberasurecode
 http://vcpkgx.com/details.html?package=nativefiledialog
 http://vcpkgx.com/details.html?package=intel-mkl
 http://vcpkgx.com/details.html?package=dlfcn-win32
