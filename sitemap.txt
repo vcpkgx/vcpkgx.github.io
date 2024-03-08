@@ -1696,6 +1696,7 @@ http://vcpkgx.com/details.html?package=aricpp
 http://vcpkgx.com/details.html?package=boost-accumulators
 http://vcpkgx.com/details.html?package=hdf5
 http://vcpkgx.com/details.html?package=qtserialport
+http://vcpkgx.com/details.html?package=liborigin
 http://vcpkgx.com/details.html?package=boost-cobalt
 http://vcpkgx.com/details.html?package=simbody
 http://vcpkgx.com/details.html?package=sdl2-net
