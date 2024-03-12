@@ -1105,6 +1105,7 @@ http://vcpkgx.com/details.html?package=xorg-macros
 http://vcpkgx.com/details.html?package=cutelyst2
 http://vcpkgx.com/details.html?package=vcpkg-get-python-packages
 http://vcpkgx.com/details.html?package=bext-mp
+http://vcpkgx.com/details.html?package=faudio
 http://vcpkgx.com/details.html?package=imguizmo
 http://vcpkgx.com/details.html?package=xbitmaps
 http://vcpkgx.com/details.html?package=onnx-optimizer
