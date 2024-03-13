@@ -1008,6 +1008,7 @@ http://vcpkgx.com/details.html?package=opencsg
 http://vcpkgx.com/details.html?package=zookeeper
 http://vcpkgx.com/details.html?package=lilv
 http://vcpkgx.com/details.html?package=simde
+http://vcpkgx.com/details.html?package=libfuse
 http://vcpkgx.com/details.html?package=openldap
 http://vcpkgx.com/details.html?package=bento4
 http://vcpkgx.com/details.html?package=aws-c-mqtt
