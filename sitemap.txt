@@ -1092,6 +1092,7 @@ http://vcpkgx.com/details.html?package=chromium-base
 http://vcpkgx.com/details.html?package=asio-grpc
 http://vcpkgx.com/details.html?package=qtdeclarative
 http://vcpkgx.com/details.html?package=boost-preprocessor
+http://vcpkgx.com/details.html?package=directx12-agility
 http://vcpkgx.com/details.html?package=libcopp
 http://vcpkgx.com/details.html?package=spirv-headers
 http://vcpkgx.com/details.html?package=tiny-process-library
