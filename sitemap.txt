@@ -1669,6 +1669,7 @@ http://vcpkgx.com/details.html?package=mathgl
 http://vcpkgx.com/details.html?package=reproc
 http://vcpkgx.com/details.html?package=libmesh
 http://vcpkgx.com/details.html?package=tclap
+http://vcpkgx.com/details.html?package=correlation-vector-cpp
 http://vcpkgx.com/details.html?package=hypodermic
 http://vcpkgx.com/details.html?package=itpp
 http://vcpkgx.com/details.html?package=libusb-win32
