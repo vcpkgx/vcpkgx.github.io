@@ -384,7 +384,6 @@ http://vcpkgx.com/details.html?package=tinyply
 http://vcpkgx.com/details.html?package=cppzmq
 http://vcpkgx.com/details.html?package=mapbox-geometry
 http://vcpkgx.com/details.html?package=libgpiod
-http://vcpkgx.com/details.html?package=linenoise-ng
 http://vcpkgx.com/details.html?package=cppad
 http://vcpkgx.com/details.html?package=mchehab-zbar
 http://vcpkgx.com/details.html?package=plf-stack
