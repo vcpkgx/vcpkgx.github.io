@@ -124,6 +124,7 @@ http://vcpkgx.com/details.html?package=stb
 http://vcpkgx.com/details.html?package=mpi
 http://vcpkgx.com/details.html?package=discreture
 http://vcpkgx.com/details.html?package=jsonifier
+http://vcpkgx.com/details.html?package=nanobind
 http://vcpkgx.com/details.html?package=libxtst
 http://vcpkgx.com/details.html?package=libtracepoint
 http://vcpkgx.com/details.html?package=libsm
