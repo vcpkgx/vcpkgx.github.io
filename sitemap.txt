@@ -596,6 +596,7 @@ http://vcpkgx.com/details.html?package=orocos-kdl
 http://vcpkgx.com/details.html?package=vulkan-tools
 http://vcpkgx.com/details.html?package=qtquicktimeline
 http://vcpkgx.com/details.html?package=ltla-umappp
+http://vcpkgx.com/details.html?package=libmidi2
 http://vcpkgx.com/details.html?package=libevent
 http://vcpkgx.com/details.html?package=cnats
 http://vcpkgx.com/details.html?package=live555
