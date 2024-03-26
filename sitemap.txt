@@ -1005,6 +1005,7 @@ http://vcpkgx.com/details.html?package=cminpack
 http://vcpkgx.com/details.html?package=alsa
 http://vcpkgx.com/details.html?package=fmi4cpp
 http://vcpkgx.com/details.html?package=arb
+http://vcpkgx.com/details.html?package=libosdp
 http://vcpkgx.com/details.html?package=qt5-purchasing
 http://vcpkgx.com/details.html?package=opencsg
 http://vcpkgx.com/details.html?package=zookeeper
