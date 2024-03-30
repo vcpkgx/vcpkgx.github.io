@@ -1739,6 +1739,7 @@ http://vcpkgx.com/details.html?package=brigand
 http://vcpkgx.com/details.html?package=qt5-multimedia
 http://vcpkgx.com/details.html?package=ada-url
 http://vcpkgx.com/details.html?package=libmaxminddb
+http://vcpkgx.com/details.html?package=stringzilla
 http://vcpkgx.com/details.html?package=qtremoteobjects
 http://vcpkgx.com/details.html?package=frozen
 http://vcpkgx.com/details.html?package=itk
