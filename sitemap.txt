@@ -834,6 +834,7 @@ http://vcpkgx.com/details.html?package=eigen3
 http://vcpkgx.com/details.html?package=wayland-protocols
 http://vcpkgx.com/details.html?package=tinytoml
 http://vcpkgx.com/details.html?package=libconfuse
+http://vcpkgx.com/details.html?package=rtabmap-res-tool
 http://vcpkgx.com/details.html?package=ginkgo
 http://vcpkgx.com/details.html?package=libdeflate
 http://vcpkgx.com/details.html?package=mtlt
