@@ -983,7 +983,6 @@ http://vcpkgx.com/details.html?package=fruit
 http://vcpkgx.com/details.html?package=geogram
 http://vcpkgx.com/details.html?package=daw-json-link
 http://vcpkgx.com/details.html?package=libcds
-http://vcpkgx.com/details.html?package=proj4
 http://vcpkgx.com/details.html?package=libpopt
 http://vcpkgx.com/details.html?package=qscintilla
 http://vcpkgx.com/details.html?package=kenlm
