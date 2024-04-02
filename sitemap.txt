@@ -722,6 +722,7 @@ http://vcpkgx.com/details.html?package=ztd-encoding-tables
 http://vcpkgx.com/details.html?package=wolftpm
 http://vcpkgx.com/details.html?package=vulkan-sdk-components
 http://vcpkgx.com/details.html?package=boost-leaf
+http://vcpkgx.com/details.html?package=iowa-hills-dsp
 http://vcpkgx.com/details.html?package=atomic-queue
 http://vcpkgx.com/details.html?package=fplus
 http://vcpkgx.com/details.html?package=vcpkg-tool-lessmsi
