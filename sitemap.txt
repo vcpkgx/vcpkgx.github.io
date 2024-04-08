@@ -1086,6 +1086,7 @@ http://vcpkgx.com/details.html?package=frugally-deep
 http://vcpkgx.com/details.html?package=ctp
 http://vcpkgx.com/details.html?package=inja
 http://vcpkgx.com/details.html?package=xcb-keysyms
+http://vcpkgx.com/details.html?package=cblas
 http://vcpkgx.com/details.html?package=cairomm
 http://vcpkgx.com/details.html?package=qt5-svg
 http://vcpkgx.com/details.html?package=blaze
