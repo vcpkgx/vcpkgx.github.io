@@ -1060,6 +1060,7 @@ http://vcpkgx.com/details.html?package=aws-c-http
 http://vcpkgx.com/details.html?package=vcpkg-tool-mozbuild
 http://vcpkgx.com/details.html?package=libcoro
 http://vcpkgx.com/details.html?package=lest
+http://vcpkgx.com/details.html?package=hjson-cpp
 http://vcpkgx.com/details.html?package=saucer
 http://vcpkgx.com/details.html?package=docopt
 http://vcpkgx.com/details.html?package=vulkan-hpp
