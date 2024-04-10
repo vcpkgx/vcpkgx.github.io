@@ -1020,6 +1020,7 @@ http://vcpkgx.com/details.html?package=azure-security-keyvault-keys-cpp
 http://vcpkgx.com/details.html?package=qtquickcontrols2
 http://vcpkgx.com/details.html?package=configcat
 http://vcpkgx.com/details.html?package=libgd
+http://vcpkgx.com/details.html?package=awlib
 http://vcpkgx.com/details.html?package=qtgraphs
 http://vcpkgx.com/details.html?package=argparse
 http://vcpkgx.com/details.html?package=azure-kinect-sensor-sdk
