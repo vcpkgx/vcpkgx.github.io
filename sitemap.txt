@@ -2009,6 +2009,7 @@ http://vcpkgx.com/details.html?package=apache-datasketches
 http://vcpkgx.com/details.html?package=ignition-math4
 http://vcpkgx.com/details.html?package=libspatialindex
 http://vcpkgx.com/details.html?package=vcpkg-cmake-config
+http://vcpkgx.com/details.html?package=openfx
 http://vcpkgx.com/details.html?package=luabridge
 http://vcpkgx.com/details.html?package=rapidxml
 http://vcpkgx.com/details.html?package=libgpod
