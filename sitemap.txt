@@ -1496,6 +1496,7 @@ http://vcpkgx.com/details.html?package=kerbal
 http://vcpkgx.com/details.html?package=qt5-wayland
 http://vcpkgx.com/details.html?package=mfx-dispatch
 http://vcpkgx.com/details.html?package=boost-spirit
+http://vcpkgx.com/details.html?package=perfetto
 http://vcpkgx.com/details.html?package=xbyak
 http://vcpkgx.com/details.html?package=libtracepoint
 http://vcpkgx.com/details.html?package=vtk-m
