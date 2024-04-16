@@ -874,6 +874,7 @@ http://vcpkgx.com/details.html?package=boost-modular-build-helper
 http://vcpkgx.com/details.html?package=pfultz2-linq
 http://vcpkgx.com/details.html?package=cairo
 http://vcpkgx.com/details.html?package=breakpad
+http://vcpkgx.com/details.html?package=vladimirshaleev-ipaddress
 http://vcpkgx.com/details.html?package=libe57format
 http://vcpkgx.com/details.html?package=bond
 http://vcpkgx.com/details.html?package=genann
