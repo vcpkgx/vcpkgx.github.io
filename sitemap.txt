@@ -319,6 +319,7 @@ http://vcpkgx.com/details.html?package=wolfssl
 http://vcpkgx.com/details.html?package=mimalloc
 http://vcpkgx.com/details.html?package=comms
 http://vcpkgx.com/details.html?package=yaml-cpp
+http://vcpkgx.com/details.html?package=pravila00-enumflag
 http://vcpkgx.com/details.html?package=cblas
 http://vcpkgx.com/details.html?package=unqlite
 http://vcpkgx.com/details.html?package=miniupnpc
