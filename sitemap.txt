@@ -1289,6 +1289,7 @@ http://vcpkgx.com/details.html?package=discreture
 http://vcpkgx.com/details.html?package=plf-stack
 http://vcpkgx.com/details.html?package=qt5-translations
 http://vcpkgx.com/details.html?package=msdfgen
+http://vcpkgx.com/details.html?package=pulseaudio
 http://vcpkgx.com/details.html?package=directxtex
 http://vcpkgx.com/details.html?package=ltla-cppirlba
 http://vcpkgx.com/details.html?package=dpp
