@@ -1043,6 +1043,7 @@ http://vcpkgx.com/details.html?package=libarchive
 http://vcpkgx.com/details.html?package=tabulate
 http://vcpkgx.com/details.html?package=verdict
 http://vcpkgx.com/details.html?package=ignition-msgs6
+http://vcpkgx.com/details.html?package=krb5
 http://vcpkgx.com/details.html?package=freexl
 http://vcpkgx.com/details.html?package=libxslt
 http://vcpkgx.com/details.html?package=ztd-text
