@@ -304,6 +304,7 @@ http://vcpkgx.com/details.html?package=ada-url
 http://vcpkgx.com/details.html?package=nonius
 http://vcpkgx.com/details.html?package=discord-game-sdk
 http://vcpkgx.com/details.html?package=pcapplusplus
+http://vcpkgx.com/details.html?package=realm-core
 http://vcpkgx.com/details.html?package=clamav
 http://vcpkgx.com/details.html?package=boost-range
 http://vcpkgx.com/details.html?package=rapidxml
