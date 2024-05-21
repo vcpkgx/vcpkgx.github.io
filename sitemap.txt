@@ -1383,6 +1383,7 @@ http://vcpkgx.com/details.html?package=protobuf-c
 http://vcpkgx.com/details.html?package=tvision
 http://vcpkgx.com/details.html?package=openvino
 http://vcpkgx.com/details.html?package=liblas
+http://vcpkgx.com/details.html?package=hdr-histogram
 http://vcpkgx.com/details.html?package=mman
 http://vcpkgx.com/details.html?package=behaviortree-cpp
 http://vcpkgx.com/details.html?package=luabridge
