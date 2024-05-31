@@ -932,6 +932,7 @@ http://vcpkgx.com/details.html?package=bitserializer-pugixml
 http://vcpkgx.com/details.html?package=libaaplus
 http://vcpkgx.com/details.html?package=aws-c-mqtt
 http://vcpkgx.com/details.html?package=kaitai-struct-cpp-stl-runtime
+http://vcpkgx.com/details.html?package=tinytiff
 http://vcpkgx.com/details.html?package=ltla-umappp
 http://vcpkgx.com/details.html?package=boost-vmd
 http://vcpkgx.com/details.html?package=libwandio
