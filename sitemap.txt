@@ -2431,6 +2431,7 @@ http://vcpkgx.com/details.html?package=qtsvg
 http://vcpkgx.com/details.html?package=libsoundio
 http://vcpkgx.com/details.html?package=boost-lockfree
 http://vcpkgx.com/details.html?package=jbigkit
+http://vcpkgx.com/details.html?package=imcce-openfa
 http://vcpkgx.com/details.html?package=gtl
 http://vcpkgx.com/details.html?package=fontconfig
 http://vcpkgx.com/details.html?package=openslide
