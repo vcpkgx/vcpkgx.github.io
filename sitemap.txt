@@ -1604,6 +1604,7 @@ http://vcpkgx.com/details.html?package=cgltf
 http://vcpkgx.com/details.html?package=guile
 http://vcpkgx.com/details.html?package=qtnetworkauth
 http://vcpkgx.com/details.html?package=nmap
+http://vcpkgx.com/details.html?package=astr
 http://vcpkgx.com/details.html?package=oatpp
 http://vcpkgx.com/details.html?package=qttranslations
 http://vcpkgx.com/details.html?package=libflac
