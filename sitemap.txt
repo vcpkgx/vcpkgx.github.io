@@ -104,6 +104,7 @@ http://vcpkgx.com/details.html?package=refl-cpp
 http://vcpkgx.com/details.html?package=ring-span-lite
 http://vcpkgx.com/details.html?package=libimobiledevice-glue
 http://vcpkgx.com/details.html?package=im3d
+http://vcpkgx.com/details.html?package=poolstl
 http://vcpkgx.com/details.html?package=cista
 http://vcpkgx.com/details.html?package=tweeny
 http://vcpkgx.com/details.html?package=oatpp-websocket
