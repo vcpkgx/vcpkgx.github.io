@@ -1794,6 +1794,7 @@ http://vcpkgx.com/details.html?package=mapbox-polylabel
 http://vcpkgx.com/details.html?package=luasocket
 http://vcpkgx.com/details.html?package=ttauri
 http://vcpkgx.com/details.html?package=scope-guard
+http://vcpkgx.com/details.html?package=rapidhash
 http://vcpkgx.com/details.html?package=zyre
 http://vcpkgx.com/details.html?package=libmaxminddb
 http://vcpkgx.com/details.html?package=expected-lite
