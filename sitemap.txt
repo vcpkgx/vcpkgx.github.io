@@ -2133,7 +2133,6 @@ http://vcpkgx.com/details.html?package=openfx
 http://vcpkgx.com/details.html?package=lastools
 http://vcpkgx.com/details.html?package=boost-container-hash
 http://vcpkgx.com/details.html?package=bitmagic
-http://vcpkgx.com/details.html?package=ecsutil
 http://vcpkgx.com/details.html?package=spirv-reflect
 http://vcpkgx.com/details.html?package=sdl2-image
 http://vcpkgx.com/details.html?package=rsig
