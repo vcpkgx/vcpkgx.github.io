@@ -85,6 +85,7 @@ http://vcpkgx.com/details.html?package=imgui-node-editor
 http://vcpkgx.com/details.html?package=flint
 http://vcpkgx.com/details.html?package=rexo
 http://vcpkgx.com/details.html?package=kf5plotting
+http://vcpkgx.com/details.html?package=vcpkg-get-python
 http://vcpkgx.com/details.html?package=treehh
 http://vcpkgx.com/details.html?package=qt5compat
 http://vcpkgx.com/details.html?package=openexr
