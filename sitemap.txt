@@ -750,6 +750,7 @@ http://vcpkgx.com/details.html?package=qt5-winextras
 http://vcpkgx.com/details.html?package=libcoro
 http://vcpkgx.com/details.html?package=msgpack-c
 http://vcpkgx.com/details.html?package=fann
+http://vcpkgx.com/details.html?package=micro-gl
 http://vcpkgx.com/details.html?package=irrlicht
 http://vcpkgx.com/details.html?package=bitserializer-rapidjson
 http://vcpkgx.com/details.html?package=libnop
