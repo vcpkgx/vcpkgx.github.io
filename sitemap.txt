@@ -723,6 +723,7 @@ http://vcpkgx.com/details.html?package=kf5crash
 http://vcpkgx.com/details.html?package=bext-di
 http://vcpkgx.com/details.html?package=cppcoro
 http://vcpkgx.com/details.html?package=io2d
+http://vcpkgx.com/details.html?package=lightgbm
 http://vcpkgx.com/details.html?package=curlpp
 http://vcpkgx.com/details.html?package=rxqt
 http://vcpkgx.com/details.html?package=libideviceactivation
