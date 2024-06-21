@@ -1571,6 +1571,7 @@ http://vcpkgx.com/details.html?package=boost-vmd
 http://vcpkgx.com/details.html?package=rbdl-orb
 http://vcpkgx.com/details.html?package=xerces-c
 http://vcpkgx.com/details.html?package=adios2
+http://vcpkgx.com/details.html?package=half
 http://vcpkgx.com/details.html?package=pipewire
 http://vcpkgx.com/details.html?package=libxaw
 http://vcpkgx.com/details.html?package=ms-gsl
