@@ -1378,6 +1378,7 @@ http://vcpkgx.com/details.html?package=qt5-translations
 http://vcpkgx.com/details.html?package=muparser
 http://vcpkgx.com/details.html?package=libyuv
 http://vcpkgx.com/details.html?package=llgi
+http://vcpkgx.com/details.html?package=fast-double-parser
 http://vcpkgx.com/details.html?package=realsense2
 http://vcpkgx.com/details.html?package=zycore
 http://vcpkgx.com/details.html?package=halide
