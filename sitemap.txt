@@ -2242,6 +2242,7 @@ http://vcpkgx.com/details.html?package=winlamb
 http://vcpkgx.com/details.html?package=libofx
 http://vcpkgx.com/details.html?package=autobahn
 http://vcpkgx.com/details.html?package=aurora
+http://vcpkgx.com/details.html?package=gsasl
 http://vcpkgx.com/details.html?package=dartsim
 http://vcpkgx.com/details.html?package=freealut
 http://vcpkgx.com/details.html?package=kf5guiaddons
