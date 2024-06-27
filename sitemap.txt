@@ -2371,6 +2371,7 @@ http://vcpkgx.com/details.html?package=drlibs
 http://vcpkgx.com/details.html?package=openssl-uwp
 http://vcpkgx.com/details.html?package=boost-lambda
 http://vcpkgx.com/details.html?package=directxmesh
+http://vcpkgx.com/details.html?package=parsi
 http://vcpkgx.com/details.html?package=gtk3
 http://vcpkgx.com/details.html?package=tinynpy
 http://vcpkgx.com/details.html?package=libsodium
