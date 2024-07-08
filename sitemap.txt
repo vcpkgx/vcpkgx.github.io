@@ -1356,6 +1356,7 @@ http://vcpkgx.com/details.html?package=wordnet
 http://vcpkgx.com/details.html?package=fbgemm
 http://vcpkgx.com/details.html?package=giflib
 http://vcpkgx.com/details.html?package=glibmm
+http://vcpkgx.com/details.html?package=spglib
 http://vcpkgx.com/details.html?package=miniply
 http://vcpkgx.com/details.html?package=kissnet
 http://vcpkgx.com/details.html?package=sigslot
