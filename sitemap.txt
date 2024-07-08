@@ -775,6 +775,7 @@ http://vcpkgx.com/details.html?package=compoundfilereader
 http://vcpkgx.com/details.html?package=elfio
 http://vcpkgx.com/details.html?package=iceoryx
 http://vcpkgx.com/details.html?package=atkmm
+http://vcpkgx.com/details.html?package=cpprealm
 http://vcpkgx.com/details.html?package=azure-storage-queues-cpp
 http://vcpkgx.com/details.html?package=murmurhash
 http://vcpkgx.com/details.html?package=qwtw
