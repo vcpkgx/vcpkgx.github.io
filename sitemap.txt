@@ -73,6 +73,7 @@ http://vcpkgx.com/details.html?package=pthread-stubs
 http://vcpkgx.com/details.html?package=qtwebview
 http://vcpkgx.com/details.html?package=ltla-knncolle
 http://vcpkgx.com/details.html?package=xtl
+http://vcpkgx.com/details.html?package=tdscpp
 http://vcpkgx.com/details.html?package=libharu
 http://vcpkgx.com/details.html?package=highway
 http://vcpkgx.com/details.html?package=cryptopp
