@@ -53,6 +53,7 @@ http://vcpkgx.com/details.html?package=openmvg
 http://vcpkgx.com/details.html?package=openslide
 http://vcpkgx.com/details.html?package=libtorch
 http://vcpkgx.com/details.html?package=jack2
+http://vcpkgx.com/details.html?package=soapysdr
 http://vcpkgx.com/details.html?package=lmdb
 http://vcpkgx.com/details.html?package=cmakerc
 http://vcpkgx.com/details.html?package=qt5-location
