@@ -1374,6 +1374,7 @@ http://vcpkgx.com/details.html?package=dartsim
 http://vcpkgx.com/details.html?package=vc
 http://vcpkgx.com/details.html?package=dlib
 http://vcpkgx.com/details.html?package=cpuinfo
+http://vcpkgx.com/details.html?package=libsersi
 http://vcpkgx.com/details.html?package=easycl
 http://vcpkgx.com/details.html?package=qtwebsockets
 http://vcpkgx.com/details.html?package=veigar
