@@ -1817,6 +1817,7 @@ http://vcpkgx.com/details.html?package=cocoyaxi
 http://vcpkgx.com/details.html?package=tinydir
 http://vcpkgx.com/details.html?package=seal
 http://vcpkgx.com/details.html?package=eigen3
+http://vcpkgx.com/details.html?package=cyrus-sasl
 http://vcpkgx.com/details.html?package=kf5completion
 http://vcpkgx.com/details.html?package=itsy-bitsy
 http://vcpkgx.com/details.html?package=boinc
