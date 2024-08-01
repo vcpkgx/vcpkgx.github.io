@@ -1588,6 +1588,7 @@ http://vcpkgx.com/details.html?package=libmspack
 http://vcpkgx.com/details.html?package=hps
 http://vcpkgx.com/details.html?package=elfutils
 http://vcpkgx.com/details.html?package=ignition-fuel-tools4
+http://vcpkgx.com/details.html?package=mariadb-connector-cpp
 http://vcpkgx.com/details.html?package=nnpack
 http://vcpkgx.com/details.html?package=effects11
 http://vcpkgx.com/details.html?package=tl-generator
