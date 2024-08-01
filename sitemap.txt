@@ -1503,6 +1503,7 @@ http://vcpkgx.com/details.html?package=leptonica
 http://vcpkgx.com/details.html?package=trompeloeil
 http://vcpkgx.com/details.html?package=fontconfig
 http://vcpkgx.com/details.html?package=libsystemd
+http://vcpkgx.com/details.html?package=lib3mf
 http://vcpkgx.com/details.html?package=microsoft-signalr
 http://vcpkgx.com/details.html?package=libev
 http://vcpkgx.com/details.html?package=tinyfsm
