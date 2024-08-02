@@ -254,7 +254,6 @@ http://vcpkgx.com/details.html?package=ignition-transport4
 http://vcpkgx.com/details.html?package=brunocodutra-metal
 http://vcpkgx.com/details.html?package=boost-tokenizer
 http://vcpkgx.com/details.html?package=qtlottie
-http://vcpkgx.com/details.html?package=graphqlparser
 http://vcpkgx.com/details.html?package=fineftp
 http://vcpkgx.com/details.html?package=gsoap
 http://vcpkgx.com/details.html?package=mosquitto
