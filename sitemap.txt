@@ -1408,6 +1408,7 @@ http://vcpkgx.com/details.html?package=perfetto
 http://vcpkgx.com/details.html?package=mpi
 http://vcpkgx.com/details.html?package=g3log
 http://vcpkgx.com/details.html?package=libxkbcommon
+http://vcpkgx.com/details.html?package=dingo
 http://vcpkgx.com/details.html?package=boost-thread
 http://vcpkgx.com/details.html?package=avro-c
 http://vcpkgx.com/details.html?package=boost-interval
