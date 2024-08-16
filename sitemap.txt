@@ -1247,7 +1247,6 @@ http://vcpkgx.com/details.html?package=xlsxio
 http://vcpkgx.com/details.html?package=sqlitecpp
 http://vcpkgx.com/details.html?package=lockpp
 http://vcpkgx.com/details.html?package=antlr4
-http://vcpkgx.com/details.html?package=ilmbase
 http://vcpkgx.com/details.html?package=mcpp
 http://vcpkgx.com/details.html?package=orocos-kdl
 http://vcpkgx.com/details.html?package=libsonic
