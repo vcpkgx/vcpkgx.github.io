@@ -887,6 +887,7 @@ http://vcpkgx.com/details.html?package=angle
 http://vcpkgx.com/details.html?package=nanopb
 http://vcpkgx.com/details.html?package=cpp-jwt
 http://vcpkgx.com/details.html?package=trantor
+http://vcpkgx.com/details.html?package=ls-qpack
 http://vcpkgx.com/details.html?package=czmq
 http://vcpkgx.com/details.html?package=gherkin-c
 http://vcpkgx.com/details.html?package=tinyobjloader
