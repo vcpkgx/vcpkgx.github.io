@@ -1654,6 +1654,7 @@ http://vcpkgx.com/details.html?package=liblemon
 http://vcpkgx.com/details.html?package=stxxl
 http://vcpkgx.com/details.html?package=promise-cpp
 http://vcpkgx.com/details.html?package=rendergraph
+http://vcpkgx.com/details.html?package=hlslpp
 http://vcpkgx.com/details.html?package=podofo
 http://vcpkgx.com/details.html?package=fdk-aac
 http://vcpkgx.com/details.html?package=vulkan-sdk-components
