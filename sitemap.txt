@@ -825,6 +825,7 @@ http://vcpkgx.com/details.html?package=glaze
 http://vcpkgx.com/details.html?package=minimp3
 http://vcpkgx.com/details.html?package=graphene
 http://vcpkgx.com/details.html?package=aurora
+http://vcpkgx.com/details.html?package=curlcpp
 http://vcpkgx.com/details.html?package=argumentum
 http://vcpkgx.com/details.html?package=json5-parser
 http://vcpkgx.com/details.html?package=libremidi
