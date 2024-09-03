@@ -1155,6 +1155,7 @@ http://vcpkgx.com/details.html?package=zeroc-ice
 http://vcpkgx.com/details.html?package=kinectsdk2
 http://vcpkgx.com/details.html?package=libgnutls
 http://vcpkgx.com/details.html?package=libp7client
+http://vcpkgx.com/details.html?package=msh3
 http://vcpkgx.com/details.html?package=qt5-xmlpatterns
 http://vcpkgx.com/details.html?package=bloomberg-quantum
 http://vcpkgx.com/details.html?package=gz-fuel-tools8
