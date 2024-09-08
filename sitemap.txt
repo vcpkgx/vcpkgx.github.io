@@ -959,6 +959,7 @@ http://vcpkgx.com/details.html?package=libpopt
 http://vcpkgx.com/details.html?package=spdk-isal
 http://vcpkgx.com/details.html?package=kf5bookmarks
 http://vcpkgx.com/details.html?package=libressl
+http://vcpkgx.com/details.html?package=libusbp
 http://vcpkgx.com/details.html?package=qtquick3dphysics
 http://vcpkgx.com/details.html?package=brynet
 http://vcpkgx.com/details.html?package=azure-core-cpp
