@@ -25,7 +25,7 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
 
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       with:
         repository: Microsoft/vcpkg
         path: vcpkg
@@ -44,7 +44,7 @@ jobs:
         git commit -am "Update libs.json" || exit 0
         
     - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
           # Artifact name
         name: libs.json
