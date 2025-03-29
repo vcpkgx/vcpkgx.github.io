@@ -2358,6 +2358,7 @@ http://vcpkgx.com/details.html?package=boost-hana
 http://vcpkgx.com/details.html?package=font-chef
 http://vcpkgx.com/details.html?package=highfive
 http://vcpkgx.com/details.html?package=wcslib
+http://vcpkgx.com/details.html?package=libmatio-cpp
 http://vcpkgx.com/details.html?package=7zip
 http://vcpkgx.com/details.html?package=nghttp2
 http://vcpkgx.com/details.html?package=fluidsynth
