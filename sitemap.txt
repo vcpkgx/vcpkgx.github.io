@@ -615,6 +615,7 @@ http://vcpkgx.com/details.html?package=poco
 http://vcpkgx.com/details.html?package=tl-ranges
 http://vcpkgx.com/details.html?package=libevdev
 http://vcpkgx.com/details.html?package=libopusenc
+http://vcpkgx.com/details.html?package=irsdkcpp
 http://vcpkgx.com/details.html?package=boost-move
 http://vcpkgx.com/details.html?package=miniaudio
 http://vcpkgx.com/details.html?package=libraqm
