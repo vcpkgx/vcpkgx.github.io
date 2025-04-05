@@ -2292,6 +2292,7 @@ http://vcpkgx.com/details.html?package=libnoise
 http://vcpkgx.com/details.html?package=openblas
 http://vcpkgx.com/details.html?package=sdl2-mixer-ext
 http://vcpkgx.com/details.html?package=tmxlite
+http://vcpkgx.com/details.html?package=exiftool
 http://vcpkgx.com/details.html?package=asock
 http://vcpkgx.com/details.html?package=picosha2
 http://vcpkgx.com/details.html?package=libxxf86vm
