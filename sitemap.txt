@@ -1293,6 +1293,7 @@ http://vcpkgx.com/details.html?package=duckdb
 http://vcpkgx.com/details.html?package=licensepp
 http://vcpkgx.com/details.html?package=trantor
 http://vcpkgx.com/details.html?package=fuzzylite
+http://vcpkgx.com/details.html?package=mysvac-jsonlib
 http://vcpkgx.com/details.html?package=libxdamage
 http://vcpkgx.com/details.html?package=cpp-httplib
 http://vcpkgx.com/details.html?package=poolstl
