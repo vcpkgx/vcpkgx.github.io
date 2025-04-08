@@ -1910,6 +1910,7 @@ http://vcpkgx.com/details.html?package=spdk
 http://vcpkgx.com/details.html?package=boost-cmake
 http://vcpkgx.com/details.html?package=devicenameresolver
 http://vcpkgx.com/details.html?package=hdf5
+http://vcpkgx.com/details.html?package=commata
 http://vcpkgx.com/details.html?package=presentmon
 http://vcpkgx.com/details.html?package=tcl
 http://vcpkgx.com/details.html?package=g3log
