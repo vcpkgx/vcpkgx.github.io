@@ -2338,6 +2338,7 @@ http://vcpkgx.com/details.html?package=check
 http://vcpkgx.com/details.html?package=python3
 http://vcpkgx.com/details.html?package=osg
 http://vcpkgx.com/details.html?package=uthenticode
+http://vcpkgx.com/details.html?package=gz-sim
 http://vcpkgx.com/details.html?package=fastfeat
 http://vcpkgx.com/details.html?package=log4cplus
 http://vcpkgx.com/details.html?package=clipper2
