@@ -379,6 +379,7 @@ http://vcpkgx.com/details.html?package=kf5texteditor
 http://vcpkgx.com/details.html?package=marl
 http://vcpkgx.com/details.html?package=openexr
 http://vcpkgx.com/details.html?package=boost-vmd
+http://vcpkgx.com/details.html?package=rerun-sdk
 http://vcpkgx.com/details.html?package=azure-messaging-eventhubs-cpp
 http://vcpkgx.com/details.html?package=audioengine
 http://vcpkgx.com/details.html?package=blitz
