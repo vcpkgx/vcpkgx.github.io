@@ -2350,6 +2350,7 @@ http://vcpkgx.com/details.html?package=liblzf
 http://vcpkgx.com/details.html?package=kf5completion
 http://vcpkgx.com/details.html?package=audit
 http://vcpkgx.com/details.html?package=tlx
+http://vcpkgx.com/details.html?package=itlib
 http://vcpkgx.com/details.html?package=pangomm
 http://vcpkgx.com/details.html?package=micro-gl
 http://vcpkgx.com/details.html?package=getopt
