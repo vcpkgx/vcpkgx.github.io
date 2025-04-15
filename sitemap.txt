@@ -316,6 +316,7 @@ http://vcpkgx.com/details.html?package=zpp-bits
 http://vcpkgx.com/details.html?package=matchit
 http://vcpkgx.com/details.html?package=arrayfire
 http://vcpkgx.com/details.html?package=asio-grpc
+http://vcpkgx.com/details.html?package=marzbanpp
 http://vcpkgx.com/details.html?package=boost-log
 http://vcpkgx.com/details.html?package=azure-c-shared-utility
 http://vcpkgx.com/details.html?package=protopuf
