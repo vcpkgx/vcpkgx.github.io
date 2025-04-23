@@ -2488,6 +2488,7 @@ http://vcpkgx.com/details.html?package=kf5service
 http://vcpkgx.com/details.html?package=vs-yasm
 http://vcpkgx.com/details.html?package=sophus
 http://vcpkgx.com/details.html?package=libhdfs3
+http://vcpkgx.com/details.html?package=libdicom
 http://vcpkgx.com/details.html?package=tensorflow
 http://vcpkgx.com/details.html?package=sciplot
 http://vcpkgx.com/details.html?package=highs
