@@ -2151,6 +2151,7 @@ http://vcpkgx.com/details.html?package=mathter
 http://vcpkgx.com/details.html?package=mongo-c-driver
 http://vcpkgx.com/details.html?package=sse2neon
 http://vcpkgx.com/details.html?package=strong-type
+http://vcpkgx.com/details.html?package=iausofa
 http://vcpkgx.com/details.html?package=mlpack
 http://vcpkgx.com/details.html?package=hjson-cpp
 http://vcpkgx.com/details.html?package=try-catcher
