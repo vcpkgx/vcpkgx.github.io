@@ -1298,6 +1298,7 @@ http://vcpkgx.com/details.html?package=qtkeychain
 http://vcpkgx.com/details.html?package=sdl2-gfx
 http://vcpkgx.com/details.html?package=coin-or-cbc
 http://vcpkgx.com/details.html?package=sdl2-net
+http://vcpkgx.com/details.html?package=kleidiai
 http://vcpkgx.com/details.html?package=boost-contract
 http://vcpkgx.com/details.html?package=boost-crc
 http://vcpkgx.com/details.html?package=asmjit
