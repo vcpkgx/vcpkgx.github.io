@@ -710,6 +710,7 @@ http://vcpkgx.com/details.html?package=halide
 http://vcpkgx.com/details.html?package=rabit
 http://vcpkgx.com/details.html?package=random123
 http://vcpkgx.com/details.html?package=soil
+http://vcpkgx.com/details.html?package=bw-sqlitemap
 http://vcpkgx.com/details.html?package=libbacktrace
 http://vcpkgx.com/details.html?package=lensfun
 http://vcpkgx.com/details.html?package=kf5iconthemes
