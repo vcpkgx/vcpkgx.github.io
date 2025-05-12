@@ -145,6 +145,7 @@ http://vcpkgx.com/details.html?package=pdal-c
 http://vcpkgx.com/details.html?package=klein
 http://vcpkgx.com/details.html?package=try-catcher
 http://vcpkgx.com/details.html?package=qtwayland
+http://vcpkgx.com/details.html?package=gul17
 http://vcpkgx.com/details.html?package=septag-dmon
 http://vcpkgx.com/details.html?package=protobuf-c
 http://vcpkgx.com/details.html?package=zlib
