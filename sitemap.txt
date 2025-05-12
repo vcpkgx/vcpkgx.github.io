@@ -7,6 +7,7 @@ http://vcpkgx.com/details.html?package=nlopt
 http://vcpkgx.com/details.html?package=kaitai-struct-cpp-stl-runtime
 http://vcpkgx.com/details.html?package=modp-base64
 http://vcpkgx.com/details.html?package=liblsl
+http://vcpkgx.com/details.html?package=barkeep
 http://vcpkgx.com/details.html?package=nvidia-cutlass
 http://vcpkgx.com/details.html?package=quantlib
 http://vcpkgx.com/details.html?package=blend2d
