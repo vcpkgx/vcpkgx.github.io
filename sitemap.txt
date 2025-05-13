@@ -871,6 +871,7 @@ http://vcpkgx.com/details.html?package=boost-mqtt5
 http://vcpkgx.com/details.html?package=kdbindings
 http://vcpkgx.com/details.html?package=miniupnpc
 http://vcpkgx.com/details.html?package=libsigcpp
+http://vcpkgx.com/details.html?package=rapidobj
 http://vcpkgx.com/details.html?package=easycl
 http://vcpkgx.com/details.html?package=autodock-vina
 http://vcpkgx.com/details.html?package=jwt-cpp
