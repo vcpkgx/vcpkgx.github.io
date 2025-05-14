@@ -943,6 +943,7 @@ http://vcpkgx.com/details.html?package=rsig
 http://vcpkgx.com/details.html?package=chaiscript
 http://vcpkgx.com/details.html?package=swenson-sort
 http://vcpkgx.com/details.html?package=hidapi
+http://vcpkgx.com/details.html?package=unleash-client-cpp
 http://vcpkgx.com/details.html?package=pravila00-enum-string
 http://vcpkgx.com/details.html?package=ppmagic
 http://vcpkgx.com/details.html?package=fruit
