@@ -1107,6 +1107,7 @@ http://vcpkgx.com/details.html?package=rivers
 http://vcpkgx.com/details.html?package=libdvdcss
 http://vcpkgx.com/details.html?package=grantlee
 http://vcpkgx.com/details.html?package=lzokay
+http://vcpkgx.com/details.html?package=sfl
 http://vcpkgx.com/details.html?package=materialx
 http://vcpkgx.com/details.html?package=libvmdk
 http://vcpkgx.com/details.html?package=librtpi
