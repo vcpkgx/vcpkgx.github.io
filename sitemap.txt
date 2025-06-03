@@ -689,6 +689,7 @@ http://vcpkgx.com/details.html?package=opencv4
 http://vcpkgx.com/details.html?package=cserialport
 http://vcpkgx.com/details.html?package=cryptopp
 http://vcpkgx.com/details.html?package=hash-library
+http://vcpkgx.com/details.html?package=rnnoise
 http://vcpkgx.com/details.html?package=drlibs
 http://vcpkgx.com/details.html?package=log4cplus
 http://vcpkgx.com/details.html?package=octave
