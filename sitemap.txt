@@ -1713,6 +1713,7 @@ http://vcpkgx.com/details.html?package=paho-mqtt
 http://vcpkgx.com/details.html?package=libevhtp
 http://vcpkgx.com/details.html?package=libid3tag
 http://vcpkgx.com/details.html?package=qtserialbus
+http://vcpkgx.com/details.html?package=livepp
 http://vcpkgx.com/details.html?package=qt3d
 http://vcpkgx.com/details.html?package=boost-build
 http://vcpkgx.com/details.html?package=libsass
