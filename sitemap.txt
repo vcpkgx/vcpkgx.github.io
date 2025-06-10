@@ -2349,6 +2349,7 @@ http://vcpkgx.com/details.html?package=utfz
 http://vcpkgx.com/details.html?package=gul14
 http://vcpkgx.com/details.html?package=libgo
 http://vcpkgx.com/details.html?package=str-view
+http://vcpkgx.com/details.html?package=voro
 http://vcpkgx.com/details.html?package=glm
 http://vcpkgx.com/details.html?package=libxscrnsaver
 http://vcpkgx.com/details.html?package=vladimirshaleev-ipaddress
