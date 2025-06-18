@@ -2621,5 +2621,6 @@ http://vcpkgx.com/details.html?package=kubernetes
 http://vcpkgx.com/details.html?package=simdutf
 http://vcpkgx.com/details.html?package=kf5package
 http://vcpkgx.com/details.html?package=jsmn
+http://vcpkgx.com/details.html?package=mzying2001-sw
 http://vcpkgx.com/details.html?package=hypre
 http://vcpkgx.com/details.html?package=type-lite
