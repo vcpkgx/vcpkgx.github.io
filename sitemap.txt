@@ -1536,6 +1536,7 @@ http://vcpkgx.com/details.html?package=chipmunk
 http://vcpkgx.com/details.html?package=paraview
 http://vcpkgx.com/details.html?package=volk
 http://vcpkgx.com/details.html?package=wangle
+http://vcpkgx.com/details.html?package=signalsmith-stretch
 http://vcpkgx.com/details.html?package=coinutils
 http://vcpkgx.com/details.html?package=libguarded
 http://vcpkgx.com/details.html?package=azure-macro-utils-c
