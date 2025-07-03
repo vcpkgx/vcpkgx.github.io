@@ -644,7 +644,6 @@ http://vcpkgx.com/details.html?package=aws-c-common
 http://vcpkgx.com/details.html?package=ztd-platform
 http://vcpkgx.com/details.html?package=gexiv2
 http://vcpkgx.com/details.html?package=libnice-gst
-http://vcpkgx.com/details.html?package=shogun
 http://vcpkgx.com/details.html?package=libssh2
 http://vcpkgx.com/details.html?package=highfive
 http://vcpkgx.com/details.html?package=discord-game-sdk
