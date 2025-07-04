@@ -1474,6 +1474,7 @@ http://vcpkgx.com/details.html?package=qt-advanced-docking-system
 http://vcpkgx.com/details.html?package=ltla-knncolle
 http://vcpkgx.com/details.html?package=winreg
 http://vcpkgx.com/details.html?package=pegtl
+http://vcpkgx.com/details.html?package=quarter
 http://vcpkgx.com/details.html?package=boost-units
 http://vcpkgx.com/details.html?package=awlib
 http://vcpkgx.com/details.html?package=michaelmiller-sec21
