@@ -343,6 +343,7 @@ http://vcpkgx.com/details.html?package=boost-histogram
 http://vcpkgx.com/details.html?package=usbmuxd
 http://vcpkgx.com/details.html?package=coin-or-clp
 http://vcpkgx.com/details.html?package=triton
+http://vcpkgx.com/details.html?package=avir
 http://vcpkgx.com/details.html?package=gl2ps
 http://vcpkgx.com/details.html?package=orc
 http://vcpkgx.com/details.html?package=azure-security-keyvault-keys-cpp
