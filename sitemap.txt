@@ -774,7 +774,6 @@ http://vcpkgx.com/details.html?package=vectorclass
 http://vcpkgx.com/details.html?package=commsdsl
 http://vcpkgx.com/details.html?package=libdc1394
 http://vcpkgx.com/details.html?package=asynch
-http://vcpkgx.com/details.html?package=readline-osx
 http://vcpkgx.com/details.html?package=ctemplate
 http://vcpkgx.com/details.html?package=libsersi
 http://vcpkgx.com/details.html?package=hexi
