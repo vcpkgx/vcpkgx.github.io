@@ -1792,6 +1792,7 @@ http://vcpkgx.com/details.html?package=scylla-wrapper
 http://vcpkgx.com/details.html?package=libzip
 http://vcpkgx.com/details.html?package=libinterpolate
 http://vcpkgx.com/details.html?package=google-cloud-cpp
+http://vcpkgx.com/details.html?package=vanillapdf
 http://vcpkgx.com/details.html?package=quaternions
 http://vcpkgx.com/details.html?package=libjpeg-turbo
 http://vcpkgx.com/details.html?package=compoundfilereader
