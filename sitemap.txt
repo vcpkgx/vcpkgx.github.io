@@ -283,6 +283,7 @@ http://vcpkgx.com/details.html?package=nanobind
 http://vcpkgx.com/details.html?package=ableton-link
 http://vcpkgx.com/details.html?package=zookeeper
 http://vcpkgx.com/details.html?package=lapack
+http://vcpkgx.com/details.html?package=superglu
 http://vcpkgx.com/details.html?package=pdal-dimbuilder
 http://vcpkgx.com/details.html?package=libev
 http://vcpkgx.com/details.html?package=suitesparse-ldl
