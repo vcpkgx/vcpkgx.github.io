@@ -2443,6 +2443,7 @@ http://vcpkgx.com/details.html?package=libenvpp
 http://vcpkgx.com/details.html?package=forge
 http://vcpkgx.com/details.html?package=bw-sqlitemap
 http://vcpkgx.com/details.html?package=shader-slang
+http://vcpkgx.com/details.html?package=sebsjames-maths
 http://vcpkgx.com/details.html?package=memorymodule
 http://vcpkgx.com/details.html?package=kddockwidgets
 http://vcpkgx.com/details.html?package=simbody
