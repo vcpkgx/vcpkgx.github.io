@@ -1817,6 +1817,7 @@ http://vcpkgx.com/details.html?package=pthread
 http://vcpkgx.com/details.html?package=suitesparse-cxsparse
 http://vcpkgx.com/details.html?package=ignition-modularscripts
 http://vcpkgx.com/details.html?package=sratom
+http://vcpkgx.com/details.html?package=iguana
 http://vcpkgx.com/details.html?package=wtl
 http://vcpkgx.com/details.html?package=rsasynccpp
 http://vcpkgx.com/details.html?package=torch-th
