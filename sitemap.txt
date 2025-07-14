@@ -1790,6 +1790,7 @@ http://vcpkgx.com/details.html?package=alembic
 http://vcpkgx.com/details.html?package=stackwalker
 http://vcpkgx.com/details.html?package=libproxy
 http://vcpkgx.com/details.html?package=wolf-midi
+http://vcpkgx.com/details.html?package=poppler-data
 http://vcpkgx.com/details.html?package=spdlog
 http://vcpkgx.com/details.html?package=refl-cpp
 http://vcpkgx.com/details.html?package=jsoncpp
