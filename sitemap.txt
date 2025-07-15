@@ -1190,6 +1190,7 @@ http://vcpkgx.com/details.html?package=plasma-wayland-protocols
 http://vcpkgx.com/details.html?package=basisu
 http://vcpkgx.com/details.html?package=gz-transport12
 http://vcpkgx.com/details.html?package=libxmu
+http://vcpkgx.com/details.html?package=f3d
 http://vcpkgx.com/details.html?package=libdwarf
 http://vcpkgx.com/details.html?package=clockutils
 http://vcpkgx.com/details.html?package=bcg729
