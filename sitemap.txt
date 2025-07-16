@@ -2256,6 +2256,7 @@ http://vcpkgx.com/details.html?package=libdmtx
 http://vcpkgx.com/details.html?package=sqlpp11-connector-mysql
 http://vcpkgx.com/details.html?package=nghttp2
 http://vcpkgx.com/details.html?package=usearch
+http://vcpkgx.com/details.html?package=arun11299-cpp-subprocess
 http://vcpkgx.com/details.html?package=libevdev
 http://vcpkgx.com/details.html?package=magnum-integration
 http://vcpkgx.com/details.html?package=vcpkg-tool-castxml
