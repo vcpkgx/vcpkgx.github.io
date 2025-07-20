@@ -1158,6 +1158,7 @@ http://vcpkgx.com/details.html?package=libxdmcp
 http://vcpkgx.com/details.html?package=ls-qpack
 http://vcpkgx.com/details.html?package=boost-dll
 http://vcpkgx.com/details.html?package=sockpp
+http://vcpkgx.com/details.html?package=argus
 http://vcpkgx.com/details.html?package=stronk
 http://vcpkgx.com/details.html?package=boost-static-string
 http://vcpkgx.com/details.html?package=oatpp-openssl
