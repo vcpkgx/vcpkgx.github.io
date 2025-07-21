@@ -2102,6 +2102,7 @@ http://vcpkgx.com/details.html?package=matajoh-libnpy
 http://vcpkgx.com/details.html?package=boost-python
 http://vcpkgx.com/details.html?package=json-schema-validator
 http://vcpkgx.com/details.html?package=vcglib
+http://vcpkgx.com/details.html?package=sqlgen
 http://vcpkgx.com/details.html?package=pravila00-enum-string
 http://vcpkgx.com/details.html?package=tevclient
 http://vcpkgx.com/details.html?package=czmq
