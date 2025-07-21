@@ -1608,6 +1608,7 @@ http://vcpkgx.com/details.html?package=ode
 http://vcpkgx.com/details.html?package=intelrdfpmathlib
 http://vcpkgx.com/details.html?package=matroska
 http://vcpkgx.com/details.html?package=type-lite
+http://vcpkgx.com/details.html?package=qcbor
 http://vcpkgx.com/details.html?package=bitserializer
 http://vcpkgx.com/details.html?package=suitesparse-graphblas
 http://vcpkgx.com/details.html?package=clap-cleveraudio
