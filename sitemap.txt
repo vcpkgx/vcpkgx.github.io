@@ -577,6 +577,7 @@ http://vcpkgx.com/details.html?package=brynet
 http://vcpkgx.com/details.html?package=gperftools
 http://vcpkgx.com/details.html?package=brpc
 http://vcpkgx.com/details.html?package=spimpl
+http://vcpkgx.com/details.html?package=vbs-enclave-tooling-codegen
 http://vcpkgx.com/details.html?package=libtorch
 http://vcpkgx.com/details.html?package=boost-conversion
 http://vcpkgx.com/details.html?package=bw-sqlitemap
