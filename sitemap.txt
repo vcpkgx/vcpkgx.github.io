@@ -2035,6 +2035,7 @@ http://vcpkgx.com/details.html?package=igloo
 http://vcpkgx.com/details.html?package=rsocket
 http://vcpkgx.com/details.html?package=atkmm
 http://vcpkgx.com/details.html?package=ccfits
+http://vcpkgx.com/details.html?package=kf6archive
 http://vcpkgx.com/details.html?package=picojson
 http://vcpkgx.com/details.html?package=simdutf
 http://vcpkgx.com/details.html?package=cereal
