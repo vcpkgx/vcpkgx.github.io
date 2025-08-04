@@ -568,6 +568,7 @@ http://vcpkgx.com/details.html?package=xeus
 http://vcpkgx.com/details.html?package=starlink-ast
 http://vcpkgx.com/details.html?package=muparser
 http://vcpkgx.com/details.html?package=yomm2
+http://vcpkgx.com/details.html?package=sproto
 http://vcpkgx.com/details.html?package=openigtlink
 http://vcpkgx.com/details.html?package=poselib
 http://vcpkgx.com/details.html?package=freealut
