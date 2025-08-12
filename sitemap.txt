@@ -583,6 +583,7 @@ http://vcpkgx.com/details.html?package=mujoco
 http://vcpkgx.com/details.html?package=xcb-util
 http://vcpkgx.com/details.html?package=cppmicroservices
 http://vcpkgx.com/details.html?package=ztd-platform
+http://vcpkgx.com/details.html?package=quickjs-ng
 http://vcpkgx.com/details.html?package=pravila00-enum-string
 http://vcpkgx.com/details.html?package=xproperty
 http://vcpkgx.com/details.html?package=libuuid
