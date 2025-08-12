@@ -2132,6 +2132,7 @@ http://vcpkgx.com/details.html?package=libfabric
 http://vcpkgx.com/details.html?package=simde
 http://vcpkgx.com/details.html?package=influxdb-cxx
 http://vcpkgx.com/details.html?package=snitch
+http://vcpkgx.com/details.html?package=dacap-clip
 http://vcpkgx.com/details.html?package=winreg
 http://vcpkgx.com/details.html?package=suitesparse-cholmod
 http://vcpkgx.com/details.html?package=jemalloc
