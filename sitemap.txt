@@ -1056,6 +1056,7 @@ http://vcpkgx.com/details.html?package=netcpp
 http://vcpkgx.com/details.html?package=proj
 http://vcpkgx.com/details.html?package=vcpkg-tool-gyp-next
 http://vcpkgx.com/details.html?package=sparsehash
+http://vcpkgx.com/details.html?package=eljonny-testcpp
 http://vcpkgx.com/details.html?package=lzfse
 http://vcpkgx.com/details.html?package=soci
 http://vcpkgx.com/details.html?package=xbyak
