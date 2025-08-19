@@ -2552,6 +2552,7 @@ http://vcpkgx.com/details.html?package=approval-tests-cpp
 http://vcpkgx.com/details.html?package=vcpkg-tool-meson
 http://vcpkgx.com/details.html?package=avcpp
 http://vcpkgx.com/details.html?package=azure-iot-sdk-c
+http://vcpkgx.com/details.html?package=fixed-math
 http://vcpkgx.com/details.html?package=fizz
 http://vcpkgx.com/details.html?package=pangomm
 http://vcpkgx.com/details.html?package=asock
