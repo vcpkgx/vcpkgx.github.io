@@ -283,6 +283,7 @@ http://vcpkgx.com/details.html?package=bde
 http://vcpkgx.com/details.html?package=restclient-cpp
 http://vcpkgx.com/details.html?package=simsimd
 http://vcpkgx.com/details.html?package=dlib
+http://vcpkgx.com/details.html?package=appstream
 http://vcpkgx.com/details.html?package=libmysofa
 http://vcpkgx.com/details.html?package=gainput
 http://vcpkgx.com/details.html?package=libmicrodns
