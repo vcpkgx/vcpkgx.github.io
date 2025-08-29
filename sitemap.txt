@@ -1400,6 +1400,7 @@ http://vcpkgx.com/details.html?package=libcerf
 http://vcpkgx.com/details.html?package=reactiveplusplus
 http://vcpkgx.com/details.html?package=embree3
 http://vcpkgx.com/details.html?package=tacopie
+http://vcpkgx.com/details.html?package=spz
 http://vcpkgx.com/details.html?package=libraqm
 http://vcpkgx.com/details.html?package=tfhe
 http://vcpkgx.com/details.html?package=immer
