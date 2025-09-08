@@ -51,6 +51,7 @@ http://vcpkgx.com/details.html?package=bw-tempdir
 http://vcpkgx.com/details.html?package=marchingcubecpp
 http://vcpkgx.com/details.html?package=boost-static-assert
 http://vcpkgx.com/details.html?package=xproperty
+http://vcpkgx.com/details.html?package=mcap
 http://vcpkgx.com/details.html?package=crfsuite
 http://vcpkgx.com/details.html?package=bzip3
 http://vcpkgx.com/details.html?package=libraw
