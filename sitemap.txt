@@ -437,6 +437,7 @@ http://vcpkgx.com/details.html?package=ring-span-lite
 http://vcpkgx.com/details.html?package=gtk3
 http://vcpkgx.com/details.html?package=gapp
 http://vcpkgx.com/details.html?package=brunocodutra-metal
+http://vcpkgx.com/details.html?package=svt-av1
 http://vcpkgx.com/details.html?package=boost-exception
 http://vcpkgx.com/details.html?package=pocketfft
 http://vcpkgx.com/details.html?package=boost-parameter
