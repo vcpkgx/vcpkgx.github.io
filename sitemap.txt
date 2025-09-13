@@ -1989,6 +1989,7 @@ http://vcpkgx.com/details.html?package=libsnoretoast
 http://vcpkgx.com/details.html?package=libodb-mysql
 http://vcpkgx.com/details.html?package=libxfont
 http://vcpkgx.com/details.html?package=toml11
+http://vcpkgx.com/details.html?package=rgfw
 http://vcpkgx.com/details.html?package=x265
 http://vcpkgx.com/details.html?package=eventpp
 http://vcpkgx.com/details.html?package=st-tree
