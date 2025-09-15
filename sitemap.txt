@@ -1122,7 +1122,6 @@ http://vcpkgx.com/details.html?package=mujoco
 http://vcpkgx.com/details.html?package=opengl-registry
 http://vcpkgx.com/details.html?package=mongoose
 http://vcpkgx.com/details.html?package=jbcoe-value-types
-http://vcpkgx.com/details.html?package=sourcemeta-blaze
 http://vcpkgx.com/details.html?package=dartsim
 http://vcpkgx.com/details.html?package=igraph
 http://vcpkgx.com/details.html?package=quill
