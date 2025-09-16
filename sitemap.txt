@@ -491,6 +491,7 @@ http://vcpkgx.com/details.html?package=font-util
 http://vcpkgx.com/details.html?package=zeroc-ice
 http://vcpkgx.com/details.html?package=tinyxml2
 http://vcpkgx.com/details.html?package=fast-double-parser
+http://vcpkgx.com/details.html?package=cadons-ctus
 http://vcpkgx.com/details.html?package=nanoflann
 http://vcpkgx.com/details.html?package=fast-float
 http://vcpkgx.com/details.html?package=rerun-sdk
