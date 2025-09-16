@@ -1021,7 +1021,6 @@ http://vcpkgx.com/details.html?package=libvault
 http://vcpkgx.com/details.html?package=kf5coreaddons
 http://vcpkgx.com/details.html?package=umock-c
 http://vcpkgx.com/details.html?package=libxext
-http://vcpkgx.com/details.html?package=libbf
 http://vcpkgx.com/details.html?package=tinyxml
 http://vcpkgx.com/details.html?package=protopuf
 http://vcpkgx.com/details.html?package=boost-timer
