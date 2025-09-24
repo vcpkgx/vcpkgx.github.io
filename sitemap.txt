@@ -1122,6 +1122,7 @@ http://vcpkgx.com/details.html?package=soqt
 http://vcpkgx.com/details.html?package=flash-runtime-extensions
 http://vcpkgx.com/details.html?package=mujoco
 http://vcpkgx.com/details.html?package=opengl-registry
+http://vcpkgx.com/details.html?package=cudnn-frontend
 http://vcpkgx.com/details.html?package=mongoose
 http://vcpkgx.com/details.html?package=libudfread
 http://vcpkgx.com/details.html?package=jbcoe-value-types
