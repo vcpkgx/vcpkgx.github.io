@@ -1216,6 +1216,7 @@ http://vcpkgx.com/details.html?package=msgpack
 http://vcpkgx.com/details.html?package=openvdb
 http://vcpkgx.com/details.html?package=libedit
 http://vcpkgx.com/details.html?package=json-glib
+http://vcpkgx.com/details.html?package=libmtp
 http://vcpkgx.com/details.html?package=nghttp2
 http://vcpkgx.com/details.html?package=wil
 http://vcpkgx.com/details.html?package=tuplet
