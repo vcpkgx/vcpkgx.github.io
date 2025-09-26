@@ -2470,6 +2470,7 @@ http://vcpkgx.com/details.html?package=mujs
 http://vcpkgx.com/details.html?package=qt5-location
 http://vcpkgx.com/details.html?package=boost
 http://vcpkgx.com/details.html?package=box2d
+http://vcpkgx.com/details.html?package=dawn
 http://vcpkgx.com/details.html?package=nameof
 http://vcpkgx.com/details.html?package=variant-lite
 http://vcpkgx.com/details.html?package=marzbanpp
