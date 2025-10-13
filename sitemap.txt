@@ -814,6 +814,7 @@ http://vcpkgx.com/details.html?package=bzip3
 http://vcpkgx.com/details.html?package=ghc-filesystem
 http://vcpkgx.com/details.html?package=boost-coroutine2
 http://vcpkgx.com/details.html?package=minc
+http://vcpkgx.com/details.html?package=inflatelib
 http://vcpkgx.com/details.html?package=azure-data-tables-cpp
 http://vcpkgx.com/details.html?package=args
 http://vcpkgx.com/details.html?package=libgwenhywfar
