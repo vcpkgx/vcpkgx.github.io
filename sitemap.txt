@@ -723,7 +723,6 @@ http://vcpkgx.com/details.html?package=at-spi2-atk
 http://vcpkgx.com/details.html?package=b64
 http://vcpkgx.com/details.html?package=aws-c-http
 http://vcpkgx.com/details.html?package=openmvg
-http://vcpkgx.com/details.html?package=ppmagic
 http://vcpkgx.com/details.html?package=komihash
 http://vcpkgx.com/details.html?package=manif
 http://vcpkgx.com/details.html?package=tinynpy
