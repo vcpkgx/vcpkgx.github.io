@@ -1305,6 +1305,7 @@ http://vcpkgx.com/details.html?package=easyexif
 http://vcpkgx.com/details.html?package=libeventheader-decode
 http://vcpkgx.com/details.html?package=cppkafka
 http://vcpkgx.com/details.html?package=boost-leaf
+http://vcpkgx.com/details.html?package=libnotify
 http://vcpkgx.com/details.html?package=qpdf
 http://vcpkgx.com/details.html?package=mdl-sdk
 http://vcpkgx.com/details.html?package=vcpkg-pkgconfig-get-modules
