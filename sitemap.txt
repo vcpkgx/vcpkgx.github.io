@@ -683,6 +683,7 @@ http://vcpkgx.com/details.html?package=aliyun-oss-cpp-sdk
 http://vcpkgx.com/details.html?package=boost-compat
 http://vcpkgx.com/details.html?package=sratom
 http://vcpkgx.com/details.html?package=quickjs-ng
+http://vcpkgx.com/details.html?package=tdlib
 http://vcpkgx.com/details.html?package=uchardet
 http://vcpkgx.com/details.html?package=plf-hive
 http://vcpkgx.com/details.html?package=cpptoml
