@@ -2216,6 +2216,7 @@ http://vcpkgx.com/details.html?package=qwt
 http://vcpkgx.com/details.html?package=vtk-compile-tools
 http://vcpkgx.com/details.html?package=boost-function
 http://vcpkgx.com/details.html?package=rsm-binary-io
+http://vcpkgx.com/details.html?package=hanjingo-high-jump
 http://vcpkgx.com/details.html?package=urdfdom-headers
 http://vcpkgx.com/details.html?package=luminoengine
 http://vcpkgx.com/details.html?package=boost-lambda2
