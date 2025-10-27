@@ -1187,6 +1187,7 @@ http://vcpkgx.com/details.html?package=msmpi
 http://vcpkgx.com/details.html?package=convectionkernels
 http://vcpkgx.com/details.html?package=earcut-hpp
 http://vcpkgx.com/details.html?package=intel-mkl
+http://vcpkgx.com/details.html?package=supernovas
 http://vcpkgx.com/details.html?package=clue
 http://vcpkgx.com/details.html?package=xframe
 http://vcpkgx.com/details.html?package=random123
