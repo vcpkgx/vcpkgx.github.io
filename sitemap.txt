@@ -2541,6 +2541,7 @@ http://vcpkgx.com/details.html?package=libbacktrace
 http://vcpkgx.com/details.html?package=fixed-string
 http://vcpkgx.com/details.html?package=boost-dynamic-bitset
 http://vcpkgx.com/details.html?package=rapidobj
+http://vcpkgx.com/details.html?package=chenjunfu2-nbt-cpp
 http://vcpkgx.com/details.html?package=taglib
 http://vcpkgx.com/details.html?package=libsvm
 http://vcpkgx.com/details.html?package=igloo
