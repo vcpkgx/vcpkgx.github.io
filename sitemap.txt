@@ -1932,6 +1932,7 @@ http://vcpkgx.com/details.html?package=opendnp3
 http://vcpkgx.com/details.html?package=functionalplus
 http://vcpkgx.com/details.html?package=blosc2
 http://vcpkgx.com/details.html?package=hjson-cpp
+http://vcpkgx.com/details.html?package=lloyal-ai-inlined-vector
 http://vcpkgx.com/details.html?package=tabulate
 http://vcpkgx.com/details.html?package=libxcrypt
 http://vcpkgx.com/details.html?package=qt5-networkauth
