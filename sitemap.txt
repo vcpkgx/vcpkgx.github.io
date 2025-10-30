@@ -627,6 +627,7 @@ http://vcpkgx.com/details.html?package=gamenetworkingsockets
 http://vcpkgx.com/details.html?package=gemmlowp
 http://vcpkgx.com/details.html?package=x-plane
 http://vcpkgx.com/details.html?package=argparse
+http://vcpkgx.com/details.html?package=abumq-ripe
 http://vcpkgx.com/details.html?package=libgeotiff
 http://vcpkgx.com/details.html?package=lcms
 http://vcpkgx.com/details.html?package=try-catcher
