@@ -358,6 +358,7 @@ http://vcpkgx.com/details.html?package=openssl
 http://vcpkgx.com/details.html?package=physx
 http://vcpkgx.com/details.html?package=si
 http://vcpkgx.com/details.html?package=google-cloud-cpp-spanner
+http://vcpkgx.com/details.html?package=libversion
 http://vcpkgx.com/details.html?package=netcdf-c
 http://vcpkgx.com/details.html?package=xproto
 http://vcpkgx.com/details.html?package=libpmemobj-cpp
