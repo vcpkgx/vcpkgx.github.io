@@ -190,6 +190,7 @@ http://vcpkgx.com/details.html?package=doctest
 http://vcpkgx.com/details.html?package=stlab-copy-on-write
 http://vcpkgx.com/details.html?package=libirecovery
 http://vcpkgx.com/details.html?package=pystring
+http://vcpkgx.com/details.html?package=libcoap
 http://vcpkgx.com/details.html?package=halide
 http://vcpkgx.com/details.html?package=directxtk
 http://vcpkgx.com/details.html?package=lzo
