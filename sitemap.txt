@@ -2497,6 +2497,7 @@ http://vcpkgx.com/details.html?package=dawn
 http://vcpkgx.com/details.html?package=nameof
 http://vcpkgx.com/details.html?package=variant-lite
 http://vcpkgx.com/details.html?package=marzbanpp
+http://vcpkgx.com/details.html?package=libpopcnt
 http://vcpkgx.com/details.html?package=sqlpp11-connector-sqlite3
 http://vcpkgx.com/details.html?package=sdl2-gfx
 http://vcpkgx.com/details.html?package=soundtouch
