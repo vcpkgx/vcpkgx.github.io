@@ -2484,6 +2484,7 @@ http://vcpkgx.com/details.html?package=magnum
 http://vcpkgx.com/details.html?package=libudis86
 http://vcpkgx.com/details.html?package=gz-msgs9
 http://vcpkgx.com/details.html?package=mesa
+http://vcpkgx.com/details.html?package=hazelcast-cpp-client
 http://vcpkgx.com/details.html?package=sdl2-image
 http://vcpkgx.com/details.html?package=openexr
 http://vcpkgx.com/details.html?package=suitesparse-config
