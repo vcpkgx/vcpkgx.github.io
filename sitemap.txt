@@ -886,6 +886,7 @@ http://vcpkgx.com/details.html?package=scenepic
 http://vcpkgx.com/details.html?package=libgxps
 http://vcpkgx.com/details.html?package=clblast
 http://vcpkgx.com/details.html?package=htscodecs
+http://vcpkgx.com/details.html?package=rewolf-wow64ext
 http://vcpkgx.com/details.html?package=qpid-proton
 http://vcpkgx.com/details.html?package=salome-configuration
 http://vcpkgx.com/details.html?package=libxpm
