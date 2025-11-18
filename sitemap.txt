@@ -330,6 +330,7 @@ http://vcpkgx.com/details.html?package=cpuinfo
 http://vcpkgx.com/details.html?package=neko-schema
 http://vcpkgx.com/details.html?package=libxkbfile
 http://vcpkgx.com/details.html?package=libfreenect2
+http://vcpkgx.com/details.html?package=deadlightreal-swiftnet
 http://vcpkgx.com/details.html?package=snowhouse
 http://vcpkgx.com/details.html?package=tree-sitter
 http://vcpkgx.com/details.html?package=libraqm
