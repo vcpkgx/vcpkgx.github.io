@@ -1898,6 +1898,7 @@ http://vcpkgx.com/details.html?package=boost-interval
 http://vcpkgx.com/details.html?package=lmdb
 http://vcpkgx.com/details.html?package=hidapi
 http://vcpkgx.com/details.html?package=nanorange
+http://vcpkgx.com/details.html?package=slick-queue
 http://vcpkgx.com/details.html?package=alsa
 http://vcpkgx.com/details.html?package=numactl
 http://vcpkgx.com/details.html?package=spine-runtimes
