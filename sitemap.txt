@@ -1734,6 +1734,7 @@ http://vcpkgx.com/details.html?package=oatpp-curl
 http://vcpkgx.com/details.html?package=opencolorio
 http://vcpkgx.com/details.html?package=boost-wave
 http://vcpkgx.com/details.html?package=cinatra
+http://vcpkgx.com/details.html?package=neko-threadpool
 http://vcpkgx.com/details.html?package=lv2
 http://vcpkgx.com/details.html?package=ms-ifc-sdk
 http://vcpkgx.com/details.html?package=boost-container-hash
