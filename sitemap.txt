@@ -1184,6 +1184,7 @@ http://vcpkgx.com/details.html?package=mapbox-geojson-vt-cpp
 http://vcpkgx.com/details.html?package=nanort
 http://vcpkgx.com/details.html?package=aws-c-event-stream
 http://vcpkgx.com/details.html?package=boost-algorithm
+http://vcpkgx.com/details.html?package=directfb2
 http://vcpkgx.com/details.html?package=coin-or-cbc
 http://vcpkgx.com/details.html?package=sprout
 http://vcpkgx.com/details.html?package=bitserializer
