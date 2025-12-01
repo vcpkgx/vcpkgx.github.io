@@ -1562,6 +1562,7 @@ http://vcpkgx.com/details.html?package=tinythread
 http://vcpkgx.com/details.html?package=kf5newstuff
 http://vcpkgx.com/details.html?package=meekrosoft-fff
 http://vcpkgx.com/details.html?package=live555
+http://vcpkgx.com/details.html?package=neko-network
 http://vcpkgx.com/details.html?package=boost-gil
 http://vcpkgx.com/details.html?package=kvasir-mpl
 http://vcpkgx.com/details.html?package=spscqueue
