@@ -833,7 +833,6 @@ http://vcpkgx.com/details.html?package=ptc-print
 http://vcpkgx.com/details.html?package=htslib
 http://vcpkgx.com/details.html?package=darts-clone
 http://vcpkgx.com/details.html?package=boost-locale
-http://vcpkgx.com/details.html?package=cpp-taskflow
 http://vcpkgx.com/details.html?package=qt5-serialport
 http://vcpkgx.com/details.html?package=gdcm
 http://vcpkgx.com/details.html?package=pulseaudio
