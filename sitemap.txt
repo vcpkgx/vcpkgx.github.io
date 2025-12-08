@@ -1146,6 +1146,7 @@ http://vcpkgx.com/details.html?package=type-safe
 http://vcpkgx.com/details.html?package=wincrypt
 http://vcpkgx.com/details.html?package=bullet3
 http://vcpkgx.com/details.html?package=linmath
+http://vcpkgx.com/details.html?package=slick-net
 http://vcpkgx.com/details.html?package=winreg
 http://vcpkgx.com/details.html?package=miniply
 http://vcpkgx.com/details.html?package=kf5dbusaddons
