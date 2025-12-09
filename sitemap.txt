@@ -338,6 +338,7 @@ http://vcpkgx.com/details.html?package=libraqm
 http://vcpkgx.com/details.html?package=leveldb
 http://vcpkgx.com/details.html?package=xlnt
 http://vcpkgx.com/details.html?package=realsense2
+http://vcpkgx.com/details.html?package=arcticdb-sparrow-extensions
 http://vcpkgx.com/details.html?package=grpc
 http://vcpkgx.com/details.html?package=exprtk
 http://vcpkgx.com/details.html?package=libsquish
