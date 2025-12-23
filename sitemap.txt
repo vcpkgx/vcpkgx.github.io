@@ -760,7 +760,6 @@ http://vcpkgx.com/details.html?package=yoga
 http://vcpkgx.com/details.html?package=fast-cpp-csv-parser
 http://vcpkgx.com/details.html?package=ctp
 http://vcpkgx.com/details.html?package=stftpitchshift
-http://vcpkgx.com/details.html?package=leaf
 http://vcpkgx.com/details.html?package=tsl-sparse-map
 http://vcpkgx.com/details.html?package=libyaml
 http://vcpkgx.com/details.html?package=thrift
