@@ -2548,6 +2548,7 @@ http://vcpkgx.com/details.html?package=libspng
 http://vcpkgx.com/details.html?package=openmpi
 http://vcpkgx.com/details.html?package=qt5-sensors
 http://vcpkgx.com/details.html?package=tl-optional
+http://vcpkgx.com/details.html?package=boost-openmethod
 http://vcpkgx.com/details.html?package=poco
 http://vcpkgx.com/details.html?package=liblttng-ust
 http://vcpkgx.com/details.html?package=libkml
