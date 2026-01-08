@@ -1132,6 +1132,7 @@ http://vcpkgx.com/details.html?package=libscran-umappp
 http://vcpkgx.com/details.html?package=cfitsio
 http://vcpkgx.com/details.html?package=jack2
 http://vcpkgx.com/details.html?package=kdbindings
+http://vcpkgx.com/details.html?package=kedixa-coke
 http://vcpkgx.com/details.html?package=launch-darkly-server
 http://vcpkgx.com/details.html?package=nano-signal-slot
 http://vcpkgx.com/details.html?package=syscalls-cpp
