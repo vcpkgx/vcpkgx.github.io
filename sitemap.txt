@@ -1401,6 +1401,7 @@ http://vcpkgx.com/details.html?package=knet
 http://vcpkgx.com/details.html?package=libpng
 http://vcpkgx.com/details.html?package=libmatio-cpp
 http://vcpkgx.com/details.html?package=oatpp-ssdp
+http://vcpkgx.com/details.html?package=whereami
 http://vcpkgx.com/details.html?package=monkeys-audio
 http://vcpkgx.com/details.html?package=rtmidi
 http://vcpkgx.com/details.html?package=open62541pp
