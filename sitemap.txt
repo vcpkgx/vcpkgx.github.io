@@ -1457,6 +1457,7 @@ http://vcpkgx.com/details.html?package=mpc
 http://vcpkgx.com/details.html?package=dtl
 http://vcpkgx.com/details.html?package=pistache
 http://vcpkgx.com/details.html?package=speexdsp
+http://vcpkgx.com/details.html?package=pxlib
 http://vcpkgx.com/details.html?package=blas
 http://vcpkgx.com/details.html?package=aws-crt-cpp
 http://vcpkgx.com/details.html?package=fltk
