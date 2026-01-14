@@ -2498,6 +2498,7 @@ http://vcpkgx.com/details.html?package=daw-json-link
 http://vcpkgx.com/details.html?package=boost-process
 http://vcpkgx.com/details.html?package=dav1d
 http://vcpkgx.com/details.html?package=alembic
+http://vcpkgx.com/details.html?package=libserial
 http://vcpkgx.com/details.html?package=vsgxchange
 http://vcpkgx.com/details.html?package=liblzf
 http://vcpkgx.com/details.html?package=cute-headers
