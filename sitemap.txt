@@ -188,6 +188,7 @@ http://vcpkgx.com/details.html?package=gz-msgs
 http://vcpkgx.com/details.html?package=qt5-x11extras
 http://vcpkgx.com/details.html?package=ltla-subpar
 http://vcpkgx.com/details.html?package=ryu
+http://vcpkgx.com/details.html?package=subversion
 http://vcpkgx.com/details.html?package=hayai
 http://vcpkgx.com/details.html?package=doctest
 http://vcpkgx.com/details.html?package=stlab-copy-on-write
