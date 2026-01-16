@@ -1629,6 +1629,7 @@ http://vcpkgx.com/details.html?package=gettimeofday
 http://vcpkgx.com/details.html?package=vtk
 http://vcpkgx.com/details.html?package=jxrlib
 http://vcpkgx.com/details.html?package=color-console
+http://vcpkgx.com/details.html?package=e-dant-watcher
 http://vcpkgx.com/details.html?package=enet
 http://vcpkgx.com/details.html?package=ixwebsocket
 http://vcpkgx.com/details.html?package=oatpp-consul
