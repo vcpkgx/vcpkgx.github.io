@@ -1861,6 +1861,7 @@ http://vcpkgx.com/details.html?package=tacopie
 http://vcpkgx.com/details.html?package=flash-runtime-extensions
 http://vcpkgx.com/details.html?package=platform-folders
 http://vcpkgx.com/details.html?package=lunasvg
+http://vcpkgx.com/details.html?package=cleishm-frequency-cpp
 http://vcpkgx.com/details.html?package=rsig
 http://vcpkgx.com/details.html?package=hashids
 http://vcpkgx.com/details.html?package=brigand
