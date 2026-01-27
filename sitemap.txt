@@ -774,6 +774,7 @@ http://vcpkgx.com/details.html?package=cpp-timsort
 http://vcpkgx.com/details.html?package=drlibs
 http://vcpkgx.com/details.html?package=rtc-benchmarksuite
 http://vcpkgx.com/details.html?package=sqlite-modern-cpp
+http://vcpkgx.com/details.html?package=ethindp-prism
 http://vcpkgx.com/details.html?package=tinyxml
 http://vcpkgx.com/details.html?package=knncolle-kmknn
 http://vcpkgx.com/details.html?package=gtsam
