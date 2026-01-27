@@ -1453,6 +1453,7 @@ http://vcpkgx.com/details.html?package=unleash-client-cpp
 http://vcpkgx.com/details.html?package=boost-mp11
 http://vcpkgx.com/details.html?package=boost-functional
 http://vcpkgx.com/details.html?package=usockets
+http://vcpkgx.com/details.html?package=anyxx
 http://vcpkgx.com/details.html?package=projectm
 http://vcpkgx.com/details.html?package=luabridge
 http://vcpkgx.com/details.html?package=gamma
