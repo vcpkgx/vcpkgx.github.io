@@ -1512,6 +1512,7 @@ http://vcpkgx.com/details.html?package=gameinput
 http://vcpkgx.com/details.html?package=boost-contract
 http://vcpkgx.com/details.html?package=opencsg
 http://vcpkgx.com/details.html?package=sqlpp11
+http://vcpkgx.com/details.html?package=slick-socket
 http://vcpkgx.com/details.html?package=vvenc
 http://vcpkgx.com/details.html?package=harfbuzz
 http://vcpkgx.com/details.html?package=angelscript
