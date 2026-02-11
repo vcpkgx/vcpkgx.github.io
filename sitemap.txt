@@ -853,6 +853,7 @@ http://vcpkgx.com/details.html?package=libcpplocate
 http://vcpkgx.com/details.html?package=qtlottie
 http://vcpkgx.com/details.html?package=libvpx
 http://vcpkgx.com/details.html?package=qtcharts
+http://vcpkgx.com/details.html?package=xdigest
 http://vcpkgx.com/details.html?package=blend2d
 http://vcpkgx.com/details.html?package=usbmuxd
 http://vcpkgx.com/details.html?package=tinyexpr
