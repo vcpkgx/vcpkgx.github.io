@@ -381,6 +381,7 @@ http://vcpkgx.com/details.html?package=boost-assign
 http://vcpkgx.com/details.html?package=lager
 http://vcpkgx.com/details.html?package=cnats
 http://vcpkgx.com/details.html?package=fizz
+http://vcpkgx.com/details.html?package=abcmake
 http://vcpkgx.com/details.html?package=libev
 http://vcpkgx.com/details.html?package=libxxf86vm
 http://vcpkgx.com/details.html?package=ada-idna
