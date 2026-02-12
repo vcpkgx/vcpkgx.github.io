@@ -2193,6 +2193,7 @@ http://vcpkgx.com/details.html?package=logme
 http://vcpkgx.com/details.html?package=jsonfusion
 http://vcpkgx.com/details.html?package=unimail-cpp-sdk
 http://vcpkgx.com/details.html?package=corrade
+http://vcpkgx.com/details.html?package=andytech-tiny-crc32c
 http://vcpkgx.com/details.html?package=salome-medcoupling
 http://vcpkgx.com/details.html?package=libssh2
 http://vcpkgx.com/details.html?package=boost-config
