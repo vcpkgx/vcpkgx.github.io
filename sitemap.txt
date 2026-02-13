@@ -1842,7 +1842,6 @@ http://vcpkgx.com/details.html?package=inih
 http://vcpkgx.com/details.html?package=skcrypter
 http://vcpkgx.com/details.html?package=valijson
 http://vcpkgx.com/details.html?package=jack2
-http://vcpkgx.com/details.html?package=sdformat13
 http://vcpkgx.com/details.html?package=esaxx
 http://vcpkgx.com/details.html?package=botan
 http://vcpkgx.com/details.html?package=libpopt
