@@ -324,6 +324,7 @@ http://vcpkgx.com/details.html?package=qca
 http://vcpkgx.com/details.html?package=unrar
 http://vcpkgx.com/details.html?package=boost-multi-index
 http://vcpkgx.com/details.html?package=libunistring
+http://vcpkgx.com/details.html?package=fast-obj
 http://vcpkgx.com/details.html?package=robin-map
 http://vcpkgx.com/details.html?package=magnum-extras
 http://vcpkgx.com/details.html?package=materialx
