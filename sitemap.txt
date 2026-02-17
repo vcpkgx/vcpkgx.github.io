@@ -2063,7 +2063,6 @@ http://vcpkgx.com/details.html?package=vulkan-tools
 http://vcpkgx.com/details.html?package=ryu
 http://vcpkgx.com/details.html?package=aws-c-compression
 http://vcpkgx.com/details.html?package=aliyun-oss-c-sdk
-http://vcpkgx.com/details.html?package=cconfig
 http://vcpkgx.com/details.html?package=libfuse
 http://vcpkgx.com/details.html?package=libcanberra
 http://vcpkgx.com/details.html?package=kf5diagram
