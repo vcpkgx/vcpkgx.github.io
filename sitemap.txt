@@ -1609,6 +1609,7 @@ http://vcpkgx.com/details.html?package=lapack-reference
 http://vcpkgx.com/details.html?package=boost-property-map
 http://vcpkgx.com/details.html?package=orocos-kdl
 http://vcpkgx.com/details.html?package=yalantinglibs
+http://vcpkgx.com/details.html?package=slang
 http://vcpkgx.com/details.html?package=atkmm
 http://vcpkgx.com/details.html?package=argtable3
 http://vcpkgx.com/details.html?package=libcurl-simple-https
