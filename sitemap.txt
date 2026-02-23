@@ -9,6 +9,7 @@ http://vcpkgx.com/details.html?package=munit
 http://vcpkgx.com/details.html?package=glib
 http://vcpkgx.com/details.html?package=boost-python
 http://vcpkgx.com/details.html?package=arrayfire
+http://vcpkgx.com/details.html?package=huira
 http://vcpkgx.com/details.html?package=ankurvdev-embedresource
 http://vcpkgx.com/details.html?package=g3log
 http://vcpkgx.com/details.html?package=blickfeld-qb2
