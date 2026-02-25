@@ -2436,7 +2436,6 @@ http://vcpkgx.com/details.html?package=azure-kinect-sensor-sdk
 http://vcpkgx.com/details.html?package=otl
 http://vcpkgx.com/details.html?package=bzip2
 http://vcpkgx.com/details.html?package=boost-cmake
-http://vcpkgx.com/details.html?package=slang
 http://vcpkgx.com/details.html?package=libftdi1
 http://vcpkgx.com/details.html?package=czmq
 http://vcpkgx.com/details.html?package=qt5-serialport
