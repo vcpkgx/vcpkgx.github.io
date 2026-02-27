@@ -157,6 +157,7 @@ http://vcpkgx.com/details.html?package=azure-core-tracing-opentelemetry-cpp
 http://vcpkgx.com/details.html?package=llnl-units
 http://vcpkgx.com/details.html?package=uthenticode
 http://vcpkgx.com/details.html?package=fontconfig
+http://vcpkgx.com/details.html?package=tinyformat
 http://vcpkgx.com/details.html?package=earcut-hpp
 http://vcpkgx.com/details.html?package=protopuf
 http://vcpkgx.com/details.html?package=ptyqt
