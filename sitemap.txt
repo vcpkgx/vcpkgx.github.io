@@ -1820,6 +1820,7 @@ http://vcpkgx.com/details.html?package=glad
 http://vcpkgx.com/details.html?package=vc
 http://vcpkgx.com/details.html?package=boost-type-erasure
 http://vcpkgx.com/details.html?package=libgcrypt
+http://vcpkgx.com/details.html?package=libpg-query
 http://vcpkgx.com/details.html?package=amqpcpp
 http://vcpkgx.com/details.html?package=boost-type-traits
 http://vcpkgx.com/details.html?package=boost-accumulators
