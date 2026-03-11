@@ -1029,6 +1029,7 @@ http://vcpkgx.com/details.html?package=openmpi
 http://vcpkgx.com/details.html?package=tgbot-cpp
 http://vcpkgx.com/details.html?package=libgme
 http://vcpkgx.com/details.html?package=boost-any
+http://vcpkgx.com/details.html?package=libdxfrw
 http://vcpkgx.com/details.html?package=azure-uamqp-c
 http://vcpkgx.com/details.html?package=libbluray
 http://vcpkgx.com/details.html?package=liburing
