@@ -2549,6 +2549,7 @@ http://vcpkgx.com/details.html?package=tcl
 http://vcpkgx.com/details.html?package=libirecovery
 http://vcpkgx.com/details.html?package=zycore
 http://vcpkgx.com/details.html?package=boost-python
+http://vcpkgx.com/details.html?package=ddtdanilo-lmdb-wrapper
 http://vcpkgx.com/details.html?package=anyxx
 http://vcpkgx.com/details.html?package=qttools
 http://vcpkgx.com/details.html?package=boost-crc
