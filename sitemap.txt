@@ -1284,6 +1284,7 @@ http://vcpkgx.com/details.html?package=libmodbus
 http://vcpkgx.com/details.html?package=qtquickcontrols2
 http://vcpkgx.com/details.html?package=marisa-trie
 http://vcpkgx.com/details.html?package=libcpplocate
+http://vcpkgx.com/details.html?package=stillwater-universal
 http://vcpkgx.com/details.html?package=opencensus-cpp
 http://vcpkgx.com/details.html?package=vcpkg-tool-ninja
 http://vcpkgx.com/details.html?package=ensmallen
