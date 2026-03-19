@@ -552,6 +552,7 @@ http://vcpkgx.com/details.html?package=knet
 http://vcpkgx.com/details.html?package=lz4
 http://vcpkgx.com/details.html?package=coin-or-cgl
 http://vcpkgx.com/details.html?package=libmtp
+http://vcpkgx.com/details.html?package=msolve
 http://vcpkgx.com/details.html?package=avro-c
 http://vcpkgx.com/details.html?package=fastdds
 http://vcpkgx.com/details.html?package=clrng
