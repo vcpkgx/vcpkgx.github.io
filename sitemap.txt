@@ -287,6 +287,7 @@ http://vcpkgx.com/details.html?package=z85
 http://vcpkgx.com/details.html?package=ltla-sanisizer
 http://vcpkgx.com/details.html?package=openal-soft
 http://vcpkgx.com/details.html?package=boost-local-function
+http://vcpkgx.com/details.html?package=kdgpu
 http://vcpkgx.com/details.html?package=snap7
 http://vcpkgx.com/details.html?package=thermadiag-seq
 http://vcpkgx.com/details.html?package=string-lite
