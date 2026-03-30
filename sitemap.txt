@@ -638,6 +638,7 @@ http://vcpkgx.com/details.html?package=dtl
 http://vcpkgx.com/details.html?package=chmlib
 http://vcpkgx.com/details.html?package=libtasn1
 http://vcpkgx.com/details.html?package=argh
+http://vcpkgx.com/details.html?package=numkong
 http://vcpkgx.com/details.html?package=stftpitchshift
 http://vcpkgx.com/details.html?package=cgns
 http://vcpkgx.com/details.html?package=anari
