@@ -2310,6 +2310,7 @@ http://vcpkgx.com/details.html?package=function2
 http://vcpkgx.com/details.html?package=kf5archive
 http://vcpkgx.com/details.html?package=rgfw
 http://vcpkgx.com/details.html?package=rendergraph
+http://vcpkgx.com/details.html?package=trieste
 http://vcpkgx.com/details.html?package=graphicsmagick
 http://vcpkgx.com/details.html?package=hdf5
 http://vcpkgx.com/details.html?package=libepoxy
