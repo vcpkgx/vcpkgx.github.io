@@ -22,6 +22,7 @@ http://vcpkgx.com/details.html?package=cmark
 http://vcpkgx.com/details.html?package=portaudio
 http://vcpkgx.com/details.html?package=suitesparse-ccolamd
 http://vcpkgx.com/details.html?package=boost-property-map
+http://vcpkgx.com/details.html?package=consteig
 http://vcpkgx.com/details.html?package=osqp
 http://vcpkgx.com/details.html?package=azure-c-shared-utility
 http://vcpkgx.com/details.html?package=gdcm
