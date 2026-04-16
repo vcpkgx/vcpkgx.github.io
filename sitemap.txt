@@ -345,6 +345,7 @@ http://vcpkgx.com/details.html?package=gainput
 http://vcpkgx.com/details.html?package=mygui
 http://vcpkgx.com/details.html?package=arrayfire
 http://vcpkgx.com/details.html?package=sdflib
+http://vcpkgx.com/details.html?package=odbccpp
 http://vcpkgx.com/details.html?package=libaribcaption
 http://vcpkgx.com/details.html?package=reactphysics3d
 http://vcpkgx.com/details.html?package=suitesparse-mongoose
