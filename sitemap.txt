@@ -14,6 +14,7 @@ http://vcpkgx.com/details.html?package=qscintilla
 http://vcpkgx.com/details.html?package=sfsexp
 http://vcpkgx.com/details.html?package=ztd-cuneicode
 http://vcpkgx.com/details.html?package=nanojsonc
+http://vcpkgx.com/details.html?package=swaggercpp
 http://vcpkgx.com/details.html?package=nanort
 http://vcpkgx.com/details.html?package=boost-pool
 http://vcpkgx.com/details.html?package=easyhook
