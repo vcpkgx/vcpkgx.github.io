@@ -1975,6 +1975,7 @@ http://vcpkgx.com/details.html?package=modern-cpp-kafka
 http://vcpkgx.com/details.html?package=lunarg-vulkantools
 http://vcpkgx.com/details.html?package=karchive
 http://vcpkgx.com/details.html?package=cthash
+http://vcpkgx.com/details.html?package=hical61-hical
 http://vcpkgx.com/details.html?package=sparsehash
 http://vcpkgx.com/details.html?package=boost-parameter-python
 http://vcpkgx.com/details.html?package=rgfw
