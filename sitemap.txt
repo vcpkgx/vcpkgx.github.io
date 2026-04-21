@@ -1981,6 +1981,7 @@ http://vcpkgx.com/details.html?package=boost-parameter-python
 http://vcpkgx.com/details.html?package=rgfw
 http://vcpkgx.com/details.html?package=safetyhook
 http://vcpkgx.com/details.html?package=xcb-util
+http://vcpkgx.com/details.html?package=stescobedo92-stellar
 http://vcpkgx.com/details.html?package=coin
 http://vcpkgx.com/details.html?package=llhttp
 http://vcpkgx.com/details.html?package=gpgmm
