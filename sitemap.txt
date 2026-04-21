@@ -1185,6 +1185,7 @@ http://vcpkgx.com/details.html?package=vbs-enclave-tooling-codegen
 http://vcpkgx.com/details.html?package=nanobind
 http://vcpkgx.com/details.html?package=sqlite-orm
 http://vcpkgx.com/details.html?package=nuspell
+http://vcpkgx.com/details.html?package=ipgeolocation-cpp-sdk
 http://vcpkgx.com/details.html?package=colmap
 http://vcpkgx.com/details.html?package=stronk
 http://vcpkgx.com/details.html?package=matchit
