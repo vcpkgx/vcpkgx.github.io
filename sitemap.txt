@@ -731,6 +731,7 @@ http://vcpkgx.com/details.html?package=presentmon
 http://vcpkgx.com/details.html?package=lemon-parser-generator
 http://vcpkgx.com/details.html?package=cpp-redis
 http://vcpkgx.com/details.html?package=moos-core
+http://vcpkgx.com/details.html?package=polkit
 http://vcpkgx.com/details.html?package=boost-odeint
 http://vcpkgx.com/details.html?package=barkeep
 http://vcpkgx.com/details.html?package=rtmfp-cpp
