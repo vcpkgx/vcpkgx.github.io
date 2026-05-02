@@ -1264,6 +1264,7 @@ http://vcpkgx.com/details.html?package=duvc-ctl
 http://vcpkgx.com/details.html?package=libmysql
 http://vcpkgx.com/details.html?package=ecaludp
 http://vcpkgx.com/details.html?package=soem
+http://vcpkgx.com/details.html?package=libvpl
 http://vcpkgx.com/details.html?package=wabt
 http://vcpkgx.com/details.html?package=boost-callable-traits
 http://vcpkgx.com/details.html?package=snowhouse
