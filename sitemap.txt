@@ -2644,6 +2644,7 @@ http://vcpkgx.com/details.html?package=levmar
 http://vcpkgx.com/details.html?package=tinyexr
 http://vcpkgx.com/details.html?package=inja
 http://vcpkgx.com/details.html?package=zxc
+http://vcpkgx.com/details.html?package=vincentlaucsb-classify-scalar
 http://vcpkgx.com/details.html?package=gl2ps
 http://vcpkgx.com/details.html?package=libsharp
 http://vcpkgx.com/details.html?package=suitesparse-cholmod
