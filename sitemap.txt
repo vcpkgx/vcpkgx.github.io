@@ -621,6 +621,7 @@ http://vcpkgx.com/details.html?package=azure-storage-files-datalake-cpp
 http://vcpkgx.com/details.html?package=libcsv
 http://vcpkgx.com/details.html?package=libcap
 http://vcpkgx.com/details.html?package=utfcpp
+http://vcpkgx.com/details.html?package=dtc
 http://vcpkgx.com/details.html?package=tinyxml2
 http://vcpkgx.com/details.html?package=vsgimgui
 http://vcpkgx.com/details.html?package=safeint
