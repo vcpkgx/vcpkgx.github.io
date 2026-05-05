@@ -1541,6 +1541,7 @@ http://vcpkgx.com/details.html?package=libsquish
 http://vcpkgx.com/details.html?package=boost-format
 http://vcpkgx.com/details.html?package=libass
 http://vcpkgx.com/details.html?package=modp-base64
+http://vcpkgx.com/details.html?package=webrtc
 http://vcpkgx.com/details.html?package=robotraconteur-companion
 http://vcpkgx.com/details.html?package=dylib
 http://vcpkgx.com/details.html?package=libpopcnt
