@@ -2459,6 +2459,7 @@ http://vcpkgx.com/details.html?package=kuku
 http://vcpkgx.com/details.html?package=subversion
 http://vcpkgx.com/details.html?package=bullet3
 http://vcpkgx.com/details.html?package=variant-lite
+http://vcpkgx.com/details.html?package=kcenon-common-system
 http://vcpkgx.com/details.html?package=libvorbis
 http://vcpkgx.com/details.html?package=gtl
 http://vcpkgx.com/details.html?package=boost-mpl
