@@ -1411,6 +1411,7 @@ http://vcpkgx.com/details.html?package=libgme
 http://vcpkgx.com/details.html?package=geotrans
 http://vcpkgx.com/details.html?package=dingo
 http://vcpkgx.com/details.html?package=cli11
+http://vcpkgx.com/details.html?package=boost-decimal
 http://vcpkgx.com/details.html?package=tsl-sparse-map
 http://vcpkgx.com/details.html?package=boinc
 http://vcpkgx.com/details.html?package=crossdb
