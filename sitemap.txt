@@ -2252,6 +2252,7 @@ http://vcpkgx.com/details.html?package=cello
 http://vcpkgx.com/details.html?package=jsoncpp
 http://vcpkgx.com/details.html?package=genann
 http://vcpkgx.com/details.html?package=qtscxml
+http://vcpkgx.com/details.html?package=geo-utils-cpp
 http://vcpkgx.com/details.html?package=nanoflann
 http://vcpkgx.com/details.html?package=libxmlpp
 http://vcpkgx.com/details.html?package=libcaer
