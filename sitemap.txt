@@ -598,6 +598,7 @@ http://vcpkgx.com/details.html?package=cadons-ctus
 http://vcpkgx.com/details.html?package=happly
 http://vcpkgx.com/details.html?package=openturns
 http://vcpkgx.com/details.html?package=vcpkg-get-python-packages
+http://vcpkgx.com/details.html?package=picohttpparser
 http://vcpkgx.com/details.html?package=stackwalker
 http://vcpkgx.com/details.html?package=svt-av1
 http://vcpkgx.com/details.html?package=crashcatch
