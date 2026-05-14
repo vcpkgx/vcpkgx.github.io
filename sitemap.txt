@@ -2816,6 +2816,7 @@ http://vcpkgx.com/details.html?package=libspnav
 http://vcpkgx.com/details.html?package=libinterpolate
 http://vcpkgx.com/details.html?package=guetzli
 http://vcpkgx.com/details.html?package=pqp
+http://vcpkgx.com/details.html?package=kauth
 http://vcpkgx.com/details.html?package=librttopo
 http://vcpkgx.com/details.html?package=opencl
 http://vcpkgx.com/details.html?package=vcpkg-pkgconfig-get-modules
