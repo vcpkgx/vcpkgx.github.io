@@ -2682,7 +2682,6 @@ http://vcpkgx.com/details.html?package=kf5coreaddons
 http://vcpkgx.com/details.html?package=libwebm
 http://vcpkgx.com/details.html?package=gsoap
 http://vcpkgx.com/details.html?package=earcut-hpp
-http://vcpkgx.com/details.html?package=luminoengine
 http://vcpkgx.com/details.html?package=tinyxml2
 http://vcpkgx.com/details.html?package=freexl
 http://vcpkgx.com/details.html?package=so5extra
