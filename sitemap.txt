@@ -864,7 +864,6 @@ http://vcpkgx.com/details.html?package=ryu
 http://vcpkgx.com/details.html?package=clamav
 http://vcpkgx.com/details.html?package=minizip
 http://vcpkgx.com/details.html?package=libevhtp
-http://vcpkgx.com/details.html?package=scylla-wrapper
 http://vcpkgx.com/details.html?package=kdsingleapplication
 http://vcpkgx.com/details.html?package=libmorton
 http://vcpkgx.com/details.html?package=libxdiff
