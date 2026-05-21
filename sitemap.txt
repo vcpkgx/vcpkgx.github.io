@@ -126,7 +126,6 @@ http://vcpkgx.com/details.html?package=elements
 http://vcpkgx.com/details.html?package=boost-core
 http://vcpkgx.com/details.html?package=yas
 http://vcpkgx.com/details.html?package=opencv4
-http://vcpkgx.com/details.html?package=libe57
 http://vcpkgx.com/details.html?package=mapbox-variant
 http://vcpkgx.com/details.html?package=whereami
 http://vcpkgx.com/details.html?package=mathter
