@@ -1483,6 +1483,7 @@ http://vcpkgx.com/details.html?package=rexo
 http://vcpkgx.com/details.html?package=log4cplus
 http://vcpkgx.com/details.html?package=qtnetworkauth
 http://vcpkgx.com/details.html?package=celero
+http://vcpkgx.com/details.html?package=linux-dfl-uapi-headers
 http://vcpkgx.com/details.html?package=azure-storage-files-datalake-cpp
 http://vcpkgx.com/details.html?package=blingfire
 http://vcpkgx.com/details.html?package=spglib
