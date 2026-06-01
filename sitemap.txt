@@ -2685,6 +2685,7 @@ http://vcpkgx.com/details.html?package=oatpp-consul
 http://vcpkgx.com/details.html?package=makeid
 http://vcpkgx.com/details.html?package=azure-kinect-depth-engine
 http://vcpkgx.com/details.html?package=nlopt
+http://vcpkgx.com/details.html?package=yunsmall-usbipdcpp
 http://vcpkgx.com/details.html?package=vsgimgui
 http://vcpkgx.com/details.html?package=g3log
 http://vcpkgx.com/details.html?package=boost-icl
