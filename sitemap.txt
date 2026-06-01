@@ -1740,6 +1740,7 @@ http://vcpkgx.com/details.html?package=muda
 http://vcpkgx.com/details.html?package=tesseract
 http://vcpkgx.com/details.html?package=qt5-script
 http://vcpkgx.com/details.html?package=boost-preprocessor
+http://vcpkgx.com/details.html?package=cesnet-ndk-sw
 http://vcpkgx.com/details.html?package=bxzstr
 http://vcpkgx.com/details.html?package=boost-qvm
 http://vcpkgx.com/details.html?package=libgit2
