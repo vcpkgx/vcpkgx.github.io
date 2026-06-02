@@ -1823,6 +1823,7 @@ http://vcpkgx.com/details.html?package=wayland
 http://vcpkgx.com/details.html?package=cmark
 http://vcpkgx.com/details.html?package=glfw3
 http://vcpkgx.com/details.html?package=nonstd-scope-lite
+http://vcpkgx.com/details.html?package=tesults-cpp
 http://vcpkgx.com/details.html?package=arsenalgear
 http://vcpkgx.com/details.html?package=cjson
 http://vcpkgx.com/details.html?package=shiftmedia-libgnutls
