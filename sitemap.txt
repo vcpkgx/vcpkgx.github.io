@@ -1310,6 +1310,7 @@ http://vcpkgx.com/details.html?package=boost-type-erasure
 http://vcpkgx.com/details.html?package=kdgpu
 http://vcpkgx.com/details.html?package=vlpp
 http://vcpkgx.com/details.html?package=openfbx
+http://vcpkgx.com/details.html?package=tesults-gtest
 http://vcpkgx.com/details.html?package=libdvdcss
 http://vcpkgx.com/details.html?package=bext-ut
 http://vcpkgx.com/details.html?package=earcut-hpp
