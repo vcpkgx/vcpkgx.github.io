@@ -1929,6 +1929,7 @@ http://vcpkgx.com/details.html?package=hexi
 http://vcpkgx.com/details.html?package=qt
 http://vcpkgx.com/details.html?package=miniaudio
 http://vcpkgx.com/details.html?package=libnoise
+http://vcpkgx.com/details.html?package=alibabacloud-oss-cpp-sdk-v2
 http://vcpkgx.com/details.html?package=dbus
 http://vcpkgx.com/details.html?package=lodepng
 http://vcpkgx.com/details.html?package=libxmp
