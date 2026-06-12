@@ -2365,6 +2365,7 @@ http://vcpkgx.com/details.html?package=tsl-array-hash
 http://vcpkgx.com/details.html?package=suitesparse-camd
 http://vcpkgx.com/details.html?package=ctstraffic
 http://vcpkgx.com/details.html?package=jkqtplotter
+http://vcpkgx.com/details.html?package=cpp-client-telemetry
 http://vcpkgx.com/details.html?package=indirect-value
 http://vcpkgx.com/details.html?package=libmt32emu
 http://vcpkgx.com/details.html?package=livepp
