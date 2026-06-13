@@ -727,6 +727,7 @@ http://vcpkgx.com/details.html?package=sqlpp11
 http://vcpkgx.com/details.html?package=fakeit
 http://vcpkgx.com/details.html?package=boost-uninstall
 http://vcpkgx.com/details.html?package=boost-lambda2
+http://vcpkgx.com/details.html?package=slick-stream-buffer
 http://vcpkgx.com/details.html?package=scintilla
 http://vcpkgx.com/details.html?package=libtheora
 http://vcpkgx.com/details.html?package=tevclient
