@@ -2204,6 +2204,7 @@ http://vcpkgx.com/details.html?package=units
 http://vcpkgx.com/details.html?package=guilite
 http://vcpkgx.com/details.html?package=boost-lexical-cast
 http://vcpkgx.com/details.html?package=lexilla
+http://vcpkgx.com/details.html?package=redisx
 http://vcpkgx.com/details.html?package=boost-container
 http://vcpkgx.com/details.html?package=kcrash
 http://vcpkgx.com/details.html?package=boost-qvm
