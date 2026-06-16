@@ -818,6 +818,7 @@ http://vcpkgx.com/details.html?package=dlfcn-win32
 http://vcpkgx.com/details.html?package=gts
 http://vcpkgx.com/details.html?package=cspice
 http://vcpkgx.com/details.html?package=zeromq
+http://vcpkgx.com/details.html?package=lttb
 http://vcpkgx.com/details.html?package=xproto
 http://vcpkgx.com/details.html?package=minizip-ng
 http://vcpkgx.com/details.html?package=cyclonedds
