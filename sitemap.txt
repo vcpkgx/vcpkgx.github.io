@@ -511,6 +511,7 @@ http://vcpkgx.com/details.html?package=cppad
 http://vcpkgx.com/details.html?package=xorg-macros
 http://vcpkgx.com/details.html?package=swenson-sort
 http://vcpkgx.com/details.html?package=ginkgo
+http://vcpkgx.com/details.html?package=kconfig
 http://vcpkgx.com/details.html?package=spine-c
 http://vcpkgx.com/details.html?package=safetyhook
 http://vcpkgx.com/details.html?package=liblsl
