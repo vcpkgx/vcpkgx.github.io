@@ -1590,6 +1590,7 @@ http://vcpkgx.com/details.html?package=speexdsp
 http://vcpkgx.com/details.html?package=eigen3
 http://vcpkgx.com/details.html?package=neko-network
 http://vcpkgx.com/details.html?package=aixlog
+http://vcpkgx.com/details.html?package=syntax-highlighting
 http://vcpkgx.com/details.html?package=libxfont
 http://vcpkgx.com/details.html?package=v-hacd
 http://vcpkgx.com/details.html?package=onnxruntime-gpu
