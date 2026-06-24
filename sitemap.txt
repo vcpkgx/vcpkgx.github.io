@@ -1198,7 +1198,6 @@ http://vcpkgx.com/details.html?package=wxwidgets
 http://vcpkgx.com/details.html?package=liblsquic
 http://vcpkgx.com/details.html?package=metis
 http://vcpkgx.com/details.html?package=polyclipping
-http://vcpkgx.com/details.html?package=discordcoreapi
 http://vcpkgx.com/details.html?package=baresip-libre
 http://vcpkgx.com/details.html?package=rdma-core
 http://vcpkgx.com/details.html?package=nonius
