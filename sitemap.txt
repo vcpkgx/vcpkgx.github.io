@@ -1745,6 +1745,7 @@ http://vcpkgx.com/details.html?package=leveldb
 http://vcpkgx.com/details.html?package=yaml-cpp
 http://vcpkgx.com/details.html?package=directfb2
 http://vcpkgx.com/details.html?package=fann
+http://vcpkgx.com/details.html?package=libvips
 http://vcpkgx.com/details.html?package=tabulate
 http://vcpkgx.com/details.html?package=xbyak
 http://vcpkgx.com/details.html?package=tinyformat
