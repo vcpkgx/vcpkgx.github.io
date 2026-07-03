@@ -284,6 +284,7 @@ http://vcpkgx.com/details.html?package=ltla-cppirlba
 http://vcpkgx.com/details.html?package=neoslippi
 http://vcpkgx.com/details.html?package=libopnmidi
 http://vcpkgx.com/details.html?package=rgfw
+http://vcpkgx.com/details.html?package=box3d
 http://vcpkgx.com/details.html?package=rego-cpp
 http://vcpkgx.com/details.html?package=libkeyfinder
 http://vcpkgx.com/details.html?package=hnswlib
