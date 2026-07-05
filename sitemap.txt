@@ -2006,6 +2006,7 @@ http://vcpkgx.com/details.html?package=plib
 http://vcpkgx.com/details.html?package=freealut
 http://vcpkgx.com/details.html?package=bde
 http://vcpkgx.com/details.html?package=slick-socket
+http://vcpkgx.com/details.html?package=scinumtools3
 http://vcpkgx.com/details.html?package=libtracepoint
 http://vcpkgx.com/details.html?package=fineftp
 http://vcpkgx.com/details.html?package=nanobind
