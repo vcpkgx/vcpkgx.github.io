@@ -88,7 +88,6 @@ http://vcpkgx.com/details.html?package=absent
 http://vcpkgx.com/details.html?package=fbgemm
 http://vcpkgx.com/details.html?package=tsl-hopscotch-map
 http://vcpkgx.com/details.html?package=paraview
-http://vcpkgx.com/details.html?package=gsoap
 http://vcpkgx.com/details.html?package=libevhtp
 http://vcpkgx.com/details.html?package=libcanberra
 http://vcpkgx.com/details.html?package=xxhash
