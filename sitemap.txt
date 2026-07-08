@@ -672,6 +672,7 @@ http://vcpkgx.com/details.html?package=jxrlib
 http://vcpkgx.com/details.html?package=libebur128
 http://vcpkgx.com/details.html?package=icecream-cpp
 http://vcpkgx.com/details.html?package=capstone
+http://vcpkgx.com/details.html?package=directx-dxc-tblgen
 http://vcpkgx.com/details.html?package=z4kn4fein-semver
 http://vcpkgx.com/details.html?package=curve-eraser
 http://vcpkgx.com/details.html?package=libsrtp
