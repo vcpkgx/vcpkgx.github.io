@@ -2826,6 +2826,7 @@ http://vcpkgx.com/details.html?package=fbthrift
 http://vcpkgx.com/details.html?package=slikenet
 http://vcpkgx.com/details.html?package=kenlm
 http://vcpkgx.com/details.html?package=qtkeychain
+http://vcpkgx.com/details.html?package=minmea
 http://vcpkgx.com/details.html?package=fixed-containers
 http://vcpkgx.com/details.html?package=fmem
 http://vcpkgx.com/details.html?package=spimpl
