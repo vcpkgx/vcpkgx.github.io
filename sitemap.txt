@@ -42,6 +42,7 @@ http://vcpkgx.com/details.html?package=suitesparse-spqr
 http://vcpkgx.com/details.html?package=openssl
 http://vcpkgx.com/details.html?package=logme
 http://vcpkgx.com/details.html?package=qt5-quickcontrols2
+http://vcpkgx.com/details.html?package=fancyargumentparser
 http://vcpkgx.com/details.html?package=zimpl
 http://vcpkgx.com/details.html?package=libdatrie
 http://vcpkgx.com/details.html?package=qt5compat
