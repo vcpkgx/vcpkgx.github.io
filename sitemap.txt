@@ -372,6 +372,7 @@ http://vcpkgx.com/details.html?package=openmesh
 http://vcpkgx.com/details.html?package=boost-odeint
 http://vcpkgx.com/details.html?package=boost-container
 http://vcpkgx.com/details.html?package=redis-plus-plus
+http://vcpkgx.com/details.html?package=wirestead
 http://vcpkgx.com/details.html?package=boost-timer
 http://vcpkgx.com/details.html?package=irrlicht
 http://vcpkgx.com/details.html?package=tinydir
