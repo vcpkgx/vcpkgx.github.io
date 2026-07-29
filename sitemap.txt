@@ -965,6 +965,7 @@ http://vcpkgx.com/details.html?package=boost-mp11
 http://vcpkgx.com/details.html?package=qtquick3d
 http://vcpkgx.com/details.html?package=flash-runtime-extensions
 http://vcpkgx.com/details.html?package=boost-move
+http://vcpkgx.com/details.html?package=sfparse
 http://vcpkgx.com/details.html?package=cwalk
 http://vcpkgx.com/details.html?package=ogre
 http://vcpkgx.com/details.html?package=vcpkg-tool-gyp-next
