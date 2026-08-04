@@ -1166,6 +1166,7 @@ http://vcpkgx.com/details.html?package=gtkmm
 http://vcpkgx.com/details.html?package=libmicrodns
 http://vcpkgx.com/details.html?package=forge
 http://vcpkgx.com/details.html?package=unimail-cpp-sdk
+http://vcpkgx.com/details.html?package=libnsgif
 http://vcpkgx.com/details.html?package=nsync
 http://vcpkgx.com/details.html?package=vvenc
 http://vcpkgx.com/details.html?package=osmanip
