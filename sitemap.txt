@@ -958,6 +958,7 @@ http://vcpkgx.com/details.html?package=libva
 http://vcpkgx.com/details.html?package=libassuan
 http://vcpkgx.com/details.html?package=rapidjson
 http://vcpkgx.com/details.html?package=qtvirtualkeyboard
+http://vcpkgx.com/details.html?package=gif-load
 http://vcpkgx.com/details.html?package=libaes-siv
 http://vcpkgx.com/details.html?package=libcbor
 http://vcpkgx.com/details.html?package=scintilla
