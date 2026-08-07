@@ -1902,7 +1902,6 @@ http://vcpkgx.com/details.html?package=boost-vmd
 http://vcpkgx.com/details.html?package=bext-ut
 http://vcpkgx.com/details.html?package=opentelemetry-cpp
 http://vcpkgx.com/details.html?package=c9y
-http://vcpkgx.com/details.html?package=threadpool
 http://vcpkgx.com/details.html?package=sjpeg
 http://vcpkgx.com/details.html?package=observer-ptr-lite
 http://vcpkgx.com/details.html?package=unleash-client-cpp
