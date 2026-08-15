@@ -2042,6 +2042,7 @@ http://vcpkgx.com/details.html?package=tabulate
 http://vcpkgx.com/details.html?package=lv2
 http://vcpkgx.com/details.html?package=spimpl
 http://vcpkgx.com/details.html?package=atl
+http://vcpkgx.com/details.html?package=librats
 http://vcpkgx.com/details.html?package=aws-c-mqtt
 http://vcpkgx.com/details.html?package=libodb
 http://vcpkgx.com/details.html?package=boost-winapi
