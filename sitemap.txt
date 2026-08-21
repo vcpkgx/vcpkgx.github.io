@@ -2440,7 +2440,6 @@ http://vcpkgx.com/details.html?package=vcpkg-msbuild
 http://vcpkgx.com/details.html?package=foonathan-lexy
 http://vcpkgx.com/details.html?package=boost-tokenizer
 http://vcpkgx.com/details.html?package=ryml
-http://vcpkgx.com/details.html?package=libfreenect2
 http://vcpkgx.com/details.html?package=mvfst
 http://vcpkgx.com/details.html?package=xtensor-io
 http://vcpkgx.com/details.html?package=avro-c
