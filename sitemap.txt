@@ -2016,6 +2016,7 @@ http://vcpkgx.com/details.html?package=fast-float
 http://vcpkgx.com/details.html?package=nlohmann-fifo-map
 http://vcpkgx.com/details.html?package=proxygen
 http://vcpkgx.com/details.html?package=libsecret
+http://vcpkgx.com/details.html?package=cppduals
 http://vcpkgx.com/details.html?package=boost-smart-ptr
 http://vcpkgx.com/details.html?package=nlopt
 http://vcpkgx.com/details.html?package=paho-mqtt
