@@ -934,6 +934,7 @@ http://vcpkgx.com/details.html?package=guile
 http://vcpkgx.com/details.html?package=kf5wallet
 http://vcpkgx.com/details.html?package=so5extra
 http://vcpkgx.com/details.html?package=slick-socket
+http://vcpkgx.com/details.html?package=xyo-sdk
 http://vcpkgx.com/details.html?package=coin-or-osi
 http://vcpkgx.com/details.html?package=libevhtp
 http://vcpkgx.com/details.html?package=clblast
