@@ -961,6 +961,7 @@ http://vcpkgx.com/details.html?package=qt3d
 http://vcpkgx.com/details.html?package=libnotify
 http://vcpkgx.com/details.html?package=cddlib
 http://vcpkgx.com/details.html?package=qtnetworkauth
+http://vcpkgx.com/details.html?package=wukong-easy-sdk
 http://vcpkgx.com/details.html?package=boost-geometry
 http://vcpkgx.com/details.html?package=azure-identity-cpp
 http://vcpkgx.com/details.html?package=libaes-siv
