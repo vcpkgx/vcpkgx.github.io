@@ -2505,7 +2505,6 @@ http://vcpkgx.com/details.html?package=josuttis-jthread
 http://vcpkgx.com/details.html?package=libogg
 http://vcpkgx.com/details.html?package=nanopb
 http://vcpkgx.com/details.html?package=arrow-adbc
-http://vcpkgx.com/details.html?package=shiftmedia-libgnutls
 http://vcpkgx.com/details.html?package=muparser
 http://vcpkgx.com/details.html?package=pravila00-enum-string
 http://vcpkgx.com/details.html?package=pango
