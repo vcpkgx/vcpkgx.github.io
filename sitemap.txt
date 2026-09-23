@@ -2202,6 +2202,7 @@ http://vcpkgx.com/details.html?package=morphologica
 http://vcpkgx.com/details.html?package=libideviceactivation
 http://vcpkgx.com/details.html?package=sqlcipher
 http://vcpkgx.com/details.html?package=cinatra
+http://vcpkgx.com/details.html?package=libnatpmp
 http://vcpkgx.com/details.html?package=genann
 http://vcpkgx.com/details.html?package=mxml
 http://vcpkgx.com/details.html?package=aui
