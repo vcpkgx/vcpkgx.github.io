@@ -1510,7 +1510,6 @@ http://vcpkgx.com/details.html?package=pfultz2-linq
 http://vcpkgx.com/details.html?package=libgo
 http://vcpkgx.com/details.html?package=aws-c-sdkutils
 http://vcpkgx.com/details.html?package=aws-lambda-cpp
-http://vcpkgx.com/details.html?package=v8
 http://vcpkgx.com/details.html?package=suitesparse-btf
 http://vcpkgx.com/details.html?package=s2geometry
 http://vcpkgx.com/details.html?package=keystone
