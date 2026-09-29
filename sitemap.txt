@@ -817,6 +817,7 @@ http://vcpkgx.com/details.html?package=readline-unix
 http://vcpkgx.com/details.html?package=poppler-data
 http://vcpkgx.com/details.html?package=devicenameresolver
 http://vcpkgx.com/details.html?package=libdshowcapture
+http://vcpkgx.com/details.html?package=fcftest
 http://vcpkgx.com/details.html?package=qt5-serialbus
 http://vcpkgx.com/details.html?package=readline
 http://vcpkgx.com/details.html?package=qhull
