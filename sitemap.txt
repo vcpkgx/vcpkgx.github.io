@@ -2622,6 +2622,7 @@ http://vcpkgx.com/details.html?package=mpc
 http://vcpkgx.com/details.html?package=stronk
 http://vcpkgx.com/details.html?package=kf5archive
 http://vcpkgx.com/details.html?package=bsio
+http://vcpkgx.com/details.html?package=vvdec
 http://vcpkgx.com/details.html?package=python3
 http://vcpkgx.com/details.html?package=sonivox
 http://vcpkgx.com/details.html?package=libstemmer
