@@ -2080,7 +2080,6 @@ http://vcpkgx.com/details.html?package=gobject-introspection
 http://vcpkgx.com/details.html?package=libxmp
 http://vcpkgx.com/details.html?package=libpsl
 http://vcpkgx.com/details.html?package=reaction
-http://vcpkgx.com/details.html?package=ctp
 http://vcpkgx.com/details.html?package=libsecret
 http://vcpkgx.com/details.html?package=qt5-serialport
 http://vcpkgx.com/details.html?package=salome-med-fichier
