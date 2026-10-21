@@ -2274,6 +2274,7 @@ http://vcpkgx.com/details.html?package=magnum-plugins
 http://vcpkgx.com/details.html?package=libsrt
 http://vcpkgx.com/details.html?package=nifticlib
 http://vcpkgx.com/details.html?package=jack2
+http://vcpkgx.com/details.html?package=mpss
 http://vcpkgx.com/details.html?package=libgo
 http://vcpkgx.com/details.html?package=pmp-library
 http://vcpkgx.com/details.html?package=vulkan-memory-allocator-hpp
