@@ -1927,6 +1927,7 @@ http://vcpkgx.com/details.html?package=openjpeg
 http://vcpkgx.com/details.html?package=cpp-redis
 http://vcpkgx.com/details.html?package=superlu
 http://vcpkgx.com/details.html?package=allegro5
+http://vcpkgx.com/details.html?package=chadwick
 http://vcpkgx.com/details.html?package=openxr-loader
 http://vcpkgx.com/details.html?package=yoctolib
 http://vcpkgx.com/details.html?package=xcb-proto
