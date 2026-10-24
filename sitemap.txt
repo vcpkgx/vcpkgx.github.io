@@ -1903,6 +1903,7 @@ http://vcpkgx.com/details.html?package=cpp-lazy
 http://vcpkgx.com/details.html?package=libmt32emu
 http://vcpkgx.com/details.html?package=thorvg
 http://vcpkgx.com/details.html?package=scotch
+http://vcpkgx.com/details.html?package=attica
 http://vcpkgx.com/details.html?package=boost-safe-numerics
 http://vcpkgx.com/details.html?package=spirv-headers
 http://vcpkgx.com/details.html?package=kf5attica
