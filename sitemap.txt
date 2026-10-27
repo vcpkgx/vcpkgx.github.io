@@ -716,7 +716,6 @@ http://vcpkgx.com/details.html?package=luau
 http://vcpkgx.com/details.html?package=unleash-client-cpp
 http://vcpkgx.com/details.html?package=rocksdb
 http://vcpkgx.com/details.html?package=freealut
-http://vcpkgx.com/details.html?package=chmlib
 http://vcpkgx.com/details.html?package=protobuf-c
 http://vcpkgx.com/details.html?package=clipper2
 http://vcpkgx.com/details.html?package=rkcommon
