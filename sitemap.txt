@@ -2217,6 +2217,7 @@ http://vcpkgx.com/details.html?package=qwtw
 http://vcpkgx.com/details.html?package=dimcli
 http://vcpkgx.com/details.html?package=oatpp-libressl
 http://vcpkgx.com/details.html?package=strtk
+http://vcpkgx.com/details.html?package=taar
 http://vcpkgx.com/details.html?package=json-glib
 http://vcpkgx.com/details.html?package=libcorrect
 http://vcpkgx.com/details.html?package=xqilla
