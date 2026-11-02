@@ -2789,6 +2789,7 @@ http://vcpkgx.com/details.html?package=at-spi2-atk
 http://vcpkgx.com/details.html?package=aui-toolbox
 http://vcpkgx.com/details.html?package=glpk
 http://vcpkgx.com/details.html?package=cadons-ctus
+http://vcpkgx.com/details.html?package=kiconthemes
 http://vcpkgx.com/details.html?package=boost-bind
 http://vcpkgx.com/details.html?package=tdscpp
 http://vcpkgx.com/details.html?package=bark
