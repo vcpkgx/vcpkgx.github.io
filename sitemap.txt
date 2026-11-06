@@ -771,6 +771,7 @@ http://vcpkgx.com/details.html?package=libstk
 http://vcpkgx.com/details.html?package=aws-c-event-stream
 http://vcpkgx.com/details.html?package=inipp
 http://vcpkgx.com/details.html?package=liquid-dsp
+http://vcpkgx.com/details.html?package=rocm
 http://vcpkgx.com/details.html?package=kdalgorithms
 http://vcpkgx.com/details.html?package=libxxf86vm
 http://vcpkgx.com/details.html?package=easy-profiler
