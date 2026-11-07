@@ -1200,6 +1200,7 @@ http://vcpkgx.com/details.html?package=lemon-parser-generator
 http://vcpkgx.com/details.html?package=openvdb
 http://vcpkgx.com/details.html?package=eljonny-testcpp
 http://vcpkgx.com/details.html?package=ntf-core
+http://vcpkgx.com/details.html?package=spookyhash
 http://vcpkgx.com/details.html?package=pulzed-mini
 http://vcpkgx.com/details.html?package=oatpp-mongo
 http://vcpkgx.com/details.html?package=qpoases
