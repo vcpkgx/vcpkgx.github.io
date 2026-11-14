@@ -2726,6 +2726,7 @@ http://vcpkgx.com/details.html?package=hikogui
 http://vcpkgx.com/details.html?package=flash-runtime-extensions
 http://vcpkgx.com/details.html?package=itk
 http://vcpkgx.com/details.html?package=orange-vmprotect-sdk
+http://vcpkgx.com/details.html?package=ktextwidgets
 http://vcpkgx.com/details.html?package=libhat
 http://vcpkgx.com/details.html?package=vowpal-wabbit
 http://vcpkgx.com/details.html?package=kxmlgui
