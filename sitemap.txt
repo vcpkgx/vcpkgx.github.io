@@ -1774,6 +1774,7 @@ http://vcpkgx.com/details.html?package=zxc
 http://vcpkgx.com/details.html?package=boost-cobalt
 http://vcpkgx.com/details.html?package=plf-stack
 http://vcpkgx.com/details.html?package=gz-math
+http://vcpkgx.com/details.html?package=mateopedersen-betacalendars-calendar-layout
 http://vcpkgx.com/details.html?package=quadtree
 http://vcpkgx.com/details.html?package=microsoft-gacl
 http://vcpkgx.com/details.html?package=geogram
