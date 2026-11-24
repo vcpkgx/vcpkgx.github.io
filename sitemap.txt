@@ -896,6 +896,7 @@ http://vcpkgx.com/details.html?package=g3log
 http://vcpkgx.com/details.html?package=red0124-ssp
 http://vcpkgx.com/details.html?package=lerc
 http://vcpkgx.com/details.html?package=libwebp
+http://vcpkgx.com/details.html?package=modemmanager-headers
 http://vcpkgx.com/details.html?package=wasmedge
 http://vcpkgx.com/details.html?package=magnum
 http://vcpkgx.com/details.html?package=nanosvg
